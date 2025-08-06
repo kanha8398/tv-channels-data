@@ -1,87 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="9XM.in",9XM (576p)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
-#EXTINF:-1 tvg-id="ManoramaNews.in@SD",Manorama News (1080p)
-https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
-#EXTINF:-1 tvg-id="Mastiii.in@SD",Mastiii (1080p)
-https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
-#EXTINF:-1 tvg-id="MathrubhumiNews.in@SD",Mathrubhumi News (576p) [Not 24/7]
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
-#EXTINF:-1 tvg-id="Mayyazhi.in",Mayyazhi (720p) [Not 24/7]
-http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MazhavilManorama.in",Mazhavil Manorama (396p)
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
-#EXTINF:-1 tvg-id="MercyTV.in",Mercy TV (1080p)
-https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
-#EXTINF:-1 tvg-id="MetroTV.in",Metro TV (576p)
-https://2nbyjxw5l53k-hls-live.qezycdn.com/metrotv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Mh1Music.in",MH One Music (1080p)
-https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Mh1News.in",MH One News (1080p)
-https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MHOneShraddha.in",MH One Shraddha (1080p)
-https://mhlive.paramountinfosystem.com/mhoneshraddhatest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MirrorNow.in",Mirror Now (720p)
-https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
-#EXTINF:-1 tvg-id="MKSix.in@SD",MK Six (720p) [Not 24/7]
-https://cdn-3.pishow.tv/live/1253/master.m3u8
-#EXTINF:-1 tvg-id="MKTunes.in",MK Tunes (720p) [Not 24/7]
-https://cdn-3.pishow.tv/live/433/master.m3u8
-#EXTINF:-1 tvg-id="MKTV.in@SD",MK TV (720p) [Not 24/7]
-https://cdn-3.pishow.tv/live/1482/master.m3u8
-#EXTINF:-1 tvg-id="MarutamTV.in",MNTV (1080p)
-https://mntv.livebox.co.in/mntvhls/live.m3u8
-#EXTINF:-1 tvg-id="MarutamMusic.in",MNTV Music (1080p)
-https://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:-1 tvg-id="MoonTV.in",Moon TV (720p)
-https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
-#EXTINF:-1 tvg-id="MTV.in",MTV HD
-http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
-#EXTINF:-1 tvg-id="MusicIndia.in@SD",Music India (720p) [Not 24/7]
-https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-id="NambikkaiTV.in",Nambikkai TV (576p)
-https://live.wmncdn.net/nambikkaitv/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="NamdhariTV.in",Namdhari (404p) [Not 24/7]
-https://namdhari.tv/live/sbs1.m3u8
-#EXTINF:-1 tvg-id="NandighoshaTV.in",Nandighosha TV (720p)
-https://www.nandighoshatvlive.com/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="NaxatraNews.in",Naxatra News (720p)
-https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
-#EXTINF:-1 tvg-id="NazranaMusic.in",Nazrana (720p) [Not 24/7]
-https://live.hungama.com/linear/nazrana/playlist.m3u8
-#EXTINF:-1 tvg-id="NCV.in",NCV (720p)
-http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8
-#EXTINF:-1 tvg-id="NDTV24x7.in",NDTV 24X7 (480p) [Not 24/7]
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-id="NDTVIndia.in",NDTV India (480p) [Not 24/7]
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-id="NDTVProfit.in",NDTV Profit (480p)
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
-#EXTINF:-1 tvg-id="NDTVProfit.in",NDTV Profit (480p) [Not 24/7]
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
-#EXTINF:-1 tvg-id="NDTVProfit.in",NDTV Profit [Geo-blocked]
-https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="News1st.in@SD",News 1st (576p) [Not 24/7]
-https://yuppftalive.akamaized.net/080823/news1st/playlist.m3u8
-#EXTINF:-1 tvg-id="News11.in",News 11 (360p)
-https://rtmp.smartstream.video/news11/news11/playlist.m3u8
-#EXTINF:-1 tvg-id="News24.in",News 24 (720p)
-https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsLive.in",News Live (720p)
-https://5b48d7e1b4bce.streamlock.net/myapp/newslive/playlist.m3u8
-#EXTINF:-1 tvg-id="NickHDPlus.in@SD",Nick HD+ (1080p) [Not 24/7]
-http://116.90.120.149:8000/play/a0cw/index.m3u8
-#EXTINF:-1 tvg-id="DDAssam.in",DD Assam
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2192ea99-acab-475f-9761-615270547cd8/2.m3u8
-#EXTINF:-1 tvg-id="DDBangla.in",DD Bangla
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
-#EXTINF:-1 tvg-id="DDChandana.in",DD Chandana
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3829f99b-4951-4a9d-98c1-dbc3acfe5193/2.m3u8
-#EXTINF:-1 tvg-id="DDGirnar.in",DD Girnar
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/4a7a0c8a-c58d-43d6-baff-13492d67bf3e/2.m3u8
-#EXTINF:-1 tvg-id="DDHaryana.in",DD Haryana
-https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
-#EXTINF:-1 tvg-id="AajTak.in",Aaj Tak (404p)
-https://www.nandighoshatvlive.com/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="AajTak.in",Aaj Tak (360p) [Geo-blocked]
-https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Arihant.in",Arihant  
+https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8  
+
+#EXTINF:-1 tvg-id="Nazara.in@SD",Nazara TV (1080p)  
+https://epiconvh.s.llnwi.net/nazara/master.m3u8  
+
+#EXTINF:-1 tvg-id="Dangal2.in",Dangal 2  
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8  
+
+#EXTINF:-1 tvg-id="IsharaTV.in@SD",Ishara TV (1080p)  
+https://epiconvh.s.llnwi.net/ishaara/master.m3u8  
+
+#EXTINF:-1 tvg-id="SonyKALHindi.us",Sony Kal (1080p)  
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8  
+
+#EXTINF:-1 tvg-id="ZeeOne.in",Zee One  
+https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/playlist.m3u8  
+
+#EXTINF:-1 tvg-id="Dabangg.in@SD",Dabangg TV  
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/c6bb7ca2-3d87-4dac-89d8-648f7c5629aa/0.m3u8  
+
+#EXTINF:-1 tvg-id="Enter10Bangla.in@SD",Enter 10 Bangla (720p)  
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8  
