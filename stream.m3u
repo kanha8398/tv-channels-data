@@ -22,3 +22,300 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-id="Enter10Bangla.in@SD",Enter 10 Bangla (720p)  
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8  
+#EXTM3U
+#EXTINF:-1 tvg-id="ANDTv.in",AND Tv
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoviesAction.in",Movies Action
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_1.m3u8
+
+#EXTINF:-1 tvg-id="OscarMovies.in",Oscer Movies
+https://cdn-4.pishow.tv/live/233/master.m3u8
+
+#EXTINF:-1 tvg-id="WowCinema.in",Wow Cinema
+https://cdn-2.pishow.tv/live/231/master.m3u8
+
+#EXTINF:-1 tvg-id="B4uKadak.in",B4u Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8
+
+#EXTINF:-1 tvg-id="B4uMovies.in",B4u Movies
+https://cdn-2.pishow.tv/live/419/master.m3u8
+
+#EXTINF:-1 tvg-id="B4uMovies.in",B4u Movies
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4557ddf5-1c4d-4249-8107-c01212b917ec/0.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanMovies.in",Manoranjan Movies
+https://cdn-2.pishow.tv/live/228/master.m3u8
+
+#EXTINF:-1 tvg-id="BhojpuriCinema.in",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Filamchi.in",Filamchi
+https://epiconvh.s.llnwi.net/filamchi/master.m3u8
+
+#EXTINF:-1 tvg-id="MoviesHouse.in",Movies House
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+
+#EXTINF:-1 tvg-id="MahaMovies.in",Maha Movies
+https://idvd.multitvsolution.com/idvo/mahamovie.m3u8
+
+#EXTINF:-1 tvg-id="BflixMovies.in",Bflix Movies
+https://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooBollywood.in",Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines1.in",Goldmines 1
+https://cdn-2.pishow.tv/live/1461/1461_0.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines2.in",Goldmines 2
+https://cdn-2.pishow.tv/live/1460/1460_1.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines3.in",Goldmines 3
+https://cdn-2.pishow.tv/live/1459/1459_2.m3u8
+
+#EXTINF:-1 tvg-id="Cinelife.in",Cinelife
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinelife/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MovieSphereUK.in",Movie Sphereuk
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodClassic.in",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodHD.in",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+
+#EXTINF:-1 tvg-id="MoviesBangla.in",Movies Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 tvg-id="PlusBangla.in",PLUS BANGLA
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 tvg-id="Enter10Bangla.in",Enter 10 Bangla
+https://cdn-4.pishow.tv/live/241/master.m3u8
+
+#EXTINF:-1 tvg-id="TheMovieClub.in",The Movie Club
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StarGold.in",STAR GOLD
+https://nijineh-lalajo.hf.space/proxy?url=38.96.178.201/live/StarGold/index.m3u8
+
+#EXTINF:-1 tvg-id="JalshaMovies.in",JalshaMovies
+https://nijineh-lalajo.hf.space/proxy?url=38.96.178.201/live/JalshaMovies/index.m3u8
+
+#EXTINF:-1 tvg-id="NickToon.in",Nick Toon
+https://cors-anywhere.ammoapps.com/http://iptv.prosto.tv:7000/ch70/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJunior.in",Nick Junior
+https://cors-anywhere.ammoapps.com/http://iptv.prosto.tv:7000/ch72/index.m3u8
+
+#EXTINF:-1 tvg-id="POGO.in",POGO
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork.in",CARTOON NETWORK
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+
+#EXTINF:-1 tvg-id="JungleeBook.in",JUNGLEE BOOK
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+#EXTINF:-1 tvg-id="Rongeentv.in",Rongeentv
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MnetKids.in",Mnet Kids
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+
+#EXTINF:-1 tvg-id="Gubbare.in",Gubbare
+https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8?
+
+#EXTINF:-1 tvg-id="SpaceToon.in",SpaceToon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZoomZoom.in",ZoomZoom
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kidsflix.in",kidsflix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-id="Ch4kids.in",Ch4kids
+http://ch14.tv/live/ch4teenkids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sat7Kids.in",Sat7 Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RushCartoon.in",Rush Cartoon
+https://streaming.televizor-24-tochka.ru/live/232.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.in",Disney junior
+https://nijineh-lalajo.hf.space/proxy?url=88.212.15.19/live/test_disney_junior/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DisneyTv.in",Disney Tv
+https://nijineh-lalajo.hf.space/proxy?url=88.212.15.19/live/test_disney/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MiniMax.in",MiniMax
+https://nijineh-lalajo.hf.space/proxy?url=88.212.15.19/live/test_minimax/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.in",Nicktoons
+https://nijineh-lalajo.hf.space/proxy?url=88.212.15.19/live/test_nicktoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryHindi.in",History Hindi
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HISTORY2.in",HISTORY 2
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.in",Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
+#EXTINF:-1 tvg-id="AdventureEarth.in",Adventure Earth
+https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TravelXP.in",Travel XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryPak.in",Discovery Pak
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryAsia.in",Discovery Asia
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+
+#EXTINF:-1 tvg-id="CNA.in",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryScience.in",Discovery Science
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
+
+#EXTINF:-1 tvg-id="SantvaniTv.in",Santvani Tv
+https://cdn-2.pishow.tv/live/475/master.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooBhakti.in",Shemaroo Bhakti
+https://bhaktiapp.shemaroo.com/pratishirdi/smil:pratishirdisel.smil/chunklist_b1128000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Mh1Shardha.in",Mh1 Shardha
+https://mhlive.paramountinfosystem.com/mhoneshraddhatest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SadhanaDigital.in",Sadhana Digital
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
+
+#EXTINF:-1 tvg-id="SadhanaTv.in",Sadhana Tv
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SanskarHD.in",Sanskar HD
+https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
+#EXTINF:-1 tvg-id="SanskarDigital.in",Sanskar Digital
+https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
+
+#EXTINF:-1 tvg-id="SatsangDigital.in",Satsang Digital
+https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+
+#EXTINF:-1 tvg-id="SubhTv.in",Subh Tv
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
+
+#EXTINF:-1 tvg-id="VedicTv.in",Vedic Tv
+https://aasthaott.akamaized.net/110923/smil:vedic.smil/chunklist_b464000.m3u8
+
+#EXTINF:-1 tvg-id="SagaMusic.in",Saga Music
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/5e027b28-fb0e-49cc-9962-44babcc450ce/0.m3u8
+
+#EXTINF:-1 tvg-id="SagaMusicPunjabi.in",Saga Music Punjabi
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SagaMusicHariyanvi.in",Saga Music Hariyanvi
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YrfMusic.in",Yrf Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooMusic.in",Shemaroo Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+
+#EXTINF:-1 tvg-id="Pitaara.in",Pitaara
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01864-pitaaratv-pitaarain-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Maibolin.in",Maibolin
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-maiboliin-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JooMusic.in",Joo Music
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="V2BITS.in",V2 BITS
+https://de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AtnMusic.in",Atn Music
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVLIVE.in",MTV LIVE
+https://cors-anywhere.ammoapps.com/fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="ZING.in",ZING
+https://nijineh-lalajo.hf.space/proxy?url=38.96.178.201:80/live/Zing/index.m3u8
+
+#EXTINF:-1 tvg-id="Dhoom.in",Dhoom
+https://nijineh-lalajo.hf.space/proxy?url=38.96.178.201/live/Dhoom/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBiharJh.in",Zee News Bh Jh
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBiharJh.in",Zee Bihar jh
+https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="ZeeHaryana.in",Zee Haryana
+https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
+
+#EXTINF:-1 tvg-id="ZeeDelhi.in",Zee Delhi
+https://d2s40ae9uabrl.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBharat.in",Zee Bharat
+https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
+
+#EXTINF:-1 tvg-id="ABPGANGA.in",ABP GANGA
+https://abplivetv.akamaized.net/hls/live/2043013/hindi/master.m3u8
+
+#EXTINF:-1 tvg-id="ABPANANDA.in",ABP ANANDA
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
+
+#EXTINF:-1 tvg-id="AbpAnanda.in",Abp Ananda
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INDIA.in",INDIA TODAY
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 tvg-id="AajTakHD.in",Aaj Tak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="GNT.in",GNT
+https://tezlive-amd.akamaized.net/hls/live/2016145-b/gnt/gntlive/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="RepublicBangla.in",Republic Bangla
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NdtvMp.in",Ndtv Mp
+https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/chunklist_0.m3u8
+
+#EXTINF:-1 tvg-id="NdtvRajasthan.in",Ndtv Rajasthan
+https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/chunklist_0.m3u8
+
+#EXTINF:-1 tvg-id="News18MP.in",NEWS 18 MP
+https://nw18live.cdn.jio.com/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="News18UP.in",NEWS 18 UP
+https://nw18live.cdn.jio.com/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="News18BHJH.in",NEWS 18 BH JH
+https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="News18BANGLA.in",NEWS 18 BANGLA
+https://nw18live.cdn.jio.com/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="News18RAJASTHAN.in",NEWS 18 RAJASTHAN
+https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="News18HARYANA.in",NEWS 18 HARYANA
+https://nw18live.cdn.jio.com/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="News18Urdu.in",News 18 Urdu
+https://nw18live.cdn.jio.com/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN.in",CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
