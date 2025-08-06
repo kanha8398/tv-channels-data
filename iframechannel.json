@@ -3,14 +3,14 @@
     "name": "Aaj Tak",
     "tvgId": "AajTak.in",
     "iframeUrl": "https://tvlive.wapka.website/yupptv?id=12",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Aaj_Tak_logo.svg/1200px-Aaj_Tak_logo.svg.png",
+    "logo": "https://live.dinesh29.com.np/logos/jiotv/aajtak.png",
     "category": "news"
   },
   {
     "name": "Example Channel 2",
     "tvgId": "Example2.in",
-    "iframeUrl": "https://example.com/stream2",
-    "logo": "https://example.com/logo2.png",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Sports18_1_SD",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png'",
     "category": "entertainment"
   }
 ]
