@@ -1,5 +1,10 @@
 {
-  "AajTak.in": "https://live.dinesh29.com.np/logos/jiotv/aajtak.png",
-  "9XM.in": "https://jiotvimages.cdn.jio.com/dare_images/images/9XM.png",
-  
+  "AajTak.in": {
+    "logo": "https://live.dinesh29.com.np/logos/jiotv/aajtak.png",
+    "category": "news"
+  },
+  "9XM.in": {
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9XM.png",
+    "category": "music"
+  }
 }
