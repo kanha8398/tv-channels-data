@@ -5,10 +5,34 @@
       "name": "Odia FM",
       "stations": [
         {
-          "id": "mirchi",
-          "name": "Radio Mirchi",
-          "logo": "https://onlineradiofm.in/assets/image/radio/180/radio-mirchi.webp",
-          "streamUrl": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444"
+          "id": "air-odia",
+          "name": "Air Odia",
+          "logo": "https://onlineradiofm.in/assets/image/radio/180/air-odia.jpg",
+          "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8"
+        },
+        {
+          "id": "air-bhawanipatna",
+          "name": "AIR Bhawanipatna",
+          "logo": "https://onlineradiofm.in/assets/image/radio/180/bhawanipatna-air.jpg",
+          "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio120/playlist.m3u8"
+        },
+        {
+          "id": "radio-chocolate",
+          "name": "Radio chocolate 104fm",
+          "logo": "https://onlineradiofm.in/assets/image/radio/180/Radio-Choklate-Remixradios-300x201.jpg",
+          "streamUrl": "https://stream.zeno.fm/1t5ceyhcxbruv"
+        },
+        {
+          "id": "air-rainbow-cuttack",
+          "name": "Air Rainbow Cuttack 101.3 FM",
+          "logo": "https://onlineradiofm.in/assets/image/radio/180/fm-rainbow-cuttack.jpg",
+          "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8"
+        },
+        {
+          "id": "vividh-bharati-cuttack",
+          "name": "Vividh Bharati Cuttack 100.4 FM",
+          "logo": "https://onlineradiofm.in/assets/image/radio/180/vbc-cuttack.jpg",
+          "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8"
         }
       ]
     },
@@ -17,10 +41,58 @@
       "name": "Hindi FM",
       "stations": [
         {
-          "id": "city",
-          "name": "Radio City",
+          "id": "radio-city",
+          "name": "Radio City 91.1 FM",
+          "logo": "https://onlineradiofm.in/assets/image/radio/180/radiocity9911.webp",
+          "streamUrl": "https://stream.zeno.fm/pxc55r5uyc9uv"
+        },
+        {
+          "id": "radio-mirchi",
+          "name": "Radio Mirchi 98.3 FM",
+          "logo": "https://onlineradiofm.in/assets/image/radio/180/radio-mirchi.webp",
+          "streamUrl": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444"
+        },
+        {
+          "id": "vividh-bharati",
+          "name": "Vividh Bharati",
+          "logo": "https://onlineradiofm.in/assets/image/radio/180/vividh_bharati.webp",
+          "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8"
+        },
+        {
+          "id": "big-fm",
+          "name": "Big FM 92.7",
           "logo": "https://onlineradiofm.in/assets/image/radio/180/big-fm.webp",
-          "streamUrl": "https://stream.zeno.fm/1t5ceyhcxbruv"
+          "streamUrl": "https://stream.zeno.fm/dbstwo3dvhhtv"
+        },
+        {
+          "id": "air-fm-gold",
+          "name": "Air FM Gold",
+          "logo": "https://onlineradiofm.in/assets/image/radio/180/fmgold.webp",
+          "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8"
+        },
+        {
+          "id": "air-fm-rainbow",
+          "name": "Air FM Rainbow 107.1 FM",
+          "logo": "https://onlineradiofm.in/assets/image/radio/180/all-india-air.webp",
+          "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8"
+        },
+        {
+          "id": "all-india-radio",
+          "name": "All India Radio Live",
+          "logo": "https://onlineradiofm.in/assets/image/radio/180/air_live.webp",
+          "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8"
+        },
+        {
+          "id": "radio-hungama",
+          "name": "Radio Hungama 90s Once Again",
+          "logo": "https://onlineradiofm.in/assets/image/radio/180/Hungama90sOnceAgain.webp",
+          "streamUrl": "https://stream.zeno.fm/rm4i9pdex3cuv"
+        },
+        {
+          "id": "bbc-hindi",
+          "name": "BBC Hindi Radio",
+          "logo": "https://onlineradiofm.in/assets/image/radio/180/bbc-hindi.webp",
+          "streamUrl": "https://server.mixify.in:8010/radio.mp3"
         }
       ]
     }
