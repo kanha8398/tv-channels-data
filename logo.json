@@ -1,17 +1,7 @@
 {
-  "AajTak.in": {
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Aaj_Tak_logo.svg/1280px-Aaj_Tak_logo.svg.png",
-    "category": "news"
-  },
-  "9XM.in": {
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9XM.png",
-    "category": "music"
-  }
-
-  {
   "6TVTelugu.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/6TV_Telugu.png",
-    "category": "regional"
+    "category": "entertainment"
   },
   "7SMusic.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/7S_Music.png",
@@ -39,23 +29,23 @@
   },
   "Aastha.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png",
-    "category": "spiritual"
+    "category": "entertainment"
   },
   "AasthaBhajan.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",
-    "category": "spiritual"
+    "category": "entertainment"
   },
   "AasthaKannada.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Kannada.png",
-    "category": "spiritual"
+    "category": "entertainment"
   },
   "AasthaTamil.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Tamil.png",
-    "category": "spiritual"
+    "category": "entertainment"
   },
   "AasthaTelugu.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Telugu.png",
-    "category": "spiritual"
+    "category": "entertainment"
   },
   "ABPAnanda.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ananda.png",
@@ -91,7 +81,7 @@
   },
   "B4UMovies.in@India": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Movies.png",
-    "category": "movies"
+    "category": "entertainment"
   },
   "B4UMusic.in@India": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Music.png",
@@ -99,19 +89,19 @@
   },
   "BhakthiTV.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bhakti_TV.png",
-    "category": "spiritual"
+    "category": "entertainment"
   },
   "BhojpuriCinema.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png",
-    "category": "movies"
+    "category": "entertainment"
   },
   "CNBCBajar.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png",
-    "category": "business"
+    "category": "news"
   },
   "CNBCTV18.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Tv18.png",
-    "category": "business"
+    "category": "news"
   },
   "CNNNews18.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNN_NEWS_18.png",
@@ -127,15 +117,15 @@
   },
   "DDArunPrabha.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Arunprabha.png",
-    "category": "regional"
+    "category": "entertainment"
   },
   "DDBharati.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png",
-    "category": "educational"
+    "category": "entertainment"
   },
   "DDKisan.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png",
-    "category": "educational"
+    "category": "entertainment"
   },
   "DDNational.in@HD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png",
@@ -147,11 +137,11 @@
   },
   "DDSahyadri.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sahayadri.png",
-    "category": "regional"
+    "category": "entertainment"
   },
   "DDSaptagiri.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png",
-    "category": "regional"
+    "category": "entertainment"
   },
   "DDSports.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png",
@@ -159,7 +149,7 @@
   },
   "DDUrdu.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_urdu.png",
-    "category": "regional"
+    "category": "entertainment"
   },
   "DisneyChannel.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",
@@ -171,11 +161,11 @@
   },
   "ETNow.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ET_Now.png",
-    "category": "business"
+    "category": "news"
   },
   "ETNowSwadesh.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ET_Now_Swadesh.png",
-    "category": "business"
+    "category": "news"
   },
   "ETVAbhiruchi.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",
@@ -183,15 +173,15 @@
   },
   "ETVAndhraPradesh.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png",
-    "category": "regional"
+    "category": "entertainment"
   },
   "ETVCinema.in@HD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Cinema.png",
-    "category": "movies"
+    "category": "entertainment"
   },
   "ETVLife.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Life.png",
-    "category": "lifestyle"
+    "category": "entertainment"
   },
   "ETVPlus.in@HD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Plus.png",
@@ -199,23 +189,23 @@
   },
   "ETVTelangana.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Telangana.png",
-    "category": "regional"
+    "category": "entertainment"
   },
   "ETVTelugu.in@HD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Telugu.png",
-    "category": "regional"
+    "category": "entertainment"
   },
   "FaktMarathi.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Fakt_Marathi.png",
-    "category": "regional"
+    "category": "entertainment"
   },
   "FoodFood.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png",
-    "category": "lifestyle"
+    "category": "entertainment"
   },
   "HistoryTV18.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png",
-    "category": "documentary"
+    "category": "entertainment"
   },
   "IndiaToday.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png",
@@ -227,7 +217,7 @@
   },
   "JayaTV.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png",
-    "category": "regional"
+    "category": "entertainment"
   },
   "KairaliNews.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png",
@@ -263,7 +253,7 @@
   },
   "NDTVProfit.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Profit.png",
-    "category": "business"
+    "category": "news"
   },
   "NickHDPlus.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",
@@ -287,7 +277,7 @@
   },
   "PolimerTV.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_TV.png",
-    "category": "regional"
+    "category": "entertainment"
   },
   "PTCNews.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_News.png",
@@ -295,7 +285,7 @@
   },
   "PTCPunjabi.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/PTC_Punjabi.png",
-    "category": "regional"
+    "category": "entertainment"
   },
   "PublicTV.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Public_TV.png",
@@ -315,19 +305,19 @@
   },
   "SanskarTV.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png",
-    "category": "spiritual"
+    "category": "entertainment"
   },
   "SatsangTV.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Satsang_TV.png",
-    "category": "spiritual"
+    "category": "entertainment"
   },
   "Shalom.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Shalom.png",
-    "category": "spiritual"
+    "category": "entertainment"
   },
   "StarGold.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold.png",
-    "category": "movies"
+    "category": "entertainment"
   },
   "StarSports1.in@HD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png",
@@ -351,7 +341,7 @@
   },
   "TravelXP.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP.png",
-    "category": "lifestyle"
+    "category": "entertainment"
   },
   "TV9Bharatvarsh.in": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png",
@@ -387,7 +377,7 @@
   },
   "ZeeBusiness.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",
-    "category": "business"
+    "category": "news"
   },
   "ZeeNews.in@SD": {
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",
@@ -397,5 +387,4 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png",
     "category": "music"
   }
-}
 }
