@@ -19,8 +19,8 @@
         {
           "id": "city",
           "name": "Radio City",
-          "logo": "https://example.com/city-logo.jpg",
-          "streamUrl": "https://radio-stream-url.com/city"
+          "logo": "https://onlineradiofm.in/assets/image/radio/180/big-fm.webp",
+          "streamUrl": "https://stream.zeno.fm/redfm"
         }
       ]
     }
