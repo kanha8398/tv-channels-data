@@ -1,28 +1,28 @@
 {
-  "stations": [
+  "categories": [
     {
-      "id": "mirchi",
-      "name": "Radio Mirchi",
-      "logo": "https://onlineradiofm.in/assets/image/radio/180/radio-mirchi.webp",
-      "streamUrl": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444"
+      "id": "odia",
+      "name": "Odia FM",
+      "stations": [
+        {
+          "id": "mirchi",
+          "name": "Radio Mirchi",
+          "logo": "https://example.com/mirchi-logo.jpg",
+          "streamUrl": "https://radio-stream-url.com/mirchi"
+        }
+      ]
     },
     {
-      "id": "bigfm",
-      "name": "BIG FM",
-      "logo": "https://onlineradiofm.in/assets/image/radio/180/big-fm.webp",
-      "streamUrl": "https://stream.zeno.fm/dbstwo3dvhhtv"
-    },
-    {
-      "id": "redfm",
-      "name": "Red FM",
-      "logo": "https://onlineradiofm.in/assets/image/radio/180/red-fm.webp",
-      "streamUrl": "https://stream.zeno.fm/redfm"
-    },
-    {
-      "id": "airvividh",
-      "name": "AIR Vividh Bharati",
-      "logo": "https://onlineradiofm.in/assets/image/radio/180/vividh-bharati.webp",
-      "streamUrl": "https://stream.zeno.fm/airvividh"
+      "id": "hindi",
+      "name": "Hindi FM",
+      "stations": [
+        {
+          "id": "city",
+          "name": "Radio City",
+          "logo": "https://example.com/city-logo.jpg",
+          "streamUrl": "https://radio-stream-url.com/city"
+        }
+      ]
     }
   ]
 }
