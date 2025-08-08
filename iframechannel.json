@@ -1,16 +1,149 @@
 [
   {
-    "name": "Aaj Tak",
-    "tvgId": "AajTak.in",
-    "iframeUrl": "https://tvlive.wapka.website/yupptv?id=12",
-    "logo": "https://live.dinesh29.com.np/logos/jiotv/aajtak.png",
-    "category": "news"
+    "name": "Colors SD",
+    "tvgId": "ColorsSD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Colors_SD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png",
+    "category": "entertainment"
   },
   {
-    "name": "Star sports 2 hindi",
-    "tvgId": "Starsports2hindi.in",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Sports18_1_SD",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png",
+    "name": "Colors HD",
+    "tvgId": "ColorsHD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Colors_HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
+    "category": "entertainment"
+  },
+  {
+    "name": "Star Sports 2 Hindi HD",
+    "tvgId": "StarSports2HindiHD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Sports18_1_HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png",
     "category": "sports"
+  },
+  {
+    "name": "Star Sports khel",
+    "tvgId": "StarSportsKhel.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Sports18_Khel",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png",
+    "category": "sports"
+  },
+  {
+    "name": "MTV",
+    "tvgId": "MTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=MTV",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",
+    "category": "music"
+  },
+  {
+    "name": "MTV HD Plus",
+    "tvgId": "MTVHDPlus.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=MTV_HD_Plus",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",
+    "category": "music"
+  },
+  {
+    "name": "MTV Beats SD",
+    "tvgId": "MTVBeatsSD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=MTV_Beats_SD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",
+    "category": "music"
+  },
+  {
+    "name": "MTV Beats HD",
+    "tvgId": "MTVBeatsHD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=MTV_Beats_HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",
+    "category": "music"
+  },
+  {
+    "name": "Sonic Nickelodeon",
+    "tvgId": "SonicNickelodeon.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Sonic_Nickelodeon",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Nickelodeon.png",
+    "category": "kids"
+  },
+  {
+    "name": "Nick Hindi",
+    "tvgId": "NickHindi.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Nick_Hindi",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",
+    "category": "kids"
+  },
+  {
+    "name": "Nick HD Plus",
+    "tvgId": "NickHDPlus.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Nick_HD_Plus",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD_Plus.png",
+    "category": "kids"
+  },
+  {
+    "name": "Nick Junior",
+    "tvgId": "NickJunior.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Nick_Junior",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",
+    "category": "kids"
+  },
+  {
+    "name": "Colors Infinity SD",
+    "tvgId": "ColorsInfinitySD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Colors_Infinity_SD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",
+    "category": "entertainment"
+  },
+  {
+    "name": "Colors Infinity HD",
+    "tvgId": "ColorsInfinityHD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Colors_Infinity_HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",
+    "category": "entertainment"
+  },
+  {
+    "name": "Colors Super",
+    "tvgId": "ColorsSuper.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Colors_Super",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png",
+    "category": "entertainment"
+  },
+  {
+    "name": "Colors Cineplex",
+    "tvgId": "ColorsCineplex.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Colors_Cineplex",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
+    "category": "entertainment"
+  },
+  {
+    "name": "Color Cineplex HD",
+    "tvgId": "ColorCineplexHD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Color_Cineplex_HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",
+    "category": "entertainment"
+  },
+  {
+    "name": "Rishtey Cineplex",
+    "tvgId": "RishteyCineplex.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Rishtey_Cineplex",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",
+    "category": "entertainment"
+  },
+  {
+    "name": "Colors Cineplex Bollywood",
+    "tvgId": "ColorsCineplexBollywood.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Colors_Cineplex_Bollywood",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
+    "category": "entertainment"
+  },
+  {
+    "name": "Rishtey",
+    "tvgId": "Rishtey.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Rishtey",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",
+    "category": "entertainment"
+  },
+  {
+    "name": "Colors Oriya",
+    "tvgId": "ColorsOriya.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Colors_Oriya",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png",
+    "category": "entertainment"
   }
 ]
