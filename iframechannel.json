@@ -159,5 +159,1993 @@
     "iframeUrl": "https://tvgo.neocities.org/APPTV/cricket?id=Star_Sports",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports.png",
     "category": "cricket"
+  },
+  {
+    "name": "Nick Junior TV",
+    "tvgId": "NickJuniorTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=544",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Junior.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Nick Hindi TV",
+    "tvgId": "NickHindiTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=545",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Hindi.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Nick Tamil",
+    "tvgId": "NickTamil.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=546",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Tamil.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Nickelodeon Jr TV",
+    "tvgId": "NickelodeonJrTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=548",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Discovery Kids Tamil",
+    "tvgId": "DiscoveryKidsTamil.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=550",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "TEST14 HD",
+    "tvgId": "TEST14HD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=551",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TEST14_HD.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Discovery Kids 2",
+    "tvgId": "DiscoveryKids2.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=554",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Chintu TV",
+    "tvgId": "ChintuTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=555",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Chintu_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Kochu TV",
+    "tvgId": "KochuTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=556",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Kochu_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Chutti TV",
+    "tvgId": "ChuttiTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=557",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Chutti_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Kushi TV",
+    "tvgId": "KushiTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=558",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Kushi_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Pogo Hindi",
+    "tvgId": "PogoHindi.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=559",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pogo_Hindi.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Good Times",
+    "tvgId": "GoodTimes.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=560",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Good_Times.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Food Food",
+    "tvgId": "FoodFood.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=561",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Travelxp HD Hindi",
+    "tvgId": "TravelxpHDHindi.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=562",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Kaumudy TV",
+    "tvgId": "KaumudyTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=563",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Kaumudy_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "ETV Abhiruchi",
+    "tvgId": "ETVAbhiruchi.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=565",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Animal Planet Hindi",
+    "tvgId": "AnimalPlanetHindi.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=566",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Animal Planet English",
+    "tvgId": "AnimalPlanetEnglish.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=567",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_English.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Discovery Science",
+    "tvgId": "DiscoveryScience.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=568",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Discovery Tamil",
+    "tvgId": "DiscoveryTamil.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=569",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "ETV Life",
+    "tvgId": "ETVLife.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=570",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Life.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "TLC Hindi",
+    "tvgId": "TLCHindi.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=571",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TLC_Hindi.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Discovery Channel Bengali",
+    "tvgId": "DiscoveryChannelBengali.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=573",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "TLC English",
+    "tvgId": "TLCEnglish.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=574",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TLC_English.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Discovery Channel Hindi",
+    "tvgId": "DiscoveryChannelHindi.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=575",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Discovery Channel Telugu",
+    "tvgId": "DiscoveryChannelTelugu.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=576",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "History TV18 HD Telugu",
+    "tvgId": "HistoryTV18HDTelugu.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=577",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Telugu.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "History TV18 HD Hindi",
+    "tvgId": "HistoryTV18HDHindi.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=578",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Hindi.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "History TV18 HD Tamil",
+    "tvgId": "HistoryTV18HDTamil.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=579",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/History_18_Tamil.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Bharati",
+    "tvgId": "DDBharati.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=580",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Kisan",
+    "tvgId": "DDKisan.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=583",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Mastiii",
+    "tvgId": "Mastiii.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=584",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mastiii.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zing",
+    "tvgId": "Zing.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=585",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "9XM",
+    "tvgId": "9XM.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=587",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9XM.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "E 24",
+    "tvgId": "E24.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=591",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/E_24.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sadhna",
+    "tvgId": "Sadhna.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=593",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Aastha Bhajan",
+    "tvgId": "AasthaBhajan.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=594",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Jinvani TV",
+    "tvgId": "JinvaniTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=596",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jinvani_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Satsang TV",
+    "tvgId": "SatsangTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=597",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Satsang_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sri Venkateshwar Bhakti",
+    "tvgId": "SriVenkateshwarBhakti.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=598",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Disha TV",
+    "tvgId": "DishaTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=599",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Disha_tv.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Ishwar TV",
+    "tvgId": "IshwarTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=601",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ishwar_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Paras TV",
+    "tvgId": "ParasTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=602",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Paras_tv.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Nambikkai",
+    "tvgId": "Nambikkai.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=603",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nambikkai.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Channel Win",
+    "tvgId": "ChannelWin.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=605",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Channel_Win.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Shalom",
+    "tvgId": "Shalom.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=606",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Shalom.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Subhavartha TV",
+    "tvgId": "SubhavarthaTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=607",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Subhavartha_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Shubhsandesh TV",
+    "tvgId": "ShubhsandeshTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=608",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "MH1 Shraddha",
+    "tvgId": "MH1Shraddha.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=609",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Shraddha.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Darshan 24",
+    "tvgId": "Darshan24.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=611",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Darshan_24.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "ABP Majha",
+    "tvgId": "ABPMajha.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=612",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Newslive",
+    "tvgId": "Newslive.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=613",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Newslive.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "ETV Andhra Pradesh",
+    "tvgId": "ETVAndhraPradesh.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=614",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News18 Tamilnadu",
+    "tvgId": "News18Tamilnadu.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=615",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "TV9 Gujarat",
+    "tvgId": "TV9Gujarat.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=616",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "TV9 Maharashtra",
+    "tvgId": "TV9Maharashtra.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=617",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Maharashtra.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "TV9 Telugu News",
+    "tvgId": "TV9TeluguNews.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=618",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "TV9 Karnataka",
+    "tvgId": "TV9Karnataka.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=619",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Karnataka.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News18 Gujarati",
+    "tvgId": "News18Gujarati.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=620",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Rang",
+    "tvgId": "Rang.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=623",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Rang.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Prag News",
+    "tvgId": "PragNews.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=624",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prag_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Suvarna News",
+    "tvgId": "SuvarnaNews.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=626",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Suvarna_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News18 Assam",
+    "tvgId": "News18Assam.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=627",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_18_Assam.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "ETV Telugu",
+    "tvgId": "ETVTelugu.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=629",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Telugu.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "ETV Telangana",
+    "tvgId": "ETVTelangana.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=630",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Telangana.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "MBC",
+    "tvgId": "MBC.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=631",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/MBC.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sakshi TV",
+    "tvgId": "SakshiTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=632",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sakshi_tv.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DY 365",
+    "tvgId": "DY365.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=633",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DY_365.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Flower TV",
+    "tvgId": "FlowerTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=634",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Flower_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Rengoni",
+    "tvgId": "Rengoni.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=635",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Rengoni.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Polimer News",
+    "tvgId": "PolimerNews.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=636",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "North East Live",
+    "tvgId": "NorthEastLive.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=637",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/North_East_Live.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Ramdhenu",
+    "tvgId": "Ramdhenu.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=639",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ramdhenu.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "ABP Asmita",
+    "tvgId": "ABPAsmita.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=641",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Asmita.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "VTV Gujarati",
+    "tvgId": "VTVGujarati.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=642",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/VTV_Gujarati.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "GS TV",
+    "tvgId": "GSTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=643",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/GS_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "NTV",
+    "tvgId": "NTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=646",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NTV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Pratidin Time",
+    "tvgId": "PratidinTime.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=647",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Pratidin_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Mazhavil Manorama",
+    "tvgId": "MazhavilManorama.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=648",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Raj News Malayalam",
+    "tvgId": "RajNewsMalayalam.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=650",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Raj News Kannada",
+    "tvgId": "RajNewsKannada.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=651",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Raj_News_Kannada.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News18 Kannada News",
+    "tvgId": "News18KannadaNews.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=653",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Kannada_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News18 Punjab Haryana",
+    "tvgId": "News18PunjabHaryana.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=655",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Manorama News",
+    "tvgId": "ManoramaNews.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=662",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Manorama_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Raj News Telugu",
+    "tvgId": "RajNewsTelugu.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=664",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Raj_News_Telugu.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "HM TV",
+    "tvgId": "HMTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=665",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/HM_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "ABN Andhra Jyothi",
+    "tvgId": "ABNAndhraJyothi.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=666",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "T News",
+    "tvgId": "TNews.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=667",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/T_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "TV5 News",
+    "tvgId": "TV5News.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=668",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV_5_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sathiyam TV",
+    "tvgId": "SathiyamTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=671",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sathiyam.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "ABP Ananda",
+    "tvgId": "ABPAnanda.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=672",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Ananda.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News7 Tamil",
+    "tvgId": "News7Tamil.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=673",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News7_Tamil.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Assam Talks",
+    "tvgId": "AssamTalks.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=675",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Assam_Talks.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sun News",
+    "tvgId": "SunNews.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=676",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Puthiya Thalaimurai",
+    "tvgId": "PuthiyaThalaimurai.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=677",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Udaya Movies",
+    "tvgId": "UdayaMovies.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=678",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_Movies.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Jaya Plus",
+    "tvgId": "JayaPlus.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=679",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Plus.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Jaya Max",
+    "tvgId": "JayaMax.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=680",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Vijay Super",
+    "tvgId": "StarVijaySuper.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=681",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Vijay_Super.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "J Movies",
+    "tvgId": "JMovies.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=682",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Colors Kannada Cinema",
+    "tvgId": "ColorsKannadaCinema.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=683",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Thirai",
+    "tvgId": "ZeeThirai.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=684",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Telugu",
+    "tvgId": "ZeeTelugu.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=685",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Kannada",
+    "tvgId": "ZeeKannada.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=686",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Vijay",
+    "tvgId": "StarVijay.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=687",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Vijay.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sun TV",
+    "tvgId": "SunTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=688",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "K TV",
+    "tvgId": "KTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=689",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KTV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sun Music",
+    "tvgId": "SunMusic.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=690",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Gemini TV",
+    "tvgId": "GeminiTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=691",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Udaya TV",
+    "tvgId": "UdayaTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=692",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Udaya_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Gemini Music",
+    "tvgId": "GeminiMusic.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=693",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Music.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Gemini Movies",
+    "tvgId": "GeminiMovies.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=694",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Gemini_Movies.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sun Life",
+    "tvgId": "SunLife.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=695",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Colors Tamil",
+    "tvgId": "ColorsTamil.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=696",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Colors Kannada",
+    "tvgId": "ColorsKannada.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=697",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Kannada.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Colors Marathi",
+    "tvgId": "ColorsMarathi.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=698",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Marathi",
+    "tvgId": "ZeeMarathi.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=699",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Suvarna",
+    "tvgId": "StarSuvarna.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=700",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Suvarna.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Jaya TV",
+    "tvgId": "JayaTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=701",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Asianet",
+    "tvgId": "Asianet.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=702",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Asianet.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Asianet Plus",
+    "tvgId": "AsianetPlus.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=703",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Asianet Movies",
+    "tvgId": "AsianetMovies.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=704",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Movies.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Surya TV",
+    "tvgId": "SuryaTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=705",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Surya_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Surya Movies",
+    "tvgId": "SuryaMovies.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=706",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Surya Music",
+    "tvgId": "SuryaMusic.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=707",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Surya Comedy",
+    "tvgId": "SuryaComedy.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=708",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Maa",
+    "tvgId": "StarMaa.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=709",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Maa_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Maa Movies",
+    "tvgId": "StarMaaMovies.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=710",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Maa Music",
+    "tvgId": "StarMaaMusic.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=711",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Music.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Maa Gold",
+    "tvgId": "StarMaaGold.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=712",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Gold.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Tamil",
+    "tvgId": "ZeeTamil.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=713",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News18 Kerala",
+    "tvgId": "News18Kerala.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=714",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News_Malyalam.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Keralam",
+    "tvgId": "ZeeKeralam.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=715",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Keralam.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News18 Urdu",
+    "tvgId": "News18Urdu.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=716",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Urdu.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News18 Bangla",
+    "tvgId": "News18Bangla.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=717",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News18 Odia",
+    "tvgId": "News18Odia.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=718",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News_Oriya.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News18 Bihar Jharkhand",
+    "tvgId": "News18BiharJharkhand.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=719",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Bihar_Jharkhand.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News18 Madhya Pradesh Chhattisgarh",
+    "tvgId": "News18MadhyaPradeshChhattisgarh.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=720",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_MP.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News18 Uttar Pradesh Uttarakhand",
+    "tvgId": "News18UttarPradeshUttarakhand.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=721",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_UP.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News18 Rajasthan",
+    "tvgId": "News18Rajasthan.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=722",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Rajasthan.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Colors Gujarati",
+    "tvgId": "ColorsGujarati.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=723",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Gujarati.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Colors Bangla",
+    "tvgId": "ColorsBangla.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=724",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bangla.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Bangla",
+    "tvgId": "ZeeBangla.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=725",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Jalsha",
+    "tvgId": "StarJalsha.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=726",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Jalsha Movies",
+    "tvgId": "StarJalshaMovies.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=727",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jalsha_Movies.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee 24 Ghanta",
+    "tvgId": "Zee24Ghanta.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=728",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Ghanta.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee 24 Taas",
+    "tvgId": "Zee24Taas.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=729",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Punjab Haryana Himachal",
+    "tvgId": "ZeePunjabHaryanaHimachal.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=730",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjab.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Odisha",
+    "tvgId": "ZeeOdisha.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=731",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Odisha.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Bihar Jharkhand",
+    "tvgId": "ZeeBiharJharkhand.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=732",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bihar.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Madhya Pradesh Chhattisgarh",
+    "tvgId": "ZeeMadhyaPradeshChhattisgarh.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=733",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_MPCG.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Rajasthan",
+    "tvgId": "ZeeRajasthan.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=734",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Rajasthan.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Uttar Pradesh Uttarakhand",
+    "tvgId": "ZeeUttarPradeshUttarakhand.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=735",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_UP.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Salaam",
+    "tvgId": "ZeeSalaam.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=736",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Delhi NCR Haryana",
+    "tvgId": "ZeeDelhiNCRHaryana.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=737",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Delhi_NCR.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Business",
+    "tvgId": "ZeeBusiness.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=738",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "CNBC Awaaz",
+    "tvgId": "CNBCAwaaz.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=739",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "CNBC TV18",
+    "tvgId": "CNBCTV18.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=740",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_TV18.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "ET Now",
+    "tvgId": "ETNow.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=741",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ET_Now.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News18 India",
+    "tvgId": "News18India.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=742",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Hindi.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Aaj Tak",
+    "tvgId": "AajTak.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=743",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "India Today",
+    "tvgId": "IndiaToday.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=744",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "NDTV India",
+    "tvgId": "NDTVIndia.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=745",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_India.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Times Now",
+    "tvgId": "TimesNow.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=746",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Times_Now.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Times Now Navbharat",
+    "tvgId": "TimesNowNavbharat.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=747",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee News",
+    "tvgId": "ZeeNews.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=748",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "India TV",
+    "tvgId": "IndiaTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=749",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/India_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News Nation",
+    "tvgId": "NewsNation.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=750",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News_Nation.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "News24",
+    "tvgId": "News24.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=751",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/News24.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "ABP News",
+    "tvgId": "ABPNews.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=752",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ABP_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Republic TV",
+    "tvgId": "RepublicTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=753",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Republic_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD News",
+    "tvgId": "DDNews.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=754",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "CNN News18",
+    "tvgId": "CNNNews18.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=755",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/CNN_News_18.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "BBC World News",
+    "tvgId": "BBCWorldNews.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=756",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/BBC_World_News.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "NDTV 24x7",
+    "tvgId": "NDTV24x7.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=757",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_24x7.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Al Jazeera",
+    "tvgId": "AlJazeera.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=758",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Al_Jazeera.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Russia Today",
+    "tvgId": "RussiaToday.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=759",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Russia_Today.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "WION",
+    "tvgId": "WION.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=760",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Wion.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Mirror Now",
+    "tvgId": "MirrorNow.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=761",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mirror_Now.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "TV9 Bharatvarsh",
+    "tvgId": "TV9Bharatvarsh.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=762",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Bharatvarsh.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Good News Today",
+    "tvgId": "GoodNewsToday.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=763",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Good_News_Today.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Bharat 24",
+    "tvgId": "Bharat24.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=764",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bharat_24.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Jio Cinema",
+    "tvgId": "JioCinema.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=765",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Cinema.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony Marathi",
+    "tvgId": "SonyMarathi.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=766",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony Sab",
+    "tvgId": "SonySab.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=767",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony Entertainment Television",
+    "tvgId": "SonyEntertainmentTelevision.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=768",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Entertainment_Television.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony Max",
+    "tvgId": "SonyMax.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=769",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony Max 2",
+    "tvgId": "SonyMax2.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=770",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_2.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony Pal",
+    "tvgId": "SonyPal.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=771",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony Six",
+    "tvgId": "SonySix.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=772",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony Ten 1",
+    "tvgId": "SonyTen1.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=773",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Ten_1.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony Ten 2",
+    "tvgId": "SonyTen2.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=774",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Ten_2.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony Ten 3",
+    "tvgId": "SonyTen3.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=775",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Ten_3.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony Ten 4",
+    "tvgId": "SonyTen4.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=776",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Ten_4.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony Aath",
+    "tvgId": "SonyAath.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=777",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Aath.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony BBC Earth",
+    "tvgId": "SonyBBCEarth.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=778",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_BBC_Earth.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony Yay",
+    "tvgId": "SonyYay.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=779",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sony Pix",
+    "tvgId": "SonyPix.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=780",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Plus",
+    "tvgId": "StarPlus.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=781",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Plus.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Bharat",
+    "tvgId": "StarBharat.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=782",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Gold",
+    "tvgId": "StarGold.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=783",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Movies",
+    "tvgId": "StarMovies.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=784",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Sports 1",
+    "tvgId": "StarSports1.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=785",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_1.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Sports 2",
+    "tvgId": "StarSports2.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=786",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_2.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Sports 3",
+    "tvgId": "StarSports3.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=787",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_3.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Sports First",
+    "tvgId": "StarSportsFirst.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=788",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_First.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Sports Hindi 1",
+    "tvgId": "StarSportsHindi1.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=789",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Hindi_1.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Sports Tamil 1",
+    "tvgId": "StarSportsTamil1.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=790",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Tamil_1.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Sports Telugu 1",
+    "tvgId": "StarSportsTelugu1.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=791",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Telugu_1.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Sports Kannada 1",
+    "tvgId": "StarSportsKannada1.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=792",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Kannada_1.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Sports Marathi 1",
+    "tvgId": "StarSportsMarathi1.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=793",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Marathi_1.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Sports Bangla 1",
+    "tvgId": "StarSportsBangla1.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=794",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Sports_Bangla_1.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Gold 2",
+    "tvgId": "StarGold2.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=795",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Gold Romance",
+    "tvgId": "StarGoldRomance.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=796",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Gold Thrills",
+    "tvgId": "StarGoldThrills.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=797",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Utsav",
+    "tvgId": "StarUtsav.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=798",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Star Utsav Movies",
+    "tvgId": "StarUtsavMovies.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=799",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Colors",
+    "tvgId": "Colors.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=800",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Colors Infinity",
+    "tvgId": "ColorsInfinity.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=801",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Colors Rishtey",
+    "tvgId": "ColorsRishtey.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=802",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Rishtey.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee TV",
+    "tvgId": "ZeeTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=803",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Cinema",
+    "tvgId": "ZeeCinema.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=804",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Anmol",
+    "tvgId": "ZeeAnmol.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=805",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Anmol Cinema",
+    "tvgId": "ZeeAnmolCinema.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=806",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Action",
+    "tvgId": "ZeeAction.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=807",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Classic",
+    "tvgId": "ZeeClassic.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=808",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "&TV",
+    "tvgId": "AndTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=809",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/And_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "&Pictures",
+    "tvgId": "AndPictures.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=810",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "&Privé",
+    "tvgId": "AndPrive.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=811",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "&Flix",
+    "tvgId": "AndFlix.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=812",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Café",
+    "tvgId": "ZeeCafe.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=813",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Zest",
+    "tvgId": "ZeeZest.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=814",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Zee Bollywood",
+    "tvgId": "ZeeBollywood.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=815",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bollywood.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Colors Cineplex",
+    "tvgId": "ColorsCineplex.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=816",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Colors Cineplex Bollywood",
+    "tvgId": "ColorsCineplexBollywood.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=817",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "MTV",
+    "tvgId": "MTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=818",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "MTV Beats",
+    "tvgId": "MTVBeats.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=819",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/MTV_Beats.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "VH1",
+    "tvgId": "VH1.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=820",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/VH1.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Comedy Central",
+    "tvgId": "ComedyCentral.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=821",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Comedy_Central.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Nick",
+    "tvgId": "Nick.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=822",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nick.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Sonic",
+    "tvgId": "Sonic.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=823",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sonic.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Discovery Channel",
+    "tvgId": "DiscoveryChannel.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=824",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Animal Planet",
+    "tvgId": "AnimalPlanet.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=825",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "TLC",
+    "tvgId": "TLC.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=826",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/TLC.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "History TV18",
+    "tvgId": "HistoryTV18.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=827",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/History_TV_18.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Nat Geo Wild",
+    "tvgId": "NatGeoWild.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=828",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nat_Geo_Wild.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "National Geographic",
+    "tvgId": "NationalGeographic.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=829",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Fox Life",
+    "tvgId": "FoxLife.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=830",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Fox_Life.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Travelxp",
+    "tvgId": "Travelxp.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=831",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_English.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "Epic TV",
+    "tvgId": "EpicTV.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=832",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Epic_TV.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD National",
+    "tvgId": "DDNational.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=833",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD India",
+    "tvgId": "DDIndia.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=834",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_India.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Gyan Darshan",
+    "tvgId": "DDGyanDarshan.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=835",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Gyan_Darshan.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Sports",
+    "tvgId": "DDSports.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=836",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Retro",
+    "tvgId": "DDRetro.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=837",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Retro.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Kids",
+    "tvgId": "DDKids.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=838",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kids.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Malayalam",
+    "tvgId": "DDMalayalam.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=839",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Malayalam.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Tamil",
+    "tvgId": "DDTamil.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=840",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Tamil.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Telugu",
+    "tvgId": "DDTelugu.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=841",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Telugu.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Kannada",
+    "tvgId": "DDKannada.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=842",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kannada.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Bangla",
+    "tvgId": "DDBangla.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=843",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bangla.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Odia",
+    "tvgId": "DDOdia.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=844",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Odia.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Punjabi",
+    "tvgId": "DDPunjabi.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=845",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Punjabi.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Gujarati",
+    "tvgId": "DDGujarati.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=846",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Gujarati.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Marathi",
+    "tvgId": "DDMarathi.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=847",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Marathi.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Assamese",
+    "tvgId": "DDAssamese.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=848",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Assamese.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Kashir",
+    "tvgId": "DDKashir.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=849",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kashir.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Urdu",
+    "tvgId": "DDUrdu.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=850",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Urdu.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Sahyadri",
+    "tvgId": "DDSahyadri.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=851",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sahyadri.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Podhigai",
+    "tvgId": "DDPodhigai.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=852",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Podhigai.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Chandana",
+    "tvgId": "DDChandana.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=853",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Chandana.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Sapthagiri",
+    "tvgId": "DDSapthagiri.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=854",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sapthagiri.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Yadagiri",
+    "tvgId": "DDYadagiri.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=855",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Yadagiri.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD North East",
+    "tvgId": "DDNorthEast.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=856",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_North_East.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Rajasthan",
+    "tvgId": "DDRajasthan.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=857",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajasthan.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Bihar",
+    "tvgId": "DDBihar.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=858",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bihar.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Uttar Pradesh",
+    "tvgId": "DDUttarPradesh.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=859",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Madhya Pradesh",
+    "tvgId": "DDMadhyaPradesh.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=860",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Himachal Pradesh",
+    "tvgId": "DDHimachalPradesh.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=861",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Himachal_Pradesh.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Haryana",
+    "tvgId": "DDHaryana.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=862",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Haryana.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Jharkhand",
+    "tvgId": "DDJharkhand.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=863",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Jharkhand.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Chhattisgarh",
+    "tvgId": "DDChhattisgarh.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=864",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Chhattisgarh.png",
+    "category": "jiostar"
+  },
+  {
+    "name": "DD Uttarakhand",
+    "tvgId": "DDUttarakhand.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=865",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DD_Uttarakhand.png",
+    "category": "jiostar"
   }
 ]
