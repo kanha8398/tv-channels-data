@@ -7,13 +7,6 @@
     "category": ["music", "entertainment"]
   },
   {
-    "name": "Colors HD",
-    "tvgId": "ColorsHD.in",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Colors_HD",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
-    "category": "jiostar"
-  },
-  {
     "name": "Star Sports 2 Hindi HD",
     "tvgId": "StarSports2HindiHD.in",
     "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Sports18_1_HD",
@@ -145,9 +138,7 @@
     "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Colors_Oriya",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png",
     "category": "entertainment"
-  }
-
-  
+  },
   {
     "name": "Colors HD",
     "tvgId": "ColorsHD.in",
@@ -169,5 +160,4 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports.png",
     "category": "cricket"
   }
-
 ]
