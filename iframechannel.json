@@ -146,4 +146,29 @@
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png",
     "category": "entertainment"
   }
+
+  
+  {
+    "name": "Colors HD",
+    "tvgId": "ColorsHD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=Colors_HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",
+    "category": "jiovoot"
+  },
+  {
+    "name": "Sony Max",
+    "tvgId": "SonyMax.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/sony?id=Sony_Max",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max.png",
+    "category": "sonynetwork"
+  },
+  {
+    "name": "Star Sports",
+    "tvgId": "StarSports.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/cricket?id=Star_Sports",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports.png",
+    "category": "cricket"
+  }
+  // Add more channels for jiostar, zee5, tata, yupptv, etc.
+
 ]
