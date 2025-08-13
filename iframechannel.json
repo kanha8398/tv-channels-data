@@ -1,121 +1,133 @@
-[
-  {
-    "name": "Sony Sports Ten 1 HD",
-    "tvgId": "sony-ten-1-hd",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-ten-1-hd",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony Sports Ten 2 HD",
-    "tvgId": "sony-ten-2-hd",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-ten-2-hd",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony Sports Ten 3 HD",
-    "tvgId": "sony-ten-3-hd",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-ten-3-hd",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony Sports Ten 4",
-    "tvgId": "sony-ten-4",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-ten-4",
-    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony Sports Ten 4 HD",
-    "tvgId": "sony-ten-4-hd",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-ten-4-hd",
-    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony Sports Ten 5 HD",
-    "tvgId": "sony-ten-5-hd",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-ten-5-hd",
-    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "SET HD",
-    "tvgId": "sony-hd",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-hd",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony SAB HD",
-    "tvgId": "sony-sab-hd",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-sab-hd",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony Marathi",
-    "tvgId": "sony-marathi",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-marathi",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony Pal",
-    "tvgId": "sony-pal",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-pal",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony Kal",
-    "tvgId": "sony-kal",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-kal",
-    "logo": "https://i.ibb.co/JFrTDg2k/275853749-1027757541419082-8885487251764233689-n.jpg",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony Aath",
-    "tvgId": "sony-aath",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-aath",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony Yay",
-    "tvgId": "sony-yay",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-yay",
-    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony MAX HD",
-    "tvgId": "sony-max-hd",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-max-hd",
-    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony MAX",
-    "tvgId": "sony-max",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-max",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony MAX 2",
-    "tvgId": "sony-max-2",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-max-2",
-    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
-    "category": ["Sony Network"]
-  },
-  {
-    "name": "Sony WAH",
-    "tvgId": "sony-wah",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-wah",
-    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png",
-    "category": ["Sony Network"]
-  }
-]
+{
+  "name": "Sony Sports Ten 1 HD",
+  "tvgId": "sony-ten-1-hd",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-ten-1-hd",
+  "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony Sports Ten 2 HD",
+  "tvgId": "sony-ten-2-hd",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-ten-2-hd",
+  "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony Sports Ten 3 HD",
+  "tvgId": "sony-ten-3-hd",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-ten-3-hd",
+  "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony Sports Ten 4",
+  "tvgId": "sony-ten-4",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-ten-4",
+  "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony Sports Ten 4 HD",
+  "tvgId": "sony-ten-4-hd",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-ten-4-hd",
+  "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony Sports Ten 5 HD",
+  "tvgId": "sony-ten-5-hd",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-ten-5-hd",
+  "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+  "category": "Sony Network"
+},
+{
+  "name": "SET HD",
+  "tvgId": "sony-hd",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-hd",
+  "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony SAB HD",
+  "tvgId": "sony-sab-hd",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-sab-hd",
+  "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony Marathi",
+  "tvgId": "sony-marathi",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-marathi",
+  "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony Pal",
+  "tvgId": "sony-pal",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-pal",
+  "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony Kal",
+  "tvgId": "sony-kal",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-kal",
+  "logo": "https://i.ibb.co/JFrTDg2k/275853749-1027757541419082-8885487251764233689-n.jpg",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony Aath",
+  "tvgId": "sony-aath",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-aath",
+  "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_aath.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony Yay",
+  "tvgId": "sony-yay",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-yay",
+  "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony MAX HD",
+  "tvgId": "sony-max-hd",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-max-hd",
+  "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony MAX",
+  "tvgId": "sony-max",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-max",
+  "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony MAX 2",
+  "tvgId": "sony-max-2",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-max-2",
+  "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony WAH",
+  "tvgId": "sony-wah",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-wah",
+  "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony PIX HD",
+  "tvgId": "sony-pix-hd",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-pix-hd",
+  "logo": "https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",
+  "category": "Sony Network"
+},
+{
+  "name": "Sony BBC Earth HD",
+  "tvgId": "sony-bbc-earth-hd",
+  "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-bbc-earth-hd",
+  "logo": "https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",
+  "category": "Sony Network"
+}
