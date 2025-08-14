@@ -412,5 +412,76 @@
         "iframeUrl": "https://tvgo.neocities.org/APPTV/voot?id=VH1",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png",
         "category": "jiovoot"
-    }
+    },
+
+  {
+    "name": "CNBC TV18 Prime",
+    "tvgId": "CNBCTV18Prime.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/freetv?id=cnbctv18prime",
+    "logo": "https://live.dinesh29.com.np/logos/jiotvplus/cnbctv18prime.png",
+    "category": "tata"
+  },
+  {
+    "name": "Colors HD",
+    "tvgId": "ColorsHD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/freetv?id=colorshd",
+    "logo": "https://live.dinesh29.com.np/logos/jiotvplus/colorshd.png",
+    "category": "tata"
+  },
+  {
+    "name": "History TV18 HD",
+    "tvgId": "HistoryTV18HD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/freetv?id=historytv18hd",
+    "logo": "https://live.dinesh29.com.np/logos/jiotvplus/historytv18hd.png",
+    "category": "tata"
+  },
+  {
+    "name": "Sony Ten 5 HD",
+    "tvgId": "SonyTen5HD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/freetv?id=sonyten5hd",
+    "logo": "https://live.dinesh29.com.np/logos/jiotvplus/sonyten5hd.png",
+    "category": "tata"
+  },
+  {
+    "name": "Star Gold HD",
+    "tvgId": "StarGoldHD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/freetv?id=stargoldhd",
+    "logo": "https://live.dinesh29.com.np/logos/jiotvplus/stargoldhd.png",
+    "category": "tata"
+  },
+  {
+    "name": "Sony Ten 1 HD",
+    "tvgId": "SonyTen1HD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/freetv?id=sonyten1hd",
+    "logo": "https://live.dinesh29.com.np/logos/jiotvplus/sonyten1hd.png",
+    "category": "tata"
+  },
+  {
+    "name": "Travelxp HD",
+    "tvgId": "TravelxpHD.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/freetv?id=travelxphd",
+    "logo": "https://live.dinesh29.com.np/logos/jiotvplus/travelxphd.png",
+    "category": "tata"
+  },
+  {
+    "name": "Cartoon Network Telugu",
+    "tvgId": "CartoonNetworkTelugu.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/freetv?id=cartoonnetworktelugu",
+    "logo": "https://live.dinesh29.com.np/logos/jiotvplus/cartoonnetworktelugu.png",
+    "category": "tata"
+  },
+  {
+    "name": "Aaj Tak",
+    "tvgId": "AajTak.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/freetv?id=aajtak",
+    "logo": "https://live.dinesh29.com.np/logos/jiotvplus/aajtak.png",
+    "category": "tata"
+  },
+  {
+    "name": "Aastha",
+    "tvgId": "Aastha.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/freetv?id=aastha",
+    "logo": "https://live.dinesh29.com.np/logos/jiotvplus/aastha.png",
+    "category": "tata"
+  }
 ]
