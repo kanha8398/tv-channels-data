@@ -1,4 +1,12 @@
 [
+   {
+    "name": "star cricket",
+    "tvgId": "starcricket.in",
+    "iframeUrl": "https://tvgo.neocities.org/APPTV/jiohd?id=1373",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",
+    "category": "cricket"
+  },
+  
   {
     "name": "Sony Sports Ten 1 HD",
     "tvgId": "SonySportsTen1HD.in",
