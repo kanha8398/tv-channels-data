@@ -28,10 +28,10 @@
     "category": "sony"
   },
   {
-    "name": "Sony Sports Ten 4 HD",
-    "tvgId": "SonySportsTen4HD.in",
-    "iframeUrl": "https://tvgo.neocities.org/APPTV/sonyhd?id=sony-ten-4-hd",
-    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+    "name": "Sony Liv",
+    "tvgId": "SonyLiv.in",
+    "iframeUrl": "https://tv4wap.github.io/ID11?id=sonyliv",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_cbZhl0JdLHDDo38IWctjaAP1LfvbfNof3g&s",
     "category": "sony"
   },
   {
