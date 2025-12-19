@@ -1,0 +1,44 @@
+{
+  "sections": [
+    {
+      "section_name": "Mathematics",
+      "questions": [
+        {
+          "passage_text": "",
+          "question_text": "What is 5 × 3?",
+          "options": ["8", "12", "15", "18"],
+          "solution": "15",
+          "explanation": "Basic multiplication: 5 times 3 equals 15."
+        },
+        {
+          "passage_text": "",
+          "question_text": "What is 12 ÷ 4?",
+          "options": ["2", "3", "4", "6"],
+          "solution": "3",
+          "explanation": "Basic division: 12 divided by 4 equals 3."
+        },
+        {
+          "passage_text": "",
+          "question_text": "What is 7 - 3?",
+          "options": ["3", "4", "5", "10"],
+          "solution": "4",
+          "explanation": "Basic subtraction: 7 minus 3 equals 4."
+        },
+        {
+          "passage_text": "",
+          "question_text": "What is 3² (3 squared)?",
+          "options": ["3", "6", "9", "12"],
+          "solution": "9",
+          "explanation": "Exponentiation: 3 multiplied by itself equals 9."
+        },
+        {
+          "passage_text": "",
+          "question_text": "What is 10% of 50?",
+          "options": ["1", "5", "10", "50"],
+          "solution": "5",
+          "explanation": "Percentage calculation: 10% of 50 equals 5 (0.10 × 50 = 5)."
+        }
+      ]
+    }
+  ]
+}
