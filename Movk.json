@@ -1,1257 +1,321 @@
 {
   "config": {
     "CORRECT": 1,
-    "INCORRECT": 0.33,
-    "TIME_MINUTES": 30
+    "INCORRECT": 0.25,
+    "TIME_MINUTES": 60
   },
   "questions": [
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which file format can be added to a PowerPoint show?",
+      "section": "Computer Knowledge",
+      "text": "A Microsoft Windows is a(n)",
       "passage": "",
       "options": [
-        ".jpg",
-        ".giv",
-        ".wav",
-        "All of the above"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "PowerPoint supports various file formats for media and images, including .jpg (JPEG), .gif, and .wav (audio). Therefore, all of the listed formats can be added."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Material consisting of text and numbers is best presented as",
-      "passage": "",
-      "options": [
-        "A table slide",
-        "A bullet slide",
-        "A title slide",
-        "All of the above"
+        "Operating system",
+        "Graphic program",
+        "Word Processing",
+        "Database program"
       ],
       "correctAnswerIndex": 0,
-      "solution": "Structured data, such as material consisting of both text and numbers, is most clearly and efficiently presented using a table slide."
+      "solution": "Microsoft Windows is the most widely used example of an Operating System, which manages computer hardware and software resources and provides common services for computer programs."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "In order to edit a chart, you can",
+      "section": "Computer Knowledge",
+      "text": "OS stands for",
       "passage": "",
       "options": [
-        "Triple click the chart object",
-        "Click and drag the chart object",
-        "Double click the chart object",
-        "Click the chart object"
+        "Operating solve",
+        "Open Source",
+        "Open System",
+        "Operating system"
       ],
-      "correctAnswerIndex": 2,
-      "solution": "In Microsoft Office applications, double-clicking an embedded object, such as a chart, typically opens the editing window or mode for that object."
+      "correctAnswerIndex": 3,
+      "solution": "OS is the standard abbreviation for Operating System."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "To exit the PowerPoint",
+      "section": "Computer Knowledge",
+      "text": "A co-processor",
       "passage": "",
       "options": [
-        "click the application minimize button",
-        "click the document close button",
-        "double click the applications control menu icon",
-        "double click the document control menu icon"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "A common way to close a Windows application is to double-click the small icon located on the far left of the title bar (the applications control menu icon)."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "To select one hyperlink after another during a slide presentation, what do you press?",
-      "passage": "",
-      "options": [
-        "Tab",
-        "Ctrl + K",
-        "Ctrl + h",
-        "All of above"
+        "Is relatively easy to support in software",
+        "Causes all processor to function equally",
+        "Works with any application",
+        "Is quite common in modern computer"
       ],
       "correctAnswerIndex": 0,
-      "solution": "The Tab key is used during a slide show to cycle through and activate interactive elements like hyperlinks or action buttons sequentially."
+      "solution": "A co-processor is a supplemental processor that works alongside the primary CPU. While it requires specific drivers or instructions, its integration is often standardized, making the necessary software support relatively straightforward."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Special effects used to introduce slides in a presentation are called",
+      "section": "Computer Knowledge",
+      "text": "The ...... program compresses large files into a smaller file",
       "passage": "",
       "options": [
-        "effects",
-        "custom animations",
-        "transitions",
-        "present animations"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "Slide transitions are the visual effects that occur when you move from one slide to the next during a presentation."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "What is the term used when you press and hold the left mouse key and move the mouse around the slide?",
-      "passage": "",
-      "options": [
-        "Highlighting",
-        "Dragging",
-        "Selecting",
-        "Moving"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "The action of holding down the left mouse button while moving the mouse is known as dragging."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "To give a PowerPoint presentation to a large audience, you:",
-      "passage": "",
-      "options": [
-        "Set up your computer in a large auditorium, and click large, auditorium, OK",
-        "Click the slide you wish the audience to see in normal view, then click the next slide, and so on.",
-        "Choose either view, slide show or slide show, view show",
-        "Slick slide show, OK"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "To begin the full-screen presentation mode for an audience, you must initiate the Slide Show view, which can be done through the 'Slide Show' menu or tab."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following can you use to add times to the slides in a presentation",
-      "passage": "",
-      "options": [
-        "Slice Show menu",
-        "Rehearse timing button",
-        "Slide transition button",
-        "All of the above"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "The 'Rehearse Timings' feature allows the presenter to practice and automatically record the duration spent on each slide, setting custom timings for the show."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following is not one of PowerPoint's views?",
-      "passage": "",
-      "options": [
-        "Slide show view",
-        "Slide view",
-        "Presentation view",
-        "Outline view"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "Standard PowerPoint views include Normal, Slide Sorter, Notes Page, and Slide Show. 'Presentation view' is not a standard, named view."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which PowerPoint view works best for adding slide transitions?",
-      "passage": "",
-      "options": [
-        "Slide show view",
-        "Slide sorter view",
-        "Slide view",
-        "Notes view"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "Slide Sorter view displays all slides as miniatures, making it efficient to select multiple slides and apply transitions uniformly."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following views is the best view to use when setting transition effects for all slides in a presentation",
-      "passage": "",
-      "options": [
-        "Slide sorter view",
-        "Notes page view",
-        "Slide view",
-        "Outline view"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "Slide Sorter View is ideal for managing effects across the entire presentation because it displays thumbnails of all slides."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which option can be used to set custom timings for slides in a presentation?",
-      "passage": "",
-      "options": [
-        "Slider Timings",
-        "Slider Timer",
-        "Rehearsal",
-        "Slide Show Setup"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "The 'Rehearsal' (or 'Rehearse Timings') feature allows you to capture and set custom durations for your slides during practice."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following will not advance the slides in a slide show view?",
-      "passage": "",
-      "options": [
-        "The esc key",
-        "The space bar",
-        "The enter key",
-        "The mouse button"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "The Esc key stops the slide show and exits the full-screen view. The Space Bar, Enter key, and mouse click are all used to advance slides."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "The quickest way to create a PowerPoint presentation is to use the",
-      "passage": "",
-      "options": [
-        "Word for windows templates",
-        "Auto creation wizard",
-        "Auto content wizard",
-        "Presentation wizard"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "The AutoContent Wizard (in older PowerPoint versions) provided a structured, step-by-step method with pre-designed content outlines, making it the quickest way to start a presentation."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following can you format using buttons on the formatting toolbar?",
-      "passage": "",
-      "options": [
-        "Your hard drive",
-        "Format painting",
-        "Font color",
-        "Underlining"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "The formatting toolbar provides direct access buttons for common text attributes, such as Bold, Italics, and Underlining."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "To start Microsoft PowerPoint application",
-      "passage": "",
-      "options": [
-        "Click on Start >> Programs >> All Programs >> Microsoft PowerPoint",
-        "Hit Ctrl + R then type ppoint.exe and Enter",
-        "Click Start >> Run then type powerpnt then press Enter",
-        "All of above"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "The executable filename for PowerPoint is 'powerpnt.exe'. Typing this name in the Run dialog (Start >> Run) launches the application."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which menu provides you options like Animation Scheme, custom Animation, Slide Transition?",
-      "passage": "",
-      "options": [
-        "Insert Menu",
-        "Format Menu",
-        "Tools Menu",
-        "Slide Show Menu"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "All controls related to how the presentation is played, including transitions and object animations, are grouped under the Slide Show menu or tab."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "In which menu can you find features like Slide Design, Slide Layout etc.?",
-      "passage": "",
-      "options": [
-        "Insert Menu",
-        "Format Menu",
-        "Tools Menu",
-        "Slide Show Menu"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "In classic PowerPoint interfaces, features governing the visual appearance and structure of the slides, such as Design and Layout, were found under the Format menu."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "The selected design template can be applied",
-      "passage": "",
-      "options": [
-        "To current slide only",
-        "To all the slides",
-        "To all the new presentation you create",
-        "All of above"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "A design template can be selectively applied to the current slide, universally applied to all existing slides, or saved as the default for future presentations."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "What feature will you use to apply motion effects in between a slide exits and another enters?",
-      "passage": "",
-      "options": [
-        "Slide Transition",
-        "Slide Design",
-        "Animation Objects",
-        "Animation Scheme"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "A Slide Transition is the motion effect that takes place when one slide leaves the screen and the next one appears."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "What PowerPoint feature will you use to apply motion effects to different objects of a slide?",
-      "passage": "",
-      "options": [
-        "Slide Transition",
-        "Slide Design",
-        "Animation Objects",
-        "Animation Scheme"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "An Animation Scheme is a predefined collection of animations that applies entrance, emphasis, and exit effects to the title, bullets, and other objects on a slide."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which command will you use in PowerPoint if you need to change the color of different objects without changing content?",
-      "passage": "",
-      "options": [
-        "Design Template",
-        "Color Scheme",
-        "Font Color",
-        "Object Color"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "A Color Scheme is a set of eight coordinated colors used in a presentation (for background, text, accents, etc.) that can be changed globally without affecting the content or layout."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which short cut key inserts a new slide in current presentation?",
-      "passage": "",
-      "options": [
-        "Ctrl+N",
-        "Ctrl+M",
-        "Ctrl+S",
-        "All of above"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "Ctrl + M is the shortcut used in PowerPoint to insert a new slide into the current presentation."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "To start slide show of a presentation",
-      "passage": "",
-      "options": [
-        "Hit F5 key",
-        "From Slide Show menu choose View Show option",
-        "From Slide Show menu choose Rehearse timing",
-        "Both a & b"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "A presentation can be started either by pressing the F5 key (from the beginning) or by manually selecting the 'View Show' option from the Slide Show menu."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "If you select Insert >> Picture >> From File",
-      "passage": "",
-      "options": [
-        "You can insert pictures and clipArts",
-        "You can insert clipArts only",
-        "You can insert pictures only",
+        "WinZip",
+        "WinShrink",
+        "WinStyle",
         "None of above"
       ],
-      "correctAnswerIndex": 2,
-      "solution": "The 'From File' option specifically accesses locally stored image files (pictures) for insertion, distinct from the ClipArt gallery."
+      "correctAnswerIndex": 0,
+      "solution": "WinZip is a well-known proprietary file archiver and compressor utility used to compress large files."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following font effect is not available in PowerPoint Font dialog box?",
+      "section": "Computer Knowledge",
+      "text": "My Computer was introduced from",
       "passage": "",
       "options": [
-        "Underline",
-        "Shadow",
-        "Emboss",
-        "Strikethrough"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "While Underline, Shadow, and Emboss are standard text effects commonly available in the font dialog box in PowerPoint, Strikethrough is sometimes found elsewhere or was omitted in older versions targeted by this question."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "To insert a hyperlink in a slide",
-      "passage": "",
-      "options": [
-        "Choose Insert >> Hyperlink",
-        "Press Ctrl + K",
-        "Hyperlinks can't be inserted in slides",
-        "Both a & b"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "Hyperlinks can be inserted by navigating the menu (Insert >> Hyperlink) or by using the universal shortcut Ctrl + K."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "In a PowerPoint presentation",
-      "passage": "",
-      "options": [
-        "Sound clips can be inserted but not movie clips",
-        "Movie clips can be inserted but not sound clips",
-        "Both cannot be inserted",
-        "Both can be inserted"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "PowerPoint supports the insertion of various multimedia elements, including both sound (audio) clips and movie (video) clips."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "To insert slide numbers",
-      "passage": "",
-      "options": [
-        "Insert a text box and select Insert >> Page Number",
-        "Insert a textbox and select Insert >> Number >> PageNumber",
-        "Choose Insert >> Slide Number",
-        "Insert a new text box and select Insert >> slide Number"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "Slide numbers are inserted via the Insert menu, often through the Header and Footer dialog, which handles text placeholders like slide numbers."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "What are the three options available in Insert >> Picture menu?",
-      "passage": "",
-      "options": [
-        "Clipart, Pictures, Shapes",
-        "Clipart, From File, Shapes",
-        "Clipart, From Files, AutoShapes",
-        "Clipart, Pictures, AutoShapes"
+        "Windows 3.1",
+        "Windows 3.11",
+        "Windows 95",
+        "Windows 98"
       ],
       "correctAnswerIndex": 2,
-      "solution": "The Insert > Picture menu typically allows insertion of Clip Art (pre-designed images), Pictures from Files (local images), and AutoShapes (predefined vector shapes)."
+      "solution": "The \"My Computer\" icon, central to the desktop interface for accessing drives and folders, was introduced with Microsoft Windows 95."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "From which menu you can access Picture, Test Box, Chart etc?",
+      "section": "Computer Knowledge",
+      "text": "Which of the following is not an operating system?",
       "passage": "",
       "options": [
-        "File",
-        "Edit",
-        "Insert",
-        "View"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "Objects that are added into a document, such as pictures, text boxes, and charts, are managed through the Insert menu."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following is not a part of Slide Design?",
-      "passage": "",
-      "options": [
-        "Design Template",
-        "Color Scheme",
-        "Animation Scheme",
-        "Slide Layout"
+        "DOS",
+        "Linux",
+        "Windows",
+        "Oracle"
       ],
       "correctAnswerIndex": 3,
-      "solution": "Slide Design refers to the visual appearance (template and color scheme). Slide Layout defines the structure and arrangement of content placeholders, which is typically managed separately from the design theme."
+      "solution": "DOS, Linux, and Windows are operating systems. Oracle is primarily known as a relational database management system (RDBMS)."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "What is the term used when a clip art image changes the direction of faces?",
+      "section": "Computer Knowledge",
+      "text": "Linux is a(n) ...... operating system",
       "passage": "",
       "options": [
-        "Group",
-        "Flip",
-        "Rotate",
-        "All of the above"
+        "Open source",
+        "Microsoft",
+        "Windows",
+        "Mac"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "Linux is famously known as a free and open-source operating system."
+    },
+    {
+      "section": "Computer Knowledge",
+      "text": "The most recent version of MAC OS is based on the ...... operating system",
+      "passage": "",
+      "options": [
+        "Windows",
+        "Linux",
+        "Unix",
+        "CMOS"
       ],
       "correctAnswerIndex": 2,
-      "solution": "While 'Flip' specifically creates a mirror image (changing the direction of faces), 'Rotate' changes the orientation of the object, which is the provided answer."
+      "solution": "macOS (formerly Mac OS X) is based on the Unix operating system and utilizes the Darwin core."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "The slide that is used to introduce a topic and set the tone for the presentation is called the",
+      "section": "Computer Knowledge",
+      "text": "In Windows, start button is used to",
       "passage": "",
       "options": [
-        "table slide",
-        "graph slide",
-        "bullet slide",
-        "title slide"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "The Title Slide is the introductory slide, used to state the presentation's topic and presenter information."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following features should you use when typing in the notes text box?",
-      "passage": "",
-      "options": [
-        "Slide show",
-        "Insert",
-        "Slide maser",
-        "Zoom"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "The Zoom feature allows you to magnify the notes text box area, making it easier to read and type content."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which command brings you to the first slide in your presentation?",
-      "passage": "",
-      "options": [
-        "Next slide button",
-        "Page up",
-        "Ctrl + Home",
-        "Ctrl + End"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "Pressing Ctrl + Home in PowerPoint (or most document applications) moves the cursor or selection point to the very beginning of the document or presentation (the first slide)."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "You can show the shortcut menu during the slide show by",
-      "passage": "",
-      "options": [
-        "Clicking the shortcut button on the formatting toolbar",
-        "Right clicking the current slide",
-        "Clicking an icon on the current slide",
-        "a and b"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "In Slide Show view, right-clicking anywhere on the screen displays the shortcut menu, providing options for navigation and viewing."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Auto clipart is a feature that",
-      "passage": "",
-      "options": [
-        "Automatically places clipart in your presentation",
-        "Scans your presentation for incorrect spelling in your words on each slide",
-        "Scans your presentation for incorrect spelling in Word Arts objects",
+        "Run applications",
+        "Device setting",
+        "Turn off the system",
         "All of above"
       ],
       "correctAnswerIndex": 3,
-      "solution": "Assuming 'Auto clipart' refers broadly to automated features related to object insertion and proofing: The listed features cover automatic insertion and spell checking of various text elements, including WordArt."
+      "solution": "The Start button in Windows provides access to running applications, system settings (Control Panel), and power options like shutting down or restarting the system."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "The view that displays the slides on a presentation as miniature representations of the slides is called",
+      "section": "Computer Knowledge",
+      "text": "The date and time displays on",
       "passage": "",
       "options": [
-        "slide show",
-        "slide sorter view",
-        "notes page view",
-        "outline view"
+        "Taskbar",
+        "Status bar",
+        "System tray",
+        "Launch pad"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "The system tray (or notification area) is located at the far right of the Windows taskbar, and it typically displays system icons, including the current date and time."
+    },
+    {
+      "section": "Computer Knowledge",
+      "text": "........ Is the layer of a computer system between the hardware and the user?",
+      "passage": "",
+      "options": [
+        "Operating environment",
+        "Operating system",
+        "System environment",
+        "None of these"
       ],
       "correctAnswerIndex": 1,
-      "solution": "Slide Sorter View displays all slides as thumbnails, making it easy to rearrange and manage the order of the presentation."
+      "solution": "The Operating System acts as the primary interface layer between the hardware components and the end user or application software."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following provides a printed copy of your presentation?",
+      "section": "Computer Knowledge",
+      "text": "Which is the first program run on a computer when the computer boots up?",
       "passage": "",
       "options": [
-        "Outline",
-        "Speaker notes",
-        "Audience handouts",
-        "All of the above"
+        "System software",
+        "Operating system",
+        "System operations",
+        "None"
       ],
-      "correctAnswerIndex": 2,
-      "solution": "While all listed options can be printed, 'Audience handouts' is a specific term for printed versions designed for the audience to take notes."
+      "correctAnswerIndex": 1,
+      "solution": "After the initial firmware (BIOS/UEFI) runs the bootstrap loader, the operating system kernel is loaded into memory, making it the first major program executed to initiate user interaction."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "When using PowerPoint, to play a PowerPoint show for previewing the show, select",
+      "section": "Computer Knowledge",
+      "text": "Which of the following requires a device driver?",
       "passage": "",
       "options": [
-        "View, slide sorter",
-        "View, slide",
-        "View, slide show",
-        "View outline"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "The Slide Show view is the mode used for playing the presentation in full-screen format."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "To select all the boxes of an organization chart",
-      "passage": "",
-      "options": [
-        "Click edit, select all",
-        "Right click the chart background click select all",
-        "Press and hold the shift key and click each box",
-        "All of the above"
+        "Register",
+        "Cache",
+        "Main memory",
+        "Disk"
       ],
       "correctAnswerIndex": 3,
-      "solution": "Multiple selection methods can be used: using the 'Select All' command (Edit menu or Ctrl+A), Shift+Clicking individual objects, or using context menu options."
+      "solution": "External devices like a Hard Disk (or disk controller) require a device driver for the operating system to communicate with them and manage their input/output operations."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following should be used when you want to add a slide to an existing presentation?",
+      "section": "Computer Knowledge",
+      "text": "A program in execution is called",
       "passage": "",
       "options": [
-        "File, add a new slide",
-        "Insert, new slide",
-        "File, open",
-        "File, new"
+        "A Paging",
+        "A Process",
+        "A virtual memory",
+        "A Demand Page"
       ],
       "correctAnswerIndex": 1,
-      "solution": "To add a slide into an existing presentation, you use the 'Insert' command followed by 'New Slide'."
+      "solution": "In computer science, an instance of a computer program that is being executed is called a process."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which key deletes text before, or the left of, the insertion point?",
+      "section": "Computer Knowledge",
+      "text": "Which of the following memory unit that processor can access more rapidly",
       "passage": "",
       "options": [
-        "Backspace",
-        "Page up",
-        "Delete",
-        "Page down"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "The Backspace key deletes characters located immediately to the left of the insertion point (cursor)."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Microsoft PowerPoint is a",
-      "passage": "",
-      "options": [
-        "Database program",
-        "Spreadsheet program",
-        "Presentation program",
-        "Word processing program"
+        "Main Memory",
+        "Virtual Memory",
+        "Cache memory",
+        "Read Only Memory"
       ],
       "correctAnswerIndex": 2,
-      "solution": "PowerPoint is software designed specifically for creating and delivering dynamic presentations."
+      "solution": "Cache memory is a small, very fast memory buffer located near the CPU that stores frequently used data, providing the fastest access speeds among the given options."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following programs is not a popular desktop publishing program?",
+      "section": "Computer Knowledge",
+      "text": "Which of the following is an example of a real-time operating system?",
       "passage": "",
       "options": [
-        "Adobe PageMaker",
-        "Microsoft Publisher",
-        "Lotus AmiPro",
-        "QuarkXPress"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "Adobe PageMaker, Microsoft Publisher, and QuarkXPress are Desktop Publishing (DTP) software. Lotus AmiPro was a word processing application."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which menu provides you options like Animation Scheme, custom Animation, Slide Transition?",
-      "passage": "",
-      "options": [
-        "Insert Menu",
-        "Format Menu",
-        "Tools Menu",
-        "Slide Show Menu"
+        "Lynx",
+        "MS-DOS",
+        "Windows XP",
+        "Process Control"
       ],
       "correctAnswerIndex": 3,
-      "solution": "Features for controlling movement and display during a presentation are contained within the Slide Show menu."
+      "solution": "Real-Time Operating Systems (RTOS) are essential for systems where timely responses are critical, such as industrial process control systems."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "In which menu can you find features like Slide Design, Slide Layout etc.?",
+      "section": "Computer Knowledge",
+      "text": "Which of the following shutdown method is often called Warm Boot?",
       "passage": "",
       "options": [
-        "Insert Menu",
-        "Format Menu",
-        "Tools Menu",
-        "Slide Show Menu"
+        "Shut Down",
+        "Restart",
+        "Sleep",
+        "Hibernate"
       ],
       "correctAnswerIndex": 1,
-      "solution": "In classic PowerPoint interfaces, features governing the visual theme and structure (Design, Layout) were found under the Format menu."
+      "solution": "A warm boot (or soft boot) is the process of restarting a computer using the operating system's functions (like 'Restart'), without cutting the power completely."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following is not a font style?",
+      "section": "Computer Knowledge",
+      "text": "If the displayed system time and date are wrong, you can reset it using",
       "passage": "",
       "options": [
-        "Bold",
-        "Italics",
-        "Regular",
-        "Superscript"
+        "Write",
+        "Calendar",
+        "Write file.",
+        "Control panel"
       ],
       "correctAnswerIndex": 3,
-      "solution": "Bold, Italics, and Regular are primary font styles. Superscript is considered a font effect or text attribute, not a core style."
+      "solution": "The system time and date settings are managed and adjusted via the Date and Time utility found within the Control Panel (or system settings)."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following is not a type of page margin?",
+      "section": "Computer Knowledge",
+      "text": "Which is not application software?",
       "passage": "",
       "options": [
-        "Left",
-        "Right",
-        "Center",
-        "Top"
+        "Windows NT",
+        "Page Maker",
+        "WinWord XP",
+        "Photoshop"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "Windows NT is an operating system, which falls under the category of system software. The others (PageMaker, WinWord, Photoshop) are application software."
+    },
+    {
+      "section": "Computer Knowledge",
+      "text": "Running multiple programs at the same time is called:",
+      "passage": "",
+      "options": [
+        "Multitasking",
+        "Foreground tasking",
+        "Single tasking",
+        "Symmetric"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "Multitasking is the ability of an operating system to manage and execute multiple processes or applications concurrently."
+    },
+    {
+      "section": "Computer Knowledge",
+      "text": "The ...... contains commands associated with the My Computer window",
+      "passage": "",
+      "options": [
+        "Standard menu",
+        "Start menu",
+        "System menu",
+        "None of the above"
       ],
       "correctAnswerIndex": 2,
-      "solution": "Page margins include Left, Right, Top, and Bottom. 'Center' refers to alignment, not a physical boundary of the page."
+      "solution": "The System menu (often accessible via Alt+Space or the window icon) contains basic window control commands like minimize, maximize, restore, move, and close, which are universally associated with the My Computer window frame."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "What is a portion of a document in which you set certain page formatting options?",
+      "section": "Computer Knowledge",
+      "text": "To install the new font in window XP",
       "passage": "",
       "options": [
-        "Page",
-        "Document",
-        "Section",
-        "Page Setup"
+        "Start -> setting -> control panel -> font",
+        "Start -> setting -> control panel -> font -> install new font",
+        "Start -> control panel -> font -> install new font",
+        "Start -> setting -> font"
       ],
-      "correctAnswerIndex": 2,
-      "solution": "A Section allows the user to apply unique formatting (such as different margins or column layouts) to discrete parts of a single document."
+      "correctAnswerIndex": 1,
+      "solution": "This is the correct procedural path in Windows XP to access the Fonts folder and initiate the installation of a new font file."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Background color or effects applied on a document is not visible in",
+      "section": "Computer Knowledge",
+      "text": "Which of the following operating system do you choose to implement a client-server network?",
       "passage": "",
       "options": [
-        "Web layout view",
-        "Print Layout view",
-        "Reading View",
-        "Print Preview"
+        "MS-DOS",
+        "Windows",
+        "Windows 98",
+        "Windows 2000"
       ],
       "correctAnswerIndex": 3,
-      "solution": "Background colors and effects are typically screen display features that are not intended to be printed, and thus are usually hidden in Print Preview."
+      "solution": "Windows 2000 (specifically Windows 2000 Server) was designed as a robust network operating system suitable for implementing and managing client-server architectures, unlike the consumer OS options listed."
     },
     {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following is not true about Find and Replace in Excel",
+      "section": "Computer Knowledge",
+      "text": "Which one is not an operating system?",
       "passage": "",
       "options": [
-        "You can search for bold and replace with italics",
-        "You can decide whether to look for the whole word or not",
-        "You can search in formula too",
-        "You can search by rows or columns or sheets"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "While Excel allows specifying search direction (by row/column) and scope (sheet/workbook), the phrasing 'search by rows or columns or sheets' is deemed the least accurate description of the primary Find/Replace functionality when compared to searching formats, formulas, and whole words."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "The best way to insert a new slide in a presentation is to use the",
-      "passage": "",
-      "options": [
-        "Normal view",
-        "Special view",
-        "Slide show view",
-        "Slide sorter view"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "Slide Sorter View provides a convenient visual overview, making it the best context for deciding where to insert a new slide."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "What is the maximum number of lines you can set for a drop cap?",
-      "passage": "",
-      "options": [
-        "3",
-        "10",
-        "15",
-        "20"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "In Microsoft Word, the maximum number of lines that a drop cap can occupy is 10."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following line spacing is invalid?",
-      "passage": "",
-      "options": [
-        "Single",
-        "Double",
-        "Triple",
-        "Multiple"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "The standard named line spacings are Single, 1.5 lines, and Double. 'Triple' is not a dedicated, named setting, although 3.0 spacing can be achieved using the 'Multiple' option."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following are word processing software?",
-      "passage": "",
-      "options": [
-        "WordPerfect",
-        "Easy Word",
-        "MS Word",
-        "All of above"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "WordPerfect, Easy Word, and MS Word are all recognized applications used for word processing."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following is not of the merge process?",
-      "passage": "",
-      "options": [
-        "Sort the data source records",
-        "Format a main document",
-        "Edit a data source",
-        "Merge the two files to print or create a new document"
+        "P11",
+        "OS/2",
+        "Windows",
+        "None"
       ],
       "correctAnswerIndex": 0,
-      "solution": "Sorting the data is an auxiliary step that prepares the data source, but it is not one of the fundamental required steps (Main Document setup, Data Source creation, Merging) of a mail merge operation."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following is the latest version of MS Word?",
-      "passage": "",
-      "options": [
-        "Word 2000",
-        "Word 2007",
-        "Word 2010",
-        "Word 2011"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "Among the options listed, Word 2010 is the latest release for the Windows platform."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "In Microsoft PowerPoint two kind of sound effects files that can be added to the presentation are",
-      "passage": "",
-      "options": [
-        ".wav files and .mid files",
-        ".wav files and .gif files",
-        ".wav files and .jpg files",
-        ".jpg files and .gif files"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": ".wav (Waveform) and .mid (MIDI) are both standard audio formats supported for sound effects in PowerPoint presentations."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Special effects used to introduce slides in a presentation are called",
-      "passage": "",
-      "options": [
-        "effects",
-        "custom animations",
-        "transitions",
-        "present animations"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "Transitions are the visual effects that introduce slides during a presentation."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "In Microsoft PowerPoint the entry effect as one slide replaces another in a show is called a (an)",
-      "passage": "",
-      "options": [
-        "animation",
-        "slide transition",
-        "custom animation",
-        "preset animation"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "The movement effect between the exit of one slide and the entry of the next is known as a slide transition."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "To add a header or footer to your handout, you can use",
-      "passage": "",
-      "options": [
-        "The title master",
-        "The slide master",
-        "The handout master",
-        "All of above"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "The Handout Master view is used exclusively to control the appearance and placement of headers, footers, and other background elements on printed handouts."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "In Microsoft PowerPoint in order to see all the slides on one screen use",
-      "passage": "",
-      "options": [
-        "view, slide sorter",
-        "view, slide",
-        "view, master",
-        "view, slide show"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "Slide Sorter view displays all slides as thumbnails on a single screen, allowing a comprehensive overview."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which of the following is the default page setup orientation for slides in PowerPoint?",
-      "passage": "",
-      "options": [
-        "Vertical",
-        "Landscape",
-        "Portrait",
-        "None of above"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "PowerPoint slides are typically wider than they are tall, meaning the default orientation is Landscape."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Pagemaker is a __________ software.",
-      "passage": "",
-      "options": [
-        "Desktop Publishing",
-        "Word Processor",
-        "Spredsheet",
-        "Presentation"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "Adobe PageMaker is a well-known example of Desktop Publishing (DTP) software used for page design and layout."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "__________ is at the top of the window and it display the name of the application.",
-      "passage": "",
-      "options": [
-        "Menu bar",
-        "Title bar",
-        "Tool bar",
-        "Tool box"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "The Title Bar is located at the top of the application window and displays the name of the software and the current document."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "__________ is displayed below the title bar",
-      "passage": "",
-      "options": [
-        "Menu bar",
-        "Title bar",
-        "Tool bar",
-        "Tool box"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "In most traditional application interfaces, the Menu Bar (containing File, Edit, View, etc.) is situated directly beneath the Title Bar."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Layout is in __________ bar.",
-      "passage": "",
-      "options": [
-        "Menu bar",
-        "Title bar",
-        "Tool bar",
-        "Tool box"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "In PageMaker, layout commands (such as inserting pages, column guides) are typically organized under the Layout menu, which is part of the Menu Bar."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Save option is present in __________ bar.",
-      "passage": "",
-      "options": [
-        "Menu bar",
-        "Title bar",
-        "Tool bar",
-        "Tool box"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "The 'Save' option is generally located under the 'File' menu, which belongs to the Menu Bar."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "The tool used to select any kind of object on the page is called __________ .",
-      "passage": "",
-      "options": [
-        "Rotate tool",
-        "Text tool",
-        "Pointer tool",
-        "Crop tool"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "The Pointer tool (or Selection tool) is the default tool used to select, move, and resize objects on the page."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "__________ contains all the tools we need to compose a page.",
-      "passage": "",
-      "options": [
-        "Menu bar",
-        "Title bar",
-        "Tool bar",
-        "Tool box"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "The Tool Box (or Tools palette) contains all the necessary manipulative tools (Pointer, Text, Crop, Shapes) required for layout and composition."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Clicking on the __________ tool changes the pointer to an insertion point for typing and highlighting text.",
-      "passage": "",
-      "options": [
-        "Rotate tool",
-        "Text tool",
-        "Pointer tool",
-        "Crop tool"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "The Text tool is specifically used to interact with text frames, enabling typing, selection, and editing."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "__________ tool rotates a text box or image to a desired angle.",
-      "passage": "",
-      "options": [
-        "Rotate tool",
-        "Text tool",
-        "Rotate tool",
-        "Crop tool"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "The Rotate tool is used to pivot a selected object (text box or image) around a specific axis or handle."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "__________ tool is used to reduce or cut image area.",
-      "passage": "",
-      "options": [
-        "Rotate tool",
-        "Text tool",
-        "Rotate tool",
-        "Crop tool"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "The Crop tool is used to trim the edges of an image, reducing the visible area without deleting the underlying file."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "__________ tool is used to draw square cornered boxes.",
-      "passage": "",
-      "options": [
-        "Rotate tool",
-        "Text tool",
-        "Box tool",
-        "Crop tool"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "The Box tool (or Rectangle Frame tool) is used in PageMaker to draw rectangular shapes with square corners."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "The tool used to move the entire page on the screen is called __________ .",
-      "passage": "",
-      "options": [
-        "Hand tool",
-        "Text tool",
-        "Box tool",
-        "Crop tool"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "The Hand tool (or pan tool) allows the user to drag the view of the document around the screen without affecting the content, useful when zoomed in."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "__________ tool is used to change the magnification of the page view.",
-      "passage": "",
-      "options": [
-        "Hand tool",
-        "Text tool",
-        "Zoom tool",
-        "Crop tool"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "The Zoom tool is used to control the visual size (magnification) of the page display."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Colors Palette is present in __________ menu.",
-      "passage": "",
-      "options": [
-        "Menu bar",
-        "Title bar",
-        "Tool bar",
-        "Window menu"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "Palettes and panels (like Colors, Styles, Layers) are typically displayed or hidden using commands found in the Window menu."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "The default orientation in Pagemaker 7.0 is __________ .",
-      "passage": "",
-      "options": [
-        "Tall",
-        "Wide",
-        "Broad",
-        "Narrow"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "'Tall' is the term PageMaker uses for Portrait orientation, which is the default for a new document."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "The style is draw a verticle line through the middle of each word is called __________ .",
-      "passage": "",
-      "options": [
-        "Reverse",
-        "Strike thru",
-        "Italic",
-        "Normal"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "Drawing a horizontal line through the center of text is known as Strikethrough or 'Strike thru'."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "__________ is the line between two lines of type.",
-      "passage": "",
-      "options": [
-        "Leading",
-        "Tracking",
-        "Formatting",
-        "Editing"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "Leading is the vertical space measured between the baseline of one line of text and the baseline of the line of text immediately following it."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Adjusting the space between two consecutive characters is called __________ .",
-      "passage": "",
-      "options": [
-        "Leading",
-        "Tracking",
-        "Formatting",
-        "Editing"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "Tracking (or letterspacing) refers to uniformly adjusting the space between characters over a selected block of text."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Paragraph formatting options are present in __________ menu.",
-      "passage": "",
-      "options": [
-        "Menu bar",
-        "Title bar",
-        "Tool bar",
-        "Type menu"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "In PageMaker, typographical controls for text, paragraphs, and indentation are located under the Type menu."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "__________ move the text inward from right and left margins.",
-      "passage": "",
-      "options": [
-        "Indent",
-        "Cut",
-        "Spacing",
-        "Formatting"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "Indentation controls the space between the text boundary and the page margins, moving the text inward."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Which is not an alignment option in Page maker?",
-      "passage": "",
-      "options": [
-        "Align Left",
-        "Justified",
-        "Center",
-        "Bottom"
-      ],
-      "correctAnswerIndex": 3,
-      "solution": "Align Left, Center, and Justified are standard horizontal alignment options for text. 'Bottom' relates to vertical alignment or page margins, not text alignment."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Cut option is present in __________ menu.",
-      "passage": "",
-      "options": [
-        "Menu bar",
-        "Edit menur",
-        "Tool bar",
-        "Type menu"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "The Cut command, along with Copy and Paste, is a standard editing function found in the Edit menu."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "Remove pages option is used in __________ menu.",
-      "passage": "",
-      "options": [
-        "Layout menu",
-        "Edit menu",
-        "Tool bar",
-        "Type menu"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "Commands related to the overall structure and page flow of the document, such as inserting or removing pages, are found in the Layout menu."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "__________ is used to specify both color and type of fill and line in one operation.",
-      "passage": "",
-      "options": [
-        "Fill and stroke",
-        "Fill",
-        "Insert page",
-        "Force Justify"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "In graphics and design software, 'Fill' controls the interior color, and 'Stroke' controls the line/border color and weight. Setting both simultaneously is managed by 'Fill and Stroke' controls."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "__________ means changing font size.",
-      "passage": "",
-      "options": [
-        "Leading",
-        "Tracking",
-        "Scaling",
-        "Editing"
-      ],
-      "correctAnswerIndex": 2,
-      "solution": "Scaling refers to altering the overall size or dimensions of the type, which encompasses changing the font size."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "__________ button inserted in slides will perform predefined action when you click the button",
-      "passage": "",
-      "options": [
-        "Action",
-        "Find",
-        "Justify",
-        "View"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "PowerPoint utilizes 'Action Buttons' to execute predetermined actions (like navigating or running a program) when clicked during a slide show."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "In Excel 2007, there are __________ worksheets in a workbook",
-      "passage": "",
-      "options": [
-        "2",
-        "3",
-        "1",
-        "5"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "By default, Microsoft Excel 2007 opens a new workbook with three empty worksheets (Sheet1, Sheet2, and Sheet3)."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "__________ is a table consisting of rows and columns.",
-      "passage": "",
-      "options": [
-        "Worksheet",
-        "Cell",
-        "Workbook",
-        "Range"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "A worksheet is the primary document within an Excel file, structured as a grid composed of intersecting rows and columns."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "The numeric data entered in the worksheet is __________ aligned by default.",
-      "passage": "",
-      "options": [
-        "Left",
-        "Right",
-        "Center",
-        "Top"
-      ],
-      "correctAnswerIndex": 1,
-      "solution": "In Microsoft Excel, numerical data is automatically aligned to the right side of the cell by default."
-    },
-    {
-      "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "text": "To insert a chart to excel, click on __________ tab.",
-      "passage": "",
-      "options": [
-        "Insert",
-        "Home",
-        "Formulas",
-        "View"
-      ],
-      "correctAnswerIndex": 0,
-      "solution": "The command to add charts, pictures, pivot tables, and other objects to an Excel worksheet is found on the Insert tab."
+      "solution": "OS/2 and Windows are established operating systems. P11 is not recognized as a standard, general-purpose operating system name."
     }
   ],
   "imageMap": {},
@@ -1259,389 +323,29 @@
     {
       "userState": [
         {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 37
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 3
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 12
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
-        },
-        {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
+          "selected": 0,
+          "status": "answered",
+          "timeSpent": 24
         },
         {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
+          "selected": 3,
+          "status": "answered",
+          "timeSpent": 7
         },
         {
           "selected": null,
           "status": "unattempted",
-          "timeSpent": 0
+          "timeSpent": 1
         },
         {
-          "selected": null,
-          "status": "unattempted",
-          "timeSpent": 0
+          "selected": 0,
+          "status": "answered",
+          "timeSpent": 4
         },
         {
           "selected": null,
           "status": "unattempted",
-          "timeSpent": 0
+          "timeSpent": 1
         },
         {
           "selected": null,
@@ -1741,1293 +445,357 @@
       ],
       "config": {
         "CORRECT": 1,
-        "INCORRECT": 0.33,
-        "TIME_MINUTES": 30
+        "INCORRECT": 0.25,
+        "TIME_MINUTES": 60
       },
       "results": {
-        "overallScore": 0,
-        "maxScore": 96,
-        "accuracy": 0,
-        "correctCount": 0,
+        "overallScore": 3,
+        "maxScore": 24,
+        "accuracy": 100,
+        "correctCount": 3,
         "incorrectCount": 0,
-        "attemptedCount": 0,
-        "unattemptedCount": 96,
-        "totalCount": 96,
+        "attemptedCount": 3,
+        "unattemptedCount": 21,
+        "totalCount": 24,
         "subjectBreakdown": {
-          "Computer Knowledge (PowerPoint, DTP, Excel)": {
-            "correct": 0,
+          "Computer Knowledge": {
+            "correct": 3,
             "incorrect": 0,
-            "total": 96,
-            "maxMark": 96,
-            "score": 0
+            "total": 24,
+            "maxMark": 24,
+            "score": 3
           }
         }
       },
-      "timestamp": "2025-12-16T04:33:53.436Z",
+      "timestamp": "2025-12-20T20:17:39.891Z",
       "source": "Full Mock",
       "questions": [
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which file format can be added to a PowerPoint show?",
+          "section": "Computer Knowledge",
+          "text": "A Microsoft Windows is a(n)",
           "passage": "",
           "options": [
-            ".jpg",
-            ".giv",
-            ".wav",
-            "All of the above"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "PowerPoint supports various file formats for media and images, including .jpg (JPEG), .gif, and .wav (audio). Therefore, all of the listed formats can be added."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Material consisting of text and numbers is best presented as",
-          "passage": "",
-          "options": [
-            "A table slide",
-            "A bullet slide",
-            "A title slide",
-            "All of the above"
+            "Operating system",
+            "Graphic program",
+            "Word Processing",
+            "Database program"
           ],
           "correctAnswerIndex": 0,
-          "solution": "Structured data, such as material consisting of both text and numbers, is most clearly and efficiently presented using a table slide."
+          "solution": "Microsoft Windows is the most widely used example of an Operating System, which manages computer hardware and software resources and provides common services for computer programs."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "In order to edit a chart, you can",
+          "section": "Computer Knowledge",
+          "text": "OS stands for",
           "passage": "",
           "options": [
-            "Triple click the chart object",
-            "Click and drag the chart object",
-            "Double click the chart object",
-            "Click the chart object"
+            "Operating solve",
+            "Open Source",
+            "Open System",
+            "Operating system"
           ],
-          "correctAnswerIndex": 2,
-          "solution": "In Microsoft Office applications, double-clicking an embedded object, such as a chart, typically opens the editing window or mode for that object."
+          "correctAnswerIndex": 3,
+          "solution": "OS is the standard abbreviation for Operating System."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "To exit the PowerPoint",
+          "section": "Computer Knowledge",
+          "text": "A co-processor",
           "passage": "",
           "options": [
-            "click the application minimize button",
-            "click the document close button",
-            "double click the applications control menu icon",
-            "double click the document control menu icon"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "A common way to close a Windows application is to double-click the small icon located on the far left of the title bar (the applications control menu icon)."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "To select one hyperlink after another during a slide presentation, what do you press?",
-          "passage": "",
-          "options": [
-            "Tab",
-            "Ctrl + K",
-            "Ctrl + h",
-            "All of above"
+            "Is relatively easy to support in software",
+            "Causes all processor to function equally",
+            "Works with any application",
+            "Is quite common in modern computer"
           ],
           "correctAnswerIndex": 0,
-          "solution": "The Tab key is used during a slide show to cycle through and activate interactive elements like hyperlinks or action buttons sequentially."
+          "solution": "A co-processor is a supplemental processor that works alongside the primary CPU. While it requires specific drivers or instructions, its integration is often standardized, making the necessary software support relatively straightforward."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Special effects used to introduce slides in a presentation are called",
+          "section": "Computer Knowledge",
+          "text": "The ...... program compresses large files into a smaller file",
           "passage": "",
           "options": [
-            "effects",
-            "custom animations",
-            "transitions",
-            "present animations"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "Slide transitions are the visual effects that occur when you move from one slide to the next during a presentation."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "What is the term used when you press and hold the left mouse key and move the mouse around the slide?",
-          "passage": "",
-          "options": [
-            "Highlighting",
-            "Dragging",
-            "Selecting",
-            "Moving"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "The action of holding down the left mouse button while moving the mouse is known as dragging."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "To give a PowerPoint presentation to a large audience, you:",
-          "passage": "",
-          "options": [
-            "Set up your computer in a large auditorium, and click large, auditorium, OK",
-            "Click the slide you wish the audience to see in normal view, then click the next slide, and so on.",
-            "Choose either view, slide show or slide show, view show",
-            "Slick slide show, OK"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "To begin the full-screen presentation mode for an audience, you must initiate the Slide Show view, which can be done through the 'Slide Show' menu or tab."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following can you use to add times to the slides in a presentation",
-          "passage": "",
-          "options": [
-            "Slice Show menu",
-            "Rehearse timing button",
-            "Slide transition button",
-            "All of the above"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "The 'Rehearse Timings' feature allows the presenter to practice and automatically record the duration spent on each slide, setting custom timings for the show."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following is not one of PowerPoint's views?",
-          "passage": "",
-          "options": [
-            "Slide show view",
-            "Slide view",
-            "Presentation view",
-            "Outline view"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "Standard PowerPoint views include Normal, Slide Sorter, Notes Page, and Slide Show. 'Presentation view' is not a standard, named view."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which PowerPoint view works best for adding slide transitions?",
-          "passage": "",
-          "options": [
-            "Slide show view",
-            "Slide sorter view",
-            "Slide view",
-            "Notes view"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "Slide Sorter view displays all slides as miniatures, making it efficient to select multiple slides and apply transitions uniformly."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following views is the best view to use when setting transition effects for all slides in a presentation",
-          "passage": "",
-          "options": [
-            "Slide sorter view",
-            "Notes page view",
-            "Slide view",
-            "Outline view"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "Slide Sorter View is ideal for managing effects across the entire presentation because it displays thumbnails of all slides."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which option can be used to set custom timings for slides in a presentation?",
-          "passage": "",
-          "options": [
-            "Slider Timings",
-            "Slider Timer",
-            "Rehearsal",
-            "Slide Show Setup"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "The 'Rehearsal' (or 'Rehearse Timings') feature allows you to capture and set custom durations for your slides during practice."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following will not advance the slides in a slide show view?",
-          "passage": "",
-          "options": [
-            "The esc key",
-            "The space bar",
-            "The enter key",
-            "The mouse button"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "The Esc key stops the slide show and exits the full-screen view. The Space Bar, Enter key, and mouse click are all used to advance slides."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "The quickest way to create a PowerPoint presentation is to use the",
-          "passage": "",
-          "options": [
-            "Word for windows templates",
-            "Auto creation wizard",
-            "Auto content wizard",
-            "Presentation wizard"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "The AutoContent Wizard (in older PowerPoint versions) provided a structured, step-by-step method with pre-designed content outlines, making it the quickest way to start a presentation."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following can you format using buttons on the formatting toolbar?",
-          "passage": "",
-          "options": [
-            "Your hard drive",
-            "Format painting",
-            "Font color",
-            "Underlining"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "The formatting toolbar provides direct access buttons for common text attributes, such as Bold, Italics, and Underlining."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "To start Microsoft PowerPoint application",
-          "passage": "",
-          "options": [
-            "Click on Start >> Programs >> All Programs >> Microsoft PowerPoint",
-            "Hit Ctrl + R then type ppoint.exe and Enter",
-            "Click Start >> Run then type powerpnt then press Enter",
-            "All of above"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "The executable filename for PowerPoint is 'powerpnt.exe'. Typing this name in the Run dialog (Start >> Run) launches the application."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which menu provides you options like Animation Scheme, custom Animation, Slide Transition?",
-          "passage": "",
-          "options": [
-            "Insert Menu",
-            "Format Menu",
-            "Tools Menu",
-            "Slide Show Menu"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "All controls related to how the presentation is played, including transitions and object animations, are grouped under the Slide Show menu or tab."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "In which menu can you find features like Slide Design, Slide Layout etc.?",
-          "passage": "",
-          "options": [
-            "Insert Menu",
-            "Format Menu",
-            "Tools Menu",
-            "Slide Show Menu"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "In classic PowerPoint interfaces, features governing the visual appearance and structure of the slides, such as Design and Layout, were found under the Format menu."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "The selected design template can be applied",
-          "passage": "",
-          "options": [
-            "To current slide only",
-            "To all the slides",
-            "To all the new presentation you create",
-            "All of above"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "A design template can be selectively applied to the current slide, universally applied to all existing slides, or saved as the default for future presentations."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "What feature will you use to apply motion effects in between a slide exits and another enters?",
-          "passage": "",
-          "options": [
-            "Slide Transition",
-            "Slide Design",
-            "Animation Objects",
-            "Animation Scheme"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "A Slide Transition is the motion effect that takes place when one slide leaves the screen and the next one appears."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "What PowerPoint feature will you use to apply motion effects to different objects of a slide?",
-          "passage": "",
-          "options": [
-            "Slide Transition",
-            "Slide Design",
-            "Animation Objects",
-            "Animation Scheme"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "An Animation Scheme is a predefined collection of animations that applies entrance, emphasis, and exit effects to the title, bullets, and other objects on a slide."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which command will you use in PowerPoint if you need to change the color of different objects without changing content?",
-          "passage": "",
-          "options": [
-            "Design Template",
-            "Color Scheme",
-            "Font Color",
-            "Object Color"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "A Color Scheme is a set of eight coordinated colors used in a presentation (for background, text, accents, etc.) that can be changed globally without affecting the content or layout."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which short cut key inserts a new slide in current presentation?",
-          "passage": "",
-          "options": [
-            "Ctrl+N",
-            "Ctrl+M",
-            "Ctrl+S",
-            "All of above"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "Ctrl + M is the shortcut used in PowerPoint to insert a new slide into the current presentation."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "To start slide show of a presentation",
-          "passage": "",
-          "options": [
-            "Hit F5 key",
-            "From Slide Show menu choose View Show option",
-            "From Slide Show menu choose Rehearse timing",
-            "Both a & b"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "A presentation can be started either by pressing the F5 key (from the beginning) or by manually selecting the 'View Show' option from the Slide Show menu."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "If you select Insert >> Picture >> From File",
-          "passage": "",
-          "options": [
-            "You can insert pictures and clipArts",
-            "You can insert clipArts only",
-            "You can insert pictures only",
+            "WinZip",
+            "WinShrink",
+            "WinStyle",
             "None of above"
           ],
-          "correctAnswerIndex": 2,
-          "solution": "The 'From File' option specifically accesses locally stored image files (pictures) for insertion, distinct from the ClipArt gallery."
+          "correctAnswerIndex": 0,
+          "solution": "WinZip is a well-known proprietary file archiver and compressor utility used to compress large files."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following font effect is not available in PowerPoint Font dialog box?",
+          "section": "Computer Knowledge",
+          "text": "My Computer was introduced from",
           "passage": "",
           "options": [
-            "Underline",
-            "Shadow",
-            "Emboss",
-            "Strikethrough"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "While Underline, Shadow, and Emboss are standard text effects commonly available in the font dialog box in PowerPoint, Strikethrough is sometimes found elsewhere or was omitted in older versions targeted by this question."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "To insert a hyperlink in a slide",
-          "passage": "",
-          "options": [
-            "Choose Insert >> Hyperlink",
-            "Press Ctrl + K",
-            "Hyperlinks can't be inserted in slides",
-            "Both a & b"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "Hyperlinks can be inserted by navigating the menu (Insert >> Hyperlink) or by using the universal shortcut Ctrl + K."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "In a PowerPoint presentation",
-          "passage": "",
-          "options": [
-            "Sound clips can be inserted but not movie clips",
-            "Movie clips can be inserted but not sound clips",
-            "Both cannot be inserted",
-            "Both can be inserted"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "PowerPoint supports the insertion of various multimedia elements, including both sound (audio) clips and movie (video) clips."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "To insert slide numbers",
-          "passage": "",
-          "options": [
-            "Insert a text box and select Insert >> Page Number",
-            "Insert a textbox and select Insert >> Number >> PageNumber",
-            "Choose Insert >> Slide Number",
-            "Insert a new text box and select Insert >> slide Number"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "Slide numbers are inserted via the Insert menu, often through the Header and Footer dialog, which handles text placeholders like slide numbers."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "What are the three options available in Insert >> Picture menu?",
-          "passage": "",
-          "options": [
-            "Clipart, Pictures, Shapes",
-            "Clipart, From File, Shapes",
-            "Clipart, From Files, AutoShapes",
-            "Clipart, Pictures, AutoShapes"
+            "Windows 3.1",
+            "Windows 3.11",
+            "Windows 95",
+            "Windows 98"
           ],
           "correctAnswerIndex": 2,
-          "solution": "The Insert > Picture menu typically allows insertion of Clip Art (pre-designed images), Pictures from Files (local images), and AutoShapes (predefined vector shapes)."
+          "solution": "The \"My Computer\" icon, central to the desktop interface for accessing drives and folders, was introduced with Microsoft Windows 95."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "From which menu you can access Picture, Test Box, Chart etc?",
+          "section": "Computer Knowledge",
+          "text": "Which of the following is not an operating system?",
           "passage": "",
           "options": [
-            "File",
-            "Edit",
-            "Insert",
-            "View"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "Objects that are added into a document, such as pictures, text boxes, and charts, are managed through the Insert menu."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following is not a part of Slide Design?",
-          "passage": "",
-          "options": [
-            "Design Template",
-            "Color Scheme",
-            "Animation Scheme",
-            "Slide Layout"
+            "DOS",
+            "Linux",
+            "Windows",
+            "Oracle"
           ],
           "correctAnswerIndex": 3,
-          "solution": "Slide Design refers to the visual appearance (template and color scheme). Slide Layout defines the structure and arrangement of content placeholders, which is typically managed separately from the design theme."
+          "solution": "DOS, Linux, and Windows are operating systems. Oracle is primarily known as a relational database management system (RDBMS)."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "What is the term used when a clip art image changes the direction of faces?",
+          "section": "Computer Knowledge",
+          "text": "Linux is a(n) ...... operating system",
           "passage": "",
           "options": [
-            "Group",
-            "Flip",
-            "Rotate",
-            "All of the above"
+            "Open source",
+            "Microsoft",
+            "Windows",
+            "Mac"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "Linux is famously known as a free and open-source operating system."
+        },
+        {
+          "section": "Computer Knowledge",
+          "text": "The most recent version of MAC OS is based on the ...... operating system",
+          "passage": "",
+          "options": [
+            "Windows",
+            "Linux",
+            "Unix",
+            "CMOS"
           ],
           "correctAnswerIndex": 2,
-          "solution": "While 'Flip' specifically creates a mirror image (changing the direction of faces), 'Rotate' changes the orientation of the object, which is the provided answer."
+          "solution": "macOS (formerly Mac OS X) is based on the Unix operating system and utilizes the Darwin core."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "The slide that is used to introduce a topic and set the tone for the presentation is called the",
+          "section": "Computer Knowledge",
+          "text": "In Windows, start button is used to",
           "passage": "",
           "options": [
-            "table slide",
-            "graph slide",
-            "bullet slide",
-            "title slide"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "The Title Slide is the introductory slide, used to state the presentation's topic and presenter information."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following features should you use when typing in the notes text box?",
-          "passage": "",
-          "options": [
-            "Slide show",
-            "Insert",
-            "Slide maser",
-            "Zoom"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "The Zoom feature allows you to magnify the notes text box area, making it easier to read and type content."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which command brings you to the first slide in your presentation?",
-          "passage": "",
-          "options": [
-            "Next slide button",
-            "Page up",
-            "Ctrl + Home",
-            "Ctrl + End"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "Pressing Ctrl + Home in PowerPoint (or most document applications) moves the cursor or selection point to the very beginning of the document or presentation (the first slide)."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "You can show the shortcut menu during the slide show by",
-          "passage": "",
-          "options": [
-            "Clicking the shortcut button on the formatting toolbar",
-            "Right clicking the current slide",
-            "Clicking an icon on the current slide",
-            "a and b"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "In Slide Show view, right-clicking anywhere on the screen displays the shortcut menu, providing options for navigation and viewing."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Auto clipart is a feature that",
-          "passage": "",
-          "options": [
-            "Automatically places clipart in your presentation",
-            "Scans your presentation for incorrect spelling in your words on each slide",
-            "Scans your presentation for incorrect spelling in Word Arts objects",
+            "Run applications",
+            "Device setting",
+            "Turn off the system",
             "All of above"
           ],
           "correctAnswerIndex": 3,
-          "solution": "Assuming 'Auto clipart' refers broadly to automated features related to object insertion and proofing: The listed features cover automatic insertion and spell checking of various text elements, including WordArt."
+          "solution": "The Start button in Windows provides access to running applications, system settings (Control Panel), and power options like shutting down or restarting the system."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "The view that displays the slides on a presentation as miniature representations of the slides is called",
+          "section": "Computer Knowledge",
+          "text": "The date and time displays on",
           "passage": "",
           "options": [
-            "slide show",
-            "slide sorter view",
-            "notes page view",
-            "outline view"
+            "Taskbar",
+            "Status bar",
+            "System tray",
+            "Launch pad"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "The system tray (or notification area) is located at the far right of the Windows taskbar, and it typically displays system icons, including the current date and time."
+        },
+        {
+          "section": "Computer Knowledge",
+          "text": "........ Is the layer of a computer system between the hardware and the user?",
+          "passage": "",
+          "options": [
+            "Operating environment",
+            "Operating system",
+            "System environment",
+            "None of these"
           ],
           "correctAnswerIndex": 1,
-          "solution": "Slide Sorter View displays all slides as thumbnails, making it easy to rearrange and manage the order of the presentation."
+          "solution": "The Operating System acts as the primary interface layer between the hardware components and the end user or application software."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following provides a printed copy of your presentation?",
+          "section": "Computer Knowledge",
+          "text": "Which is the first program run on a computer when the computer boots up?",
           "passage": "",
           "options": [
-            "Outline",
-            "Speaker notes",
-            "Audience handouts",
-            "All of the above"
+            "System software",
+            "Operating system",
+            "System operations",
+            "None"
           ],
-          "correctAnswerIndex": 2,
-          "solution": "While all listed options can be printed, 'Audience handouts' is a specific term for printed versions designed for the audience to take notes."
+          "correctAnswerIndex": 1,
+          "solution": "After the initial firmware (BIOS/UEFI) runs the bootstrap loader, the operating system kernel is loaded into memory, making it the first major program executed to initiate user interaction."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "When using PowerPoint, to play a PowerPoint show for previewing the show, select",
+          "section": "Computer Knowledge",
+          "text": "Which of the following requires a device driver?",
           "passage": "",
           "options": [
-            "View, slide sorter",
-            "View, slide",
-            "View, slide show",
-            "View outline"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "The Slide Show view is the mode used for playing the presentation in full-screen format."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "To select all the boxes of an organization chart",
-          "passage": "",
-          "options": [
-            "Click edit, select all",
-            "Right click the chart background click select all",
-            "Press and hold the shift key and click each box",
-            "All of the above"
+            "Register",
+            "Cache",
+            "Main memory",
+            "Disk"
           ],
           "correctAnswerIndex": 3,
-          "solution": "Multiple selection methods can be used: using the 'Select All' command (Edit menu or Ctrl+A), Shift+Clicking individual objects, or using context menu options."
+          "solution": "External devices like a Hard Disk (or disk controller) require a device driver for the operating system to communicate with them and manage their input/output operations."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following should be used when you want to add a slide to an existing presentation?",
+          "section": "Computer Knowledge",
+          "text": "A program in execution is called",
           "passage": "",
           "options": [
-            "File, add a new slide",
-            "Insert, new slide",
-            "File, open",
-            "File, new"
+            "A Paging",
+            "A Process",
+            "A virtual memory",
+            "A Demand Page"
           ],
           "correctAnswerIndex": 1,
-          "solution": "To add a slide into an existing presentation, you use the 'Insert' command followed by 'New Slide'."
+          "solution": "In computer science, an instance of a computer program that is being executed is called a process."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which key deletes text before, or the left of, the insertion point?",
+          "section": "Computer Knowledge",
+          "text": "Which of the following memory unit that processor can access more rapidly",
           "passage": "",
           "options": [
-            "Backspace",
-            "Page up",
-            "Delete",
-            "Page down"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "The Backspace key deletes characters located immediately to the left of the insertion point (cursor)."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Microsoft PowerPoint is a",
-          "passage": "",
-          "options": [
-            "Database program",
-            "Spreadsheet program",
-            "Presentation program",
-            "Word processing program"
+            "Main Memory",
+            "Virtual Memory",
+            "Cache memory",
+            "Read Only Memory"
           ],
           "correctAnswerIndex": 2,
-          "solution": "PowerPoint is software designed specifically for creating and delivering dynamic presentations."
+          "solution": "Cache memory is a small, very fast memory buffer located near the CPU that stores frequently used data, providing the fastest access speeds among the given options."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following programs is not a popular desktop publishing program?",
+          "section": "Computer Knowledge",
+          "text": "Which of the following is an example of a real-time operating system?",
           "passage": "",
           "options": [
-            "Adobe PageMaker",
-            "Microsoft Publisher",
-            "Lotus AmiPro",
-            "QuarkXPress"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "Adobe PageMaker, Microsoft Publisher, and QuarkXPress are Desktop Publishing (DTP) software. Lotus AmiPro was a word processing application."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which menu provides you options like Animation Scheme, custom Animation, Slide Transition?",
-          "passage": "",
-          "options": [
-            "Insert Menu",
-            "Format Menu",
-            "Tools Menu",
-            "Slide Show Menu"
+            "Lynx",
+            "MS-DOS",
+            "Windows XP",
+            "Process Control"
           ],
           "correctAnswerIndex": 3,
-          "solution": "Features for controlling movement and display during a presentation are contained within the Slide Show menu."
+          "solution": "Real-Time Operating Systems (RTOS) are essential for systems where timely responses are critical, such as industrial process control systems."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "In which menu can you find features like Slide Design, Slide Layout etc.?",
+          "section": "Computer Knowledge",
+          "text": "Which of the following shutdown method is often called Warm Boot?",
           "passage": "",
           "options": [
-            "Insert Menu",
-            "Format Menu",
-            "Tools Menu",
-            "Slide Show Menu"
+            "Shut Down",
+            "Restart",
+            "Sleep",
+            "Hibernate"
           ],
           "correctAnswerIndex": 1,
-          "solution": "In classic PowerPoint interfaces, features governing the visual theme and structure (Design, Layout) were found under the Format menu."
+          "solution": "A warm boot (or soft boot) is the process of restarting a computer using the operating system's functions (like 'Restart'), without cutting the power completely."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following is not a font style?",
+          "section": "Computer Knowledge",
+          "text": "If the displayed system time and date are wrong, you can reset it using",
           "passage": "",
           "options": [
-            "Bold",
-            "Italics",
-            "Regular",
-            "Superscript"
+            "Write",
+            "Calendar",
+            "Write file.",
+            "Control panel"
           ],
           "correctAnswerIndex": 3,
-          "solution": "Bold, Italics, and Regular are primary font styles. Superscript is considered a font effect or text attribute, not a core style."
+          "solution": "The system time and date settings are managed and adjusted via the Date and Time utility found within the Control Panel (or system settings)."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following is not a type of page margin?",
+          "section": "Computer Knowledge",
+          "text": "Which is not application software?",
           "passage": "",
           "options": [
-            "Left",
-            "Right",
-            "Center",
-            "Top"
+            "Windows NT",
+            "Page Maker",
+            "WinWord XP",
+            "Photoshop"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "Windows NT is an operating system, which falls under the category of system software. The others (PageMaker, WinWord, Photoshop) are application software."
+        },
+        {
+          "section": "Computer Knowledge",
+          "text": "Running multiple programs at the same time is called:",
+          "passage": "",
+          "options": [
+            "Multitasking",
+            "Foreground tasking",
+            "Single tasking",
+            "Symmetric"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "Multitasking is the ability of an operating system to manage and execute multiple processes or applications concurrently."
+        },
+        {
+          "section": "Computer Knowledge",
+          "text": "The ...... contains commands associated with the My Computer window",
+          "passage": "",
+          "options": [
+            "Standard menu",
+            "Start menu",
+            "System menu",
+            "None of the above"
           ],
           "correctAnswerIndex": 2,
-          "solution": "Page margins include Left, Right, Top, and Bottom. 'Center' refers to alignment, not a physical boundary of the page."
+          "solution": "The System menu (often accessible via Alt+Space or the window icon) contains basic window control commands like minimize, maximize, restore, move, and close, which are universally associated with the My Computer window frame."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "What is a portion of a document in which you set certain page formatting options?",
+          "section": "Computer Knowledge",
+          "text": "To install the new font in window XP",
           "passage": "",
           "options": [
-            "Page",
-            "Document",
-            "Section",
-            "Page Setup"
+            "Start -> setting -> control panel -> font",
+            "Start -> setting -> control panel -> font -> install new font",
+            "Start -> control panel -> font -> install new font",
+            "Start -> setting -> font"
           ],
-          "correctAnswerIndex": 2,
-          "solution": "A Section allows the user to apply unique formatting (such as different margins or column layouts) to discrete parts of a single document."
+          "correctAnswerIndex": 1,
+          "solution": "This is the correct procedural path in Windows XP to access the Fonts folder and initiate the installation of a new font file."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Background color or effects applied on a document is not visible in",
+          "section": "Computer Knowledge",
+          "text": "Which of the following operating system do you choose to implement a client-server network?",
           "passage": "",
           "options": [
-            "Web layout view",
-            "Print Layout view",
-            "Reading View",
-            "Print Preview"
+            "MS-DOS",
+            "Windows",
+            "Windows 98",
+            "Windows 2000"
           ],
           "correctAnswerIndex": 3,
-          "solution": "Background colors and effects are typically screen display features that are not intended to be printed, and thus are usually hidden in Print Preview."
+          "solution": "Windows 2000 (specifically Windows 2000 Server) was designed as a robust network operating system suitable for implementing and managing client-server architectures, unlike the consumer OS options listed."
         },
         {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following is not true about Find and Replace in Excel",
+          "section": "Computer Knowledge",
+          "text": "Which one is not an operating system?",
           "passage": "",
           "options": [
-            "You can search for bold and replace with italics",
-            "You can decide whether to look for the whole word or not",
-            "You can search in formula too",
-            "You can search by rows or columns or sheets"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "While Excel allows specifying search direction (by row/column) and scope (sheet/workbook), the phrasing 'search by rows or columns or sheets' is deemed the least accurate description of the primary Find/Replace functionality when compared to searching formats, formulas, and whole words."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "The best way to insert a new slide in a presentation is to use the",
-          "passage": "",
-          "options": [
-            "Normal view",
-            "Special view",
-            "Slide show view",
-            "Slide sorter view"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "Slide Sorter View provides a convenient visual overview, making it the best context for deciding where to insert a new slide."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "What is the maximum number of lines you can set for a drop cap?",
-          "passage": "",
-          "options": [
-            "3",
-            "10",
-            "15",
-            "20"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "In Microsoft Word, the maximum number of lines that a drop cap can occupy is 10."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following line spacing is invalid?",
-          "passage": "",
-          "options": [
-            "Single",
-            "Double",
-            "Triple",
-            "Multiple"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "The standard named line spacings are Single, 1.5 lines, and Double. 'Triple' is not a dedicated, named setting, although 3.0 spacing can be achieved using the 'Multiple' option."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following are word processing software?",
-          "passage": "",
-          "options": [
-            "WordPerfect",
-            "Easy Word",
-            "MS Word",
-            "All of above"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "WordPerfect, Easy Word, and MS Word are all recognized applications used for word processing."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following is not of the merge process?",
-          "passage": "",
-          "options": [
-            "Sort the data source records",
-            "Format a main document",
-            "Edit a data source",
-            "Merge the two files to print or create a new document"
+            "P11",
+            "OS/2",
+            "Windows",
+            "None"
           ],
           "correctAnswerIndex": 0,
-          "solution": "Sorting the data is an auxiliary step that prepares the data source, but it is not one of the fundamental required steps (Main Document setup, Data Source creation, Merging) of a mail merge operation."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following is the latest version of MS Word?",
-          "passage": "",
-          "options": [
-            "Word 2000",
-            "Word 2007",
-            "Word 2010",
-            "Word 2011"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "Among the options listed, Word 2010 is the latest release for the Windows platform."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "In Microsoft PowerPoint two kind of sound effects files that can be added to the presentation are",
-          "passage": "",
-          "options": [
-            ".wav files and .mid files",
-            ".wav files and .gif files",
-            ".wav files and .jpg files",
-            ".jpg files and .gif files"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": ".wav (Waveform) and .mid (MIDI) are both standard audio formats supported for sound effects in PowerPoint presentations."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Special effects used to introduce slides in a presentation are called",
-          "passage": "",
-          "options": [
-            "effects",
-            "custom animations",
-            "transitions",
-            "present animations"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "Transitions are the visual effects that introduce slides during a presentation."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "In Microsoft PowerPoint the entry effect as one slide replaces another in a show is called a (an)",
-          "passage": "",
-          "options": [
-            "animation",
-            "slide transition",
-            "custom animation",
-            "preset animation"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "The movement effect between the exit of one slide and the entry of the next is known as a slide transition."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "To add a header or footer to your handout, you can use",
-          "passage": "",
-          "options": [
-            "The title master",
-            "The slide master",
-            "The handout master",
-            "All of above"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "The Handout Master view is used exclusively to control the appearance and placement of headers, footers, and other background elements on printed handouts."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "In Microsoft PowerPoint in order to see all the slides on one screen use",
-          "passage": "",
-          "options": [
-            "view, slide sorter",
-            "view, slide",
-            "view, master",
-            "view, slide show"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "Slide Sorter view displays all slides as thumbnails on a single screen, allowing a comprehensive overview."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which of the following is the default page setup orientation for slides in PowerPoint?",
-          "passage": "",
-          "options": [
-            "Vertical",
-            "Landscape",
-            "Portrait",
-            "None of above"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "PowerPoint slides are typically wider than they are tall, meaning the default orientation is Landscape."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Pagemaker is a __________ software.",
-          "passage": "",
-          "options": [
-            "Desktop Publishing",
-            "Word Processor",
-            "Spredsheet",
-            "Presentation"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "Adobe PageMaker is a well-known example of Desktop Publishing (DTP) software used for page design and layout."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "__________ is at the top of the window and it display the name of the application.",
-          "passage": "",
-          "options": [
-            "Menu bar",
-            "Title bar",
-            "Tool bar",
-            "Tool box"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "The Title Bar is located at the top of the application window and displays the name of the software and the current document."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "__________ is displayed below the title bar",
-          "passage": "",
-          "options": [
-            "Menu bar",
-            "Title bar",
-            "Tool bar",
-            "Tool box"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "In most traditional application interfaces, the Menu Bar (containing File, Edit, View, etc.) is situated directly beneath the Title Bar."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Layout is in __________ bar.",
-          "passage": "",
-          "options": [
-            "Menu bar",
-            "Title bar",
-            "Tool bar",
-            "Tool box"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "In PageMaker, layout commands (such as inserting pages, column guides) are typically organized under the Layout menu, which is part of the Menu Bar."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Save option is present in __________ bar.",
-          "passage": "",
-          "options": [
-            "Menu bar",
-            "Title bar",
-            "Tool bar",
-            "Tool box"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "The 'Save' option is generally located under the 'File' menu, which belongs to the Menu Bar."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "The tool used to select any kind of object on the page is called __________ .",
-          "passage": "",
-          "options": [
-            "Rotate tool",
-            "Text tool",
-            "Pointer tool",
-            "Crop tool"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "The Pointer tool (or Selection tool) is the default tool used to select, move, and resize objects on the page."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "__________ contains all the tools we need to compose a page.",
-          "passage": "",
-          "options": [
-            "Menu bar",
-            "Title bar",
-            "Tool bar",
-            "Tool box"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "The Tool Box (or Tools palette) contains all the necessary manipulative tools (Pointer, Text, Crop, Shapes) required for layout and composition."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Clicking on the __________ tool changes the pointer to an insertion point for typing and highlighting text.",
-          "passage": "",
-          "options": [
-            "Rotate tool",
-            "Text tool",
-            "Pointer tool",
-            "Crop tool"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "The Text tool is specifically used to interact with text frames, enabling typing, selection, and editing."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "__________ tool rotates a text box or image to a desired angle.",
-          "passage": "",
-          "options": [
-            "Rotate tool",
-            "Text tool",
-            "Rotate tool",
-            "Crop tool"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "The Rotate tool is used to pivot a selected object (text box or image) around a specific axis or handle."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "__________ tool is used to reduce or cut image area.",
-          "passage": "",
-          "options": [
-            "Rotate tool",
-            "Text tool",
-            "Rotate tool",
-            "Crop tool"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "The Crop tool is used to trim the edges of an image, reducing the visible area without deleting the underlying file."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "__________ tool is used to draw square cornered boxes.",
-          "passage": "",
-          "options": [
-            "Rotate tool",
-            "Text tool",
-            "Box tool",
-            "Crop tool"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "The Box tool (or Rectangle Frame tool) is used in PageMaker to draw rectangular shapes with square corners."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "The tool used to move the entire page on the screen is called __________ .",
-          "passage": "",
-          "options": [
-            "Hand tool",
-            "Text tool",
-            "Box tool",
-            "Crop tool"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "The Hand tool (or pan tool) allows the user to drag the view of the document around the screen without affecting the content, useful when zoomed in."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "__________ tool is used to change the magnification of the page view.",
-          "passage": "",
-          "options": [
-            "Hand tool",
-            "Text tool",
-            "Zoom tool",
-            "Crop tool"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "The Zoom tool is used to control the visual size (magnification) of the page display."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Colors Palette is present in __________ menu.",
-          "passage": "",
-          "options": [
-            "Menu bar",
-            "Title bar",
-            "Tool bar",
-            "Window menu"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "Palettes and panels (like Colors, Styles, Layers) are typically displayed or hidden using commands found in the Window menu."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "The default orientation in Pagemaker 7.0 is __________ .",
-          "passage": "",
-          "options": [
-            "Tall",
-            "Wide",
-            "Broad",
-            "Narrow"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "'Tall' is the term PageMaker uses for Portrait orientation, which is the default for a new document."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "The style is draw a verticle line through the middle of each word is called __________ .",
-          "passage": "",
-          "options": [
-            "Reverse",
-            "Strike thru",
-            "Italic",
-            "Normal"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "Drawing a horizontal line through the center of text is known as Strikethrough or 'Strike thru'."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "__________ is the line between two lines of type.",
-          "passage": "",
-          "options": [
-            "Leading",
-            "Tracking",
-            "Formatting",
-            "Editing"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "Leading is the vertical space measured between the baseline of one line of text and the baseline of the line of text immediately following it."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Adjusting the space between two consecutive characters is called __________ .",
-          "passage": "",
-          "options": [
-            "Leading",
-            "Tracking",
-            "Formatting",
-            "Editing"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "Tracking (or letterspacing) refers to uniformly adjusting the space between characters over a selected block of text."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Paragraph formatting options are present in __________ menu.",
-          "passage": "",
-          "options": [
-            "Menu bar",
-            "Title bar",
-            "Tool bar",
-            "Type menu"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "In PageMaker, typographical controls for text, paragraphs, and indentation are located under the Type menu."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "__________ move the text inward from right and left margins.",
-          "passage": "",
-          "options": [
-            "Indent",
-            "Cut",
-            "Spacing",
-            "Formatting"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "Indentation controls the space between the text boundary and the page margins, moving the text inward."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Which is not an alignment option in Page maker?",
-          "passage": "",
-          "options": [
-            "Align Left",
-            "Justified",
-            "Center",
-            "Bottom"
-          ],
-          "correctAnswerIndex": 3,
-          "solution": "Align Left, Center, and Justified are standard horizontal alignment options for text. 'Bottom' relates to vertical alignment or page margins, not text alignment."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Cut option is present in __________ menu.",
-          "passage": "",
-          "options": [
-            "Menu bar",
-            "Edit menur",
-            "Tool bar",
-            "Type menu"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "The Cut command, along with Copy and Paste, is a standard editing function found in the Edit menu."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "Remove pages option is used in __________ menu.",
-          "passage": "",
-          "options": [
-            "Layout menu",
-            "Edit menu",
-            "Tool bar",
-            "Type menu"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "Commands related to the overall structure and page flow of the document, such as inserting or removing pages, are found in the Layout menu."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "__________ is used to specify both color and type of fill and line in one operation.",
-          "passage": "",
-          "options": [
-            "Fill and stroke",
-            "Fill",
-            "Insert page",
-            "Force Justify"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "In graphics and design software, 'Fill' controls the interior color, and 'Stroke' controls the line/border color and weight. Setting both simultaneously is managed by 'Fill and Stroke' controls."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "__________ means changing font size.",
-          "passage": "",
-          "options": [
-            "Leading",
-            "Tracking",
-            "Scaling",
-            "Editing"
-          ],
-          "correctAnswerIndex": 2,
-          "solution": "Scaling refers to altering the overall size or dimensions of the type, which encompasses changing the font size."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "__________ button inserted in slides will perform predefined action when you click the button",
-          "passage": "",
-          "options": [
-            "Action",
-            "Find",
-            "Justify",
-            "View"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "PowerPoint utilizes 'Action Buttons' to execute predetermined actions (like navigating or running a program) when clicked during a slide show."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "In Excel 2007, there are __________ worksheets in a workbook",
-          "passage": "",
-          "options": [
-            "2",
-            "3",
-            "1",
-            "5"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "By default, Microsoft Excel 2007 opens a new workbook with three empty worksheets (Sheet1, Sheet2, and Sheet3)."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "__________ is a table consisting of rows and columns.",
-          "passage": "",
-          "options": [
-            "Worksheet",
-            "Cell",
-            "Workbook",
-            "Range"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "A worksheet is the primary document within an Excel file, structured as a grid composed of intersecting rows and columns."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "The numeric data entered in the worksheet is __________ aligned by default.",
-          "passage": "",
-          "options": [
-            "Left",
-            "Right",
-            "Center",
-            "Top"
-          ],
-          "correctAnswerIndex": 1,
-          "solution": "In Microsoft Excel, numerical data is automatically aligned to the right side of the cell by default."
-        },
-        {
-          "section": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "text": "To insert a chart to excel, click on __________ tab.",
-          "passage": "",
-          "options": [
-            "Insert",
-            "Home",
-            "Formulas",
-            "View"
-          ],
-          "correctAnswerIndex": 0,
-          "solution": "The command to add charts, pictures, pivot tables, and other objects to an Excel worksheet is found on the Insert tab."
+          "solution": "OS/2 and Windows are established operating systems. P11 is not recognized as a standard, general-purpose operating system name."
         }
       ],
       "sections": [
         {
-          "name": "Computer Knowledge (PowerPoint, DTP, Excel)",
-          "key": "computer-knowledge-powerpoint-dtp-excel"
+          "name": "Computer Knowledge",
+          "key": "computer-knowledge"
         }
       ]
     }
   ],
   "sections": [
     {
-      "name": "Computer Knowledge (PowerPoint, DTP, Excel)",
-      "key": "computer-knowledge-powerpoint-dtp-excel"
+      "name": "Computer Knowledge",
+      "key": "computer-knowledge"
     }
   ],
-  "savedTime": "2025-12-16T04:33:56.300Z"
+  "savedTime": "2025-12-20T20:17:52.206Z"
 }
