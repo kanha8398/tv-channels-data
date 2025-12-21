@@ -1,1 +1,495 @@
-
+{
+  "config": {
+    "CORRECT": 1,
+    "INCORRECT": 0.33,
+    "TIME_MINUTES": 45
+  },
+  "sections": [
+    {
+      "section_name": "Quantitative Aptitude",
+      "questions": [
+        {
+          "passage": "",
+          "options": [
+            "12",
+            "15",
+            "10",
+            "18"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "The Selling Price (SP) is Rs. 48 per liter and profit is 60%. Thus, Cost Price (CP) per liter = 48 / 1.6 = 30 Rs/L. Total quantity is (x + 60) liters. Total CP = 30(x + 60) = 30x + 1800. Individual CP = 90x + 60(x + 10) = 150x + 600. Equating the total CP: 150x + 600 = 30x + 1800. 120x = 1200. x = 10.",
+          "question_text": "x liters of oil is Rs.90 per liter and 60 liters of water is Rs.(x + 10) per liter.If sold the mixture of oil and water for Rs.48 per liter making a total profit of 60%, then find the value of x?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 26,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "36 kmph",
+            "45 kmph",
+            "40 kmph",
+            "48 kmph"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "They met after T = 8 hours (8 am to 4 pm). Total distance D = 960 km. Let $D_A$ and $D_B$ be the distances covered. $D_A + D_B = 960$ and $D_B = D_A + 192$. Substituting: $2D_A + 192 = 960$. $2D_A = 768$. $D_A = 384$ km. Speed of Car A = $D_A / T = 384 / 8 = 48$ kmph.",
+          "question_text": "Car A started from Chennai towards Bangalore at 8 am and car B started from Bangalore towards Chennai at 8 am. If the distance between Chennai and Bangalore is 960 km and they met at 4 pm and car B covers 192 km more than that of car A.then find the speed of car A?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 299,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "Rs.6240",
+            "Rs.6270",
+            "Rs.6300",
+            "Rs.6330"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "Let CP = 5k and MP = 7k. Profit = 4.5%, so SP = 5k * 1.045 = 5.225k. The selling price is also calculated as SP = MP * (1 - 0.20) - 450. So, 5.225k = 7k * 0.80 - 450. 5.225k = 5.6k - 450. 0.375k = 450. k = 450 / 0.375 = 1200. Selling Price (SP) = 5.225k = 5.225 * 1200 = Rs. 6270.",
+          "question_text": "Ratio of the marked to cost price of the article is 7:5. If the shopkeeper offers two successive discounts of 20% and Rs.450 while he gets the profit of 4.5%,then find the selling price of the article?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 58,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "12 years",
+            "14 years",
+            "16 years",
+            "None of these"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "Let present ages be A=5x, B=4x. After 8 years, $(4x+8) / (C+8) = 3/1$. $C = (4x - 16) / 3$. Given A - C = 31. $5x - (4x - 16)/3 = 31$. $15x - 4x + 16 = 93$. $11x = 77$, so $x=7$. Present age of C = $(4*7 - 16)/3 = 4$ years. Age of C after 6 years = $4 + 6 = 10$ years. Since 10 years is not among the options, the answer is None of these.",
+          "question_text": "Ratio of the ages of A and B is 5:4.After 8 years, the ratio of the ages of B and C is 3:1.Difference between the age of A and C is 31 years, then find the age of C after 6 years?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 168,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "15 days",
+            "18 days",
+            "12 days",
+            "24 days"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "Let $R_A = 2k$ and $R_B + R_C = 3k$. Since $R_B = 1.5 R_C$, we have $1.5 R_C + R_C = 3k$, so $2.5 R_C = 3k$, and $R_C = 1.2k$. C completes the full work in $15 * 2 = 30$ days. Since Time is inversely proportional to Efficiency: $T_A / T_C = R_C / R_A$. $T_A / 30 = 1.2k / 2k = 0.6$. $T_A = 30 * 0.6 = 18$ days.",
+          "question_text": "Ratio of the efficiency of A to B and C together is 2:3. If the efficiency of B is 50% more than C and C alone complete the half of the work in 15days,then find the time taken by A alone to complete the work?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 27,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "12",
+            "10",
+            "15",
+            "18"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "Interest I = (P * R * T)/100. Here P=x, T=4. $I = (x * R * 4) / 100 = xR/25$. Given $I/x = 3/5$. So, $(xR/25) / x = 3/5$. $R/25 = 3/5$. $R = (3/5) * 25 = 15$.",
+          "question_text": "Sahul invests Rs.x in a simple interest scheme at the rate of R% per annum for 4 years. If the ratio of the interest received by Sahul to x is 3:5, then find the value of R?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "Rs.2600",
+            "Rs.3200",
+            "Rs.3900",
+            "Rs.1300"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "Assume the total business duration is 12 months. Shalini's investment duration is 12 months. Reena's duration is 8 months. Profit ratio (Shalini:Reena) = $(3600 * 12) : (3900 * 8) = (36 * 12) : (39 * 8) = 432 : 312 = 18 : 13$. Given profits are $(x + 1000)$ and $x$. $(x + 1000) / x = 18 / 13$. $13(x + 1000) = 18x$. $13x + 13000 = 18x$. $5x = 13000$. $x = 2600$. Reena's profit share is Rs. 2600.",
+          "question_text": "Shalini started the business with the investment of Rs.3600.After 4 months,Reena entered into the business by investing Rs.3900. If the profit share of Shalini and Reena is Rs.(x + 1000) and Rs.x respectively, then find the profit share of Reena?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "80 cm",
+            "90 cm",
+            "100cm",
+            "120cm"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "Let L=5k and B=3k. Area of square = $15^2 = 225$ cm$^2$. Area of rectangle = $15k^2$. Given $15k^2 = 225 + 150 = 375$. $k^2 = 375 / 15 = 25$. $k=5$. Length L=25 cm, Breadth B=15 cm. Perimeter = $2(L+B) = 2(25+15) = 2(40) = 80$ cm.",
+          "question_text": "The ratio of the length to breadth of the rectangular room is 5:3 and the side of the square is 15 cm. If the area of the rectangular room is 150 cm2more than the area of the square,find the perimeter of the rectangular room?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "24\t3 c\t",
+            "25\t3 c\t",
+            "32\t3 c\t",
+            "27\t3 c\t"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "The height (h) of an equilateral triangle with side 'a' is $h = (\t3/2)a$. Given $h = 5\t3$. $5\t3 = (\t3/2)a$. $a = 10$ cm. Area A = $(\t3/4)a^2 = (\t3/4) * 10^2 = 25\t3$ cm\t.",
+          "question_text": "If the height of the equilateral triangle is 5\t3 cm, then find the area of the equilateral triangle?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "12 hours",
+            "15 hours",
+            "18 hours",
+            "20 hours"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "Let $S_U$ be upstream speed. $S_D = S_U + 24$. We assume 680 km implies 340 km upstream and 340 km downstream for a standard travel pattern. However, for the given speeds to result in 88 hours, we must assume the boat travelled 680 km UPSTREAM and 680 km DOWNSTREAM (Total distance 1360 km). Let's test $S_U=10$. $S_D=34$. Time = $680/10 + 680/34 = 68 + 20 = 88$ hours. This matches. Speed in still water (B) = $(S_U + S_D)/2 = (10 + 34)/2 = 22$ kmph. Time to cover 330 km in still water = $330 / 22 = 15$ hours.",
+          "question_text": "A boat can travel 680 km upstream and downstream in 88 hours. If the speed of boat in downstream is 24kmph more than the speed of upstream,then find the time taken by the boat to cover 330 km in still water?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "40 years",
+            "51 years",
+            "29 years",
+            "27 years"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "Let S, D, R be present ages. 1) $(S+15)/(D+15) = 15/11 \t 11S = 15D + 60$. 2) $R = 1.25 D = 5D/4$. 3) $S + R = 110 \t S + 5D/4 = 110 \t 4S + 5D = 440$. Substitute $S = (15D + 60)/11$ into (3). $4((15D + 60)/11) + 5D = 440$. $60D + 240 + 55D = 4840$. $115D = 4600$. $D = 40$. The present age of Dhoni is 40 years.",
+          "question_text": "Ratio of the ages of Sachin and Dhoni after 15 years is 15:11 and the present age of Dravid is 25% more than the present age of Dhoni. If the sum of the present age of Sachin and Dravid is 110 years,then find the present age of Dhoni?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "Rs.8",
+            "Rs.10",
+            "Rs.12",
+            "RS.6"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "Let $CP_E$ and $CP_P$ be the cost prices. $CP_E + CP_P = 15$. Selling price of Eraser $SP_E = CP_E * (1 - 0.425) = 0.575 CP_E$. Selling price of Pencil $SP_P = CP_P * (1 + 0.15) = 1.15 CP_P$. Since $SP_E = SP_P$, $0.575 CP_E = 1.15 CP_P$. $CP_E = 2 CP_P$. Substituting into the sum equation: $2 CP_P + CP_P = 15$. $3 CP_P = 15$. $CP_P = 5$. $CP_E = 15 - 5 = 10$. The cost price of the eraser is Rs. 10.",
+          "question_text": "Sum of the cost price of an Eraser and Pencil is Rs.15. The shopkeeper sold an Eraser at a loss of 42.5% and the Pencil ata profit of 15%. If the selling price of an eraser and pencil is equal,then find the cost price of eraser?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "30",
+            "28",
+            "24",
+            "26"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "We have $|P - Q| = 4$ and $(P + 2) / Q = 5 / 4$. $4P + 8 = 5Q$. Case 1: $P = Q + 4$. $4(Q + 4) + 8 = 5Q$. $4Q + 16 + 8 = 5Q$. $Q = 24$. P = 28. This satisfies the ratio: $(28+2)/24 = 30/24 = 5/4$. Age of Q after 2 years = $24 + 2 = 26$.",
+          "question_text": "If the difference between the age of P and Q is 4 years and the ratio between the age of P after 2 years to the present age of Q is 5:4 then find age of Q after 2 years?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "Rs.40000",
+            "Rs.48000",
+            "Rs.50000",
+            "Rs.56000"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "Total Income $(I_A + I_B) * 0.30 = 26400$. $I_A + I_B = 26400 / 0.3 = 88000$. Income of A, $I_A = 1.2 I_B = 6/5 I_B$. Substituting: $(6/5) I_B + I_B = 88000$. $(11/5) I_B = 88000$. $I_B = 88000 * 5 / 11 = 8000 * 5 = Rs. 40000$.",
+          "question_text": "If A and B spend 30% of their income together which is equal to Rs.26400 and income of A is 20% more than B then find income of B?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "9",
+            "4",
+            "2",
+            "6"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "For Simple Interest with constant Principal (P) and Rate (R), Interest is proportional to Time (T). Ratio of interests $I_1 : I_2 = T_1 : T_2$. $T / (T + 4) = 1 / 2$. $2T = T + 4$. $T = 4$ years.",
+          "question_text": "If the same sum was invested at the same rate of interest on simple interest for T and T+4 years then the ratio of their interest becomes 1:2 find T?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "Rs.5600",
+            "Rs.7200",
+            "Rs.5200",
+            "Rs.6400"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "Since time period is the same, the profit sharing ratio equals the investment ratio. Total Profit = 6800. Profit of A ($P_A$) = 3200. Profit of B ($P_B$) = $6800 - 3200 = 3600$. Investment ratio $I_A / I_B = P_A / P_B$. $x / (x + 800) = 3200 / 3600 = 8 / 9$. $9x = 8(x + 800)$. $9x = 8x + 6400$. $x = Rs. 6400$.",
+          "question_text": "A & B invest x and x+800 rs.respectively for same period. Profit share of A is 3200 out of total profit of 6800.Then find x?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "32",
+            "18",
+            "24",
+            "30"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "Using the formula $M_1 D_1 / W_1 = M_2 D_2 / W_2$. $M_1=12, D_1=64, W_1=1$. $M_2=?, D_2=16, W_2=2/3$. $(12 * 64) / 1 = (M_2 * 16) / (2/3)$. $768 = M_2 * (48 / 2)$. $768 = M_2 * 24$. $M_2 = 768 / 24 = 32$. Hence, 32 women are required.",
+          "question_text": "12 women can complete a work in 64 days then find how many women will be required to complete 2/3 of the work in 16 days?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "4",
+            "6",
+            "2.5",
+            "3"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "Upstream speed $S_U = 10$ kmph. Downstream speed $S_D = 14$ kmph. Distance downstream in 6 hours ($D_D$) = $14 * 6 = 84$ km. Distance upstream in T hours ($D_U$) = $10 * T$. Given $D_U = D_D - 44$. $10T = 84 - 44$. $10T = 40$. $T = 4$ hours.",
+          "question_text": "If the upstream speed and downstream speed of a boat is 10 and 14 kmph respectively. If the distance covered in T hours in upstream is 44km less than distance covered in 6 hours by downstream, find T (in hours).",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "21cm",
+            "3.5cm",
+            "7cm",
+            "14cm"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "Let R be the radius. Circumference $C = 2\t R$. Rectangle length L = $2R$, breadth B = $R$. Perimeter $P_{rec} = 2(2R + R) = 6R$. Given $C = P_{rec} + 2$. $2\t R = 6R + 2$. $2R(\t - 3) = 2$. $R(\t - 3) = 1$. Using $\t \t 22/7$: $R(22/7 - 3) = 1$. $R(1/7) = 1$. $R = 7$ cm.",
+          "question_text": "The circumference of the circle is 2cm more than the perimeter of the rectangle whose length is equal to diameter and breadth is equal to radius of the circle. Find the radius of the circle.",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "32s",
+            "40s",
+            "44s",
+            "48s"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "Speed 1 $S_1 = 72$ kmph $= 72 * 5/18 = 20$ m/s. Length of train $L = S_1 * T_1 = 20 * 30 = 600$ meters. Speed 2 $S_2 = 54$ kmph $= 54 * 5/18 = 15$ m/s. Time taken to cross the pole at $S_2$ is $T_2 = L / S_2 = 600 / 15 = 40$ seconds.",
+          "question_text": "A train with speed of 72 kmph crosses a pole in 30 seconds then find the time taken by the same train to cross the pole with 54 kmph?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "Rs.200",
+            "Rs.175",
+            "Rs.125",
+            "Rs.250"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "Let CP = x. MP = 1.5x. SP = MP - Discount = 1.5x - 50. Profit = SP - CP. $50 = (1.5x - 50) - x$. $50 = 0.5x - 50$. $100 = 0.5x$. $x = 200$. CP = Rs. 200. Selling Price = CP + Profit = $200 + 50 = Rs. 250$.",
+          "question_text": "An article was mark up by 50% and allowed Rs.50 discount on it and still gains Rs. 50 profit then find the selling price of the article?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "120 liters",
+            "90 liters",
+            "240 liters",
+            "150 liters"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "Let initial milk $= 3K$ and initial water $= K$. Total removed = 20 L. Milk removed $= 20 * 3/4 = 15$ L. Water removed $= 20 * 1/4 = 5$ L. Remaining milk $M' = 3K - 15$. Remaining water $W' = K - 5$. Given $M' - W' = 70$. $(3K - 15) - (K - 5) = 70$. $2K - 10 = 70$. $2K = 80$. $K = 40$. Initial quantity of milk = $3K = 3 * 40 = 120$ liters.",
+          "question_text": "The ratio of milk and water in the jar is 3:1, if 20liters of this mixture is taken out,then the difference between milk and water quantities is 70 liters, then find the initial quantity of milk in the mixture.",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "Rs.1200",
+            "Rs.1500",
+            "Rs.1600",
+            "Rs.1800"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "Let $S_A$ and $S_B$ be the salaries. $S_A = S_B/3$, so $S_B = 3S_A$. Total salary $= S_A + S_B = 4S_A$. Remaining amount (85%) is Rs. 40800. $0.85 * (4S_A) = 40800$. $3.4 S_A = 40800$. $S_A = 40800 / 3.4 = 12000$ Rs. A's rent amount = 15% of $S_A = 0.15 * 12000 = Rs. 1800$.",
+          "question_text": "A's salary is one-third of B's salary and each of them spend 15% of their salary for rent and remaining amount they had together is Rs. 40800, then find A's rent amount",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "16 litres",
+            "12 litres",
+            "24 litres",
+            "21 litres"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "Initial total mixture = 84 L. 1/4th taken out = 21 L. Initial M:W ratio = 64:20 (16:5). Milk removed = 16 L, Water removed = 5 L. Remaining Milk = $64 - 16 = 48$ L. Remaining Water = $20 - 5 = 15$ L. After adding x litres of milk: Final Milk $= 48 + x$. Final Water $= 15$. Condition: Final Milk $= 4 * $ Final Water. $48 + x = 4 * 15 = 60$. $x = 60 - 48 = 12$ litres.",
+          "question_text": "A vessel contains 64 litres of pure milk and 20 litres of water.One-fourth of the mixture is taken out and x litres of pure milk is added in the vessel. What is the value of x if milk is 4 times the water in the final mixture?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "Rs.100",
+            "Rs.50",
+            "Rs.75",
+            "Rs.125"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "Let initial CP = C. Initial SP $S_1 = 1.12 C$. New CP $C' = 0.8 C$. New SP $S_2 = S_1 + 6 = 1.12 C + 6$. New profit is 50%, so $S_2 = 1.5 C'$. $1.12 C + 6 = 1.5 * (0.8 C)$. $1.12 C + 6 = 1.2 C$. $6 = 0.08 C$. $C = 6 / 0.08 = 75$. The cost price is Rs. 75.",
+          "question_text": "A man sells a tea cup at a profit of 12%.If he bought it 20% less and sold it for Rs. 6 more, he would have gained 50%. Find the cost price of the tea cup.",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "200m",
+            "300 m",
+            "450 m",
+            "150m"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "Let L be the length of the train and S be the speed. When crossing a man: $L/S = 20 \t L = 20S$. When crossing the platform: $(L + 450) / S = 80$. $L + 450 = 80S$. Substitute L: $20S + 450 = 80S$. $450 = 60S$. $S = 7.5$ m/s. Length $L = 20 * 7.5 = 150$ meters.",
+          "question_text": "A train crosses a 450 m platform in 80 seconds and crosses a man in the platform in 20 seconds. Find the length of the train.",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "11%",
+            "13%",
+            "12%",
+            "14%"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "For 2 years, the difference between CI and SI is given by $D = P (R/100)^2$. $30.42 = 1800 * (R/100)^2$. $30.42 = 1800 * R^2 / 10000$. $30.42 = 0.18 R^2$. $R^2 = 30.42 / 0.18 = 169$. $R = 13$%. ",
+          "question_text": "The difference between simple interest and compound interest accrued on an amount of Rs. 1800 in 2years was Rs. 30.42. What is the rate of interest per annum?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "4:7",
+            "5:7",
+            "3:7",
+            "7:5"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "Using the rule of alligation: Ratio of quantity 1 to quantity 2 = (Cost of 2nd - Mean Cost) : (Mean Cost - Cost of 1st). Ratio = $(35 - 32) : (32 - 25) = 3 : 7$.",
+          "question_text": "In what ratio must a shopkeeper have to mix the two varieties of rice costing Rs. 25 and 35 per kg respectively so as to get a mixture worth Rs.32 per kg?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "20",
+            "24",
+            "30",
+            "40"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "Initial total chocolates = $40 * 4 = 160$. Let N be the number of newly added students. If N new students are added, and each receives 2 chocolates, this suggests that the new overall average is 2. If the new average is 2, then $160 / (40 + N) = 2$. $160 = 80 + 2N$. $2N = 80$. $N = 40$ students.",
+          "question_text": "Average number of chocolates distributed in a class of 40 students is 4.How many students added newly if the each of them gets 2 chocolates?",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        },
+        {
+          "passage": "",
+          "options": [
+            "24 yrs",
+            "30 yrs",
+            "20 yrs",
+            "36 yrs"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "Given $A = B - 6$. $B/C = 12/5$. Let $B = 12k$ and $C = 5k$. Given $A = 2C$, so $A = 2(5k) = 10k$. Substituting A and B into the first equation: $10k = 12k - 6$. $2k = 6$. $k = 3$. Present age of B = $12k = 12 * 3 = 36$ years.",
+          "question_text": "A is 6 years younger than B.The ration between the present ages of B and C is 12: 5. If the present age of A is twice the present of C then find the present age of B.",
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0,
+          "mappedImage": null
+        }
+      ]
+    }
+  ],
+  "savedTime": "2025-12-12T10:22:44.605Z"
+}
