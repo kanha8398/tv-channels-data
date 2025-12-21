@@ -2,7 +2,7 @@
   "config": {
     "CORRECT": 1,
     "INCORRECT": 0.25,
-    "TIME_MINUTES": 20
+    "TIME_MINUTES": 15
   },
   "questions": [
     {
