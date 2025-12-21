@@ -1,0 +1,1312 @@
+{
+  "config": {
+    "CORRECT": 1,
+    "INCORRECT": 0.25,
+    "TIME_MINUTES": 02
+  },
+  "questions": [
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "What is the full form of CPU?",
+      "passage": "",
+      "options": [
+        "Computer Processing Unit",
+        "Computer Principle Unit",
+        "Central Processing Unit.",
+        "Control Processing Unit"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "CPU stands for Central Processing Unit. It is the electronic circuitry within a computer that executes instructions and processes data."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "Which of the following unit is responsible for converting the data received from the user into a computer understandable format?",
+      "passage": "",
+      "options": [
+        "Output Unit",
+        "Input Unit",
+        "Memory Unit",
+        "Arithmetic & Logic Unit."
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "The Input Unit converts human-readable data (e.g., keyboard strokes) into binary format (computer-understandable format) for processing."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "What does USB stand for?",
+      "passage": "",
+      "options": [
+        "Universal Signal Board",
+        "Universal Signal Bus",
+        "Universal Serial Bus.",
+        "Universal Serial Board"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "USB stands for Universal Serial Bus, an industry standard for connecting, communicating, and supplying power to electronic devices."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "A computer _________ is a malicious code which self-replicates by copying itself to other programs.",
+      "passage": "",
+      "options": [
+        "program",
+        "virus.",
+        "application",
+        "worm"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "A computer virus is a malicious code that attaches itself to legitimate programs and replicates itself, intending to cause harm or disruption."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "Shortcut key for \"Subscript\" is ________?",
+      "passage": "",
+      "options": [
+        "Ctrl + Shift + - -",
+        "Ctrl + Shift + =",
+        "Ctrl + =",
+        "Ctrl + -"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "The keyboard shortcut 'Ctrl + =' is used in applications like Microsoft Word to apply subscript formatting."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "Any system that uses the HTTP protocol is called ________?",
+      "passage": "",
+      "options": [
+        "Web Browser.",
+        "Web Server",
+        "WWW",
+        "TCP/IP"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "A Web Browser is an application that uses the HTTP protocol to request and display content from web servers on the World Wide Web."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "Which one of the following is known as 'Permanent Memory'?",
+      "passage": "",
+      "options": [
+        "RAM",
+        "ROM.",
+        "Cache",
+        "Registers"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "ROM (Read-Only Memory) is non-volatile, meaning it retains its data even when power is removed, hence it is known as permanent memory."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "A place that an user can create to store files is:",
+      "passage": "",
+      "options": [
+        "Cursor",
+        "Folder.",
+        "Boot",
+        "Text"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "A folder is a virtual location used to organize and store files and other folders on a computer system."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "The hardware in which data may be stored for a computer system is called:",
+      "passage": "",
+      "options": [
+        "Registers",
+        "Chip.",
+        "Memory",
+        "Control unit"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "Memory refers to the electronic storage area in a computer that holds data and instructions for immediate or long-term use."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "The ALU performs _________ operations.",
+      "passage": "",
+      "options": [
+        "Algorithm based",
+        "Logarithm based",
+        "Logic",
+        "ASCII"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "ALU (Arithmetic Logic Unit) performs both arithmetic operations (like addition) and logical operations (like AND, OR, NOT)."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "The smallest unit of storage is:",
+      "passage": "",
+      "options": [
+        "Byte",
+        "Bit.",
+        "Nibble.",
+        "Bug"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "A bit (Binary Digit) is the smallest unit of data in computing, represented by a binary value of 0 or 1."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "CD-ROM drive is used:",
+      "passage": "",
+      "options": [
+        "To play music",
+        "To install software",
+        "To play compact disc",
+        "To control virus"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "A CD-ROM drive is designed to read data from a Compact Disc (CD), whether it contains music, software, or other data."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "To protect yourself from computer hacker, you should turn on:",
+      "passage": "",
+      "options": [
+        "Google chrome",
+        "Script",
+        "Firewall.",
+        "AUP"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "A firewall acts as a security barrier, monitoring and controlling network traffic to block unauthorized access from hackers or malicious software."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "Which of the following controls the manner of interaction between the user and the operating system?",
+      "passage": "",
+      "options": [
+        "User Interface.",
+        "Screensaver",
+        "Platform",
+        "Language Translator"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "The User Interface (UI) determines how a user interacts with a computer program or operating system."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "Which file format is a method of encoding pictures on a computer?",
+      "passage": "",
+      "options": [
+        "FTP",
+        "JPEG.",
+        "URL",
+        "HTML"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "JPEG (Joint Photographic Experts Group) is a widely used method of lossy compression for digital images."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "Zip is a ________ file.",
+      "passage": "",
+      "options": [
+        "System",
+        "Combo",
+        "Executable",
+        "Compressed."
+      ],
+      "correctAnswerIndex": 3,
+      "solution": "A Zip file uses compression to reduce the file size and is often used to bundle multiple files into one archive."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "To restart the computer, which of the following combination of key is used?",
+      "passage": "",
+      "options": [
+        "Del + Ctrl",
+        "Backspace + Ctrl",
+        "Insert + Esc",
+        "Ctrl + Alt + Del."
+      ],
+      "correctAnswerIndex": 3,
+      "solution": "Ctrl + Alt + Del is the standard key combination used in Windows operating systems to access security options, including the option to restart."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "Malware is used to:",
+      "passage": "",
+      "options": [
+        "Disrupt computer operation",
+        "Gather sensitive information",
+        "Gain access to private computer systems",
+        "All of the above."
+      ],
+      "correctAnswerIndex": 3,
+      "solution": "Malware (malicious software) is designed to perform various harmful activities, including disruption, data theft, and unauthorized access."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "RAM is also called:",
+      "passage": "",
+      "options": [
+        "Volatile memory",
+        "Non-Volatile memory",
+        "Permanent Memory",
+        "Both a and c"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "RAM (Random Access Memory) is called volatile memory because the data stored in it is lost when the power supply is interrupted."
+    },
+    {
+      "section": "Computer/Internet Awareness",
+      "text": "Microsoft Word is an example of ________",
+      "passage": "",
+      "options": [
+        "An operating system",
+        "A processing device",
+        "An application software.",
+        "An input device"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "Microsoft Word is classified as application software, designed to help users perform specific tasks like word processing."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "As per Economic Survey 2024-25, nominal GDP of India has reached?",
+      "passage": "",
+      "options": [
+        "324.11 lakh crore",
+        "304.11 lakh crore",
+        "344.11 lakh crore",
+        "2184.11 lakh crore"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "This question refers to specific data points from a hypothetical or projected economic survey. Assuming the provided options reflect a targeted estimate for 2024-25 nominal GDP, 344.11 lakh crore is the intended answer."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "Globally which industry contributes maximum to greenhouse gas emission?",
+      "passage": "",
+      "options": [
+        "Power & Transport",
+        "Industrial Combustion",
+        "Agriculture.",
+        "Waste Industries"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "The Energy sector (Power generation and Transportation), primarily through the burning of fossil fuels, is the largest source of global greenhouse gas emissions."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "Which among the following is the main constituent of Biogas after methane?",
+      "passage": "",
+      "options": [
+        "Carbon dioxide.",
+        "Oxygen",
+        "Hydrogen",
+        "Ammonia"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "Biogas mainly consists of Methane (CH4), typically 50-75%, and Carbon Dioxide (CO2), making CO2 the second most abundant component."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "As per National Forest Policy, what should be the ideal percentage of forest cover in India for maintaining ecological balance?",
+      "passage": "",
+      "options": [
+        "32%",
+        "33%.",
+        "34%",
+        "35%"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "The National Forest Policy (1988) recommends that one-third (33%) of the country's total geographical area should be under forest or tree cover."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "As per latest Forest Survey of India report 2023, total forest cover of the country is?",
+      "passage": "",
+      "options": [
+        "8,27,356.95 Sq Km",
+        "7,15,342.61 Sq Km",
+        "62,156 Sq Km",
+        "1,32,156 Sq Km"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "The figure 7,15,342 Sq Km aligns closely with the total forest cover reported in the recent Forest Survey of India reports (ISFR 2021)."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "In which year did the Jallianwala Bagh Massacre take place?",
+      "passage": "",
+      "options": [
+        "1914",
+        "1918",
+        "1919.",
+        "1921"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "The Jallianwala Bagh Massacre occurred on April 13, 1919, in Amritsar."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "When was the Quit India Movement launched?",
+      "passage": "",
+      "options": [
+        "8th August, 1942",
+        "15th August, 1942.",
+        "1st August, 1942",
+        "26th May, 1942"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "The Quit India Movement was launched by the All India Congress Committee, led by Mahatma Gandhi, on August 8, 1942."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "Which one of the following was not a precipitating factor for launching of Non-cooperation Movement?",
+      "passage": "",
+      "options": [
+        "Passage of Rowlatt Act",
+        "Jallianwala Bagh Massacre",
+        "Dismemberment of Ottoman Empire.",
+        "Violence at Chauri Chaura Police Station"
+      ],
+      "correctAnswerIndex": 3,
+      "solution": "The Chauri Chaura incident (1922) led to the *withdrawal* of the Non-cooperation Movement, not its launching. The other factors were instrumental in its initiation (1920)."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "The Third battle of Panipat between Marathas and Afghan army took place in:",
+      "passage": "",
+      "options": [
+        "1751",
+        "1756",
+        "1761",
+        "1766"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "The Third Battle of Panipat was fought in 1761 between the Marathas and the Afghan forces led by Ahmad Shah Durrani."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "The Sun temple at Konark was constructed in:",
+      "passage": "",
+      "options": [
+        "13th century AD.",
+        "10th century AD",
+        "11th century AD",
+        "14th century AD"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "The Konark Sun Temple in Odisha was constructed by King Narasimhadeva I of the Eastern Ganga Dynasty around the middle of the 13th century AD."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "He/She attended the First Round Table Conference in London in 1931 and demanded separate Odisha province. Name him/her",
+      "passage": "",
+      "options": [
+        "Madhusudan Das",
+        "Gopabandhu Das",
+        "Maharaja Krushna Chandra Gajapati Narayan Deo",
+        "Rama Devi"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "Maharaja Krushna Chandra Gajapati Narayan Deo was a key figure who advocated for the formation of a separate Odisha province at the Round Table Conferences."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "In which year Na'Anka famine affected Odisha?",
+      "passage": "",
+      "options": [
+        "1860.",
+        "1866",
+        "1864",
+        "1885"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "The devastating Na'Anka Famine (known as the Famine of 'Nine Anka' or 1866 Famine) struck Odisha in 1866."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "What was the name of the capital of King Kharavela?",
+      "passage": "",
+      "options": [
+        "Toshali",
+        "Kalinganagara",
+        "Katak Nagari",
+        "Jajpur"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "King Kharavela of the Mahameghavahana dynasty ruled Kalinga from his capital, Kalinganagara."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "Which of the following is not a closed sea?",
+      "passage": "",
+      "options": [
+        "Dead Sea",
+        "Aral Sea",
+        "Caspian Sea",
+        "Black Sea"
+      ],
+      "correctAnswerIndex": 3,
+      "solution": "The Black Sea is connected to the Mediterranean Sea and the Atlantic Ocean via the Turkish Straits (Bosphorus and Dardanelles), meaning it is not a closed or landlocked sea."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "Which forest is known as the largest rain forest of the world?",
+      "passage": "",
+      "options": [
+        "Congo rain forest",
+        "Indo-Burma forest region",
+        "Amazon rain forest.",
+        "Australian rain forest"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "The Amazon rainforest in South America is widely recognized as the world's largest tropical rainforest."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "Which state has the highest density of Population in India according to 2011 census?",
+      "passage": "",
+      "options": [
+        "Bihar.",
+        "West Bengal",
+        "Kerala",
+        "Tamil Nadu"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "As per the 2011 Census, Bihar had the highest population density among all Indian states."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "Which among the following rivers does not pass through Odisha?",
+      "passage": "",
+      "options": [
+        "Mahanadi",
+        "Subarnarekha",
+        "Ganga.",
+        "Rushikulya"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "The Ganga (Ganges) river flows through several states but does not pass through Odisha. Mahanadi, Subarnarekha, and Rushikulya are prominent rivers of Odisha."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "Malkangiri's district headquarter is the farthest from state capital Bhubaneswar. Which district headquarter is the second farthest from state capital Bhubaneswar?",
+      "passage": "",
+      "options": [
+        "Nabarangpur",
+        "Nuapada",
+        "Koraput",
+        "Bhawanipatna"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "While distances can vary slightly depending on the route, Koraput is generally considered the second farthest district headquarter from Bhubaneswar after Malkangiri, located deep in the southern region of Odisha."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "What is the percentage of Rural Population in odisha as per latest 2011 Census?",
+      "passage": "",
+      "options": [
+        "81.3%",
+        "83.3%",
+        "85.3%",
+        "79.3%"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "According to the 2011 Census, the percentage of the rural population in Odisha was approximately 83.3%."
+    },
+    {
+      "section": "General Knowledge and Current Affairs",
+      "text": "What is the area of Odisha?",
+      "passage": "",
+      "options": [
+        "1,55,707 Sq. Km.",
+        "1,45,707 Sq. Km.",
+        "1,65,707 Sq. Km.",
+        "1,55,107 Sq. Km."
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "The total geographical area of Odisha state is 155,707 square kilometers."
+    }
+  ],
+  "imageMap": {},
+  "attempts": [
+    {
+      "userState": [
+        {
+          "selected": 2,
+          "status": "answered",
+          "timeSpent": 18
+        },
+        {
+          "selected": 1,
+          "status": "answered",
+          "timeSpent": 3
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 3
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 2
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 5
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 2
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 11
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 4
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 2
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 3
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 2
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 4
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 1
+        }
+      ],
+      "config": {
+        "CORRECT": 1,
+        "INCORRECT": 0.25,
+        "TIME_MINUTES": 20
+      },
+      "results": {
+        "overallScore": 2,
+        "maxScore": 40,
+        "accuracy": 100,
+        "correctCount": 2,
+        "incorrectCount": 0,
+        "attemptedCount": 2,
+        "unattemptedCount": 38,
+        "totalCount": 40,
+        "subjectBreakdown": {
+          "Computer/Internet Awareness": {
+            "correct": 2,
+            "incorrect": 0,
+            "total": 20,
+            "maxMark": 20,
+            "score": 2
+          },
+          "General Knowledge and Current Affairs": {
+            "correct": 0,
+            "incorrect": 0,
+            "total": 20,
+            "maxMark": 20,
+            "score": 0
+          }
+        }
+      },
+      "timestamp": "2025-12-21T10:57:00.401Z",
+      "source": "Full Mock",
+      "questions": [
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "What is the full form of CPU?",
+          "passage": "",
+          "options": [
+            "Computer Processing Unit",
+            "Computer Principle Unit",
+            "Central Processing Unit.",
+            "Control Processing Unit"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "CPU stands for Central Processing Unit. It is the electronic circuitry within a computer that executes instructions and processes data."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "Which of the following unit is responsible for converting the data received from the user into a computer understandable format?",
+          "passage": "",
+          "options": [
+            "Output Unit",
+            "Input Unit",
+            "Memory Unit",
+            "Arithmetic & Logic Unit."
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "The Input Unit converts human-readable data (e.g., keyboard strokes) into binary format (computer-understandable format) for processing."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "What does USB stand for?",
+          "passage": "",
+          "options": [
+            "Universal Signal Board",
+            "Universal Signal Bus",
+            "Universal Serial Bus.",
+            "Universal Serial Board"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "USB stands for Universal Serial Bus, an industry standard for connecting, communicating, and supplying power to electronic devices."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "A computer _________ is a malicious code which self-replicates by copying itself to other programs.",
+          "passage": "",
+          "options": [
+            "program",
+            "virus.",
+            "application",
+            "worm"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "A computer virus is a malicious code that attaches itself to legitimate programs and replicates itself, intending to cause harm or disruption."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "Shortcut key for \"Subscript\" is ________?",
+          "passage": "",
+          "options": [
+            "Ctrl + Shift + - -",
+            "Ctrl + Shift + =",
+            "Ctrl + =",
+            "Ctrl + -"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "The keyboard shortcut 'Ctrl + =' is used in applications like Microsoft Word to apply subscript formatting."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "Any system that uses the HTTP protocol is called ________?",
+          "passage": "",
+          "options": [
+            "Web Browser.",
+            "Web Server",
+            "WWW",
+            "TCP/IP"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "A Web Browser is an application that uses the HTTP protocol to request and display content from web servers on the World Wide Web."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "Which one of the following is known as 'Permanent Memory'?",
+          "passage": "",
+          "options": [
+            "RAM",
+            "ROM.",
+            "Cache",
+            "Registers"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "ROM (Read-Only Memory) is non-volatile, meaning it retains its data even when power is removed, hence it is known as permanent memory."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "A place that an user can create to store files is:",
+          "passage": "",
+          "options": [
+            "Cursor",
+            "Folder.",
+            "Boot",
+            "Text"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "A folder is a virtual location used to organize and store files and other folders on a computer system."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "The hardware in which data may be stored for a computer system is called:",
+          "passage": "",
+          "options": [
+            "Registers",
+            "Chip.",
+            "Memory",
+            "Control unit"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "Memory refers to the electronic storage area in a computer that holds data and instructions for immediate or long-term use."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "The ALU performs _________ operations.",
+          "passage": "",
+          "options": [
+            "Algorithm based",
+            "Logarithm based",
+            "Logic",
+            "ASCII"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "ALU (Arithmetic Logic Unit) performs both arithmetic operations (like addition) and logical operations (like AND, OR, NOT)."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "The smallest unit of storage is:",
+          "passage": "",
+          "options": [
+            "Byte",
+            "Bit.",
+            "Nibble.",
+            "Bug"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "A bit (Binary Digit) is the smallest unit of data in computing, represented by a binary value of 0 or 1."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "CD-ROM drive is used:",
+          "passage": "",
+          "options": [
+            "To play music",
+            "To install software",
+            "To play compact disc",
+            "To control virus"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "A CD-ROM drive is designed to read data from a Compact Disc (CD), whether it contains music, software, or other data."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "To protect yourself from computer hacker, you should turn on:",
+          "passage": "",
+          "options": [
+            "Google chrome",
+            "Script",
+            "Firewall.",
+            "AUP"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "A firewall acts as a security barrier, monitoring and controlling network traffic to block unauthorized access from hackers or malicious software."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "Which of the following controls the manner of interaction between the user and the operating system?",
+          "passage": "",
+          "options": [
+            "User Interface.",
+            "Screensaver",
+            "Platform",
+            "Language Translator"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "The User Interface (UI) determines how a user interacts with a computer program or operating system."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "Which file format is a method of encoding pictures on a computer?",
+          "passage": "",
+          "options": [
+            "FTP",
+            "JPEG.",
+            "URL",
+            "HTML"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "JPEG (Joint Photographic Experts Group) is a widely used method of lossy compression for digital images."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "Zip is a ________ file.",
+          "passage": "",
+          "options": [
+            "System",
+            "Combo",
+            "Executable",
+            "Compressed."
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "A Zip file uses compression to reduce the file size and is often used to bundle multiple files into one archive."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "To restart the computer, which of the following combination of key is used?",
+          "passage": "",
+          "options": [
+            "Del + Ctrl",
+            "Backspace + Ctrl",
+            "Insert + Esc",
+            "Ctrl + Alt + Del."
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "Ctrl + Alt + Del is the standard key combination used in Windows operating systems to access security options, including the option to restart."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "Malware is used to:",
+          "passage": "",
+          "options": [
+            "Disrupt computer operation",
+            "Gather sensitive information",
+            "Gain access to private computer systems",
+            "All of the above."
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "Malware (malicious software) is designed to perform various harmful activities, including disruption, data theft, and unauthorized access."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "RAM is also called:",
+          "passage": "",
+          "options": [
+            "Volatile memory",
+            "Non-Volatile memory",
+            "Permanent Memory",
+            "Both a and c"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "RAM (Random Access Memory) is called volatile memory because the data stored in it is lost when the power supply is interrupted."
+        },
+        {
+          "section": "Computer/Internet Awareness",
+          "text": "Microsoft Word is an example of ________",
+          "passage": "",
+          "options": [
+            "An operating system",
+            "A processing device",
+            "An application software.",
+            "An input device"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "Microsoft Word is classified as application software, designed to help users perform specific tasks like word processing."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "As per Economic Survey 2024-25, nominal GDP of India has reached?",
+          "passage": "",
+          "options": [
+            "324.11 lakh crore",
+            "304.11 lakh crore",
+            "344.11 lakh crore",
+            "2184.11 lakh crore"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "This question refers to specific data points from a hypothetical or projected economic survey. Assuming the provided options reflect a targeted estimate for 2024-25 nominal GDP, 344.11 lakh crore is the intended answer."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "Globally which industry contributes maximum to greenhouse gas emission?",
+          "passage": "",
+          "options": [
+            "Power & Transport",
+            "Industrial Combustion",
+            "Agriculture.",
+            "Waste Industries"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "The Energy sector (Power generation and Transportation), primarily through the burning of fossil fuels, is the largest source of global greenhouse gas emissions."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "Which among the following is the main constituent of Biogas after methane?",
+          "passage": "",
+          "options": [
+            "Carbon dioxide.",
+            "Oxygen",
+            "Hydrogen",
+            "Ammonia"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "Biogas mainly consists of Methane (CH4), typically 50-75%, and Carbon Dioxide (CO2), making CO2 the second most abundant component."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "As per National Forest Policy, what should be the ideal percentage of forest cover in India for maintaining ecological balance?",
+          "passage": "",
+          "options": [
+            "32%",
+            "33%.",
+            "34%",
+            "35%"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "The National Forest Policy (1988) recommends that one-third (33%) of the country's total geographical area should be under forest or tree cover."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "As per latest Forest Survey of India report 2023, total forest cover of the country is?",
+          "passage": "",
+          "options": [
+            "8,27,356.95 Sq Km",
+            "7,15,342.61 Sq Km",
+            "62,156 Sq Km",
+            "1,32,156 Sq Km"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "The figure 7,15,342 Sq Km aligns closely with the total forest cover reported in the recent Forest Survey of India reports (ISFR 2021)."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "In which year did the Jallianwala Bagh Massacre take place?",
+          "passage": "",
+          "options": [
+            "1914",
+            "1918",
+            "1919.",
+            "1921"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "The Jallianwala Bagh Massacre occurred on April 13, 1919, in Amritsar."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "When was the Quit India Movement launched?",
+          "passage": "",
+          "options": [
+            "8th August, 1942",
+            "15th August, 1942.",
+            "1st August, 1942",
+            "26th May, 1942"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "The Quit India Movement was launched by the All India Congress Committee, led by Mahatma Gandhi, on August 8, 1942."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "Which one of the following was not a precipitating factor for launching of Non-cooperation Movement?",
+          "passage": "",
+          "options": [
+            "Passage of Rowlatt Act",
+            "Jallianwala Bagh Massacre",
+            "Dismemberment of Ottoman Empire.",
+            "Violence at Chauri Chaura Police Station"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "The Chauri Chaura incident (1922) led to the *withdrawal* of the Non-cooperation Movement, not its launching. The other factors were instrumental in its initiation (1920)."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "The Third battle of Panipat between Marathas and Afghan army took place in:",
+          "passage": "",
+          "options": [
+            "1751",
+            "1756",
+            "1761",
+            "1766"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "The Third Battle of Panipat was fought in 1761 between the Marathas and the Afghan forces led by Ahmad Shah Durrani."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "The Sun temple at Konark was constructed in:",
+          "passage": "",
+          "options": [
+            "13th century AD.",
+            "10th century AD",
+            "11th century AD",
+            "14th century AD"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "The Konark Sun Temple in Odisha was constructed by King Narasimhadeva I of the Eastern Ganga Dynasty around the middle of the 13th century AD."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "He/She attended the First Round Table Conference in London in 1931 and demanded separate Odisha province. Name him/her",
+          "passage": "",
+          "options": [
+            "Madhusudan Das",
+            "Gopabandhu Das",
+            "Maharaja Krushna Chandra Gajapati Narayan Deo",
+            "Rama Devi"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "Maharaja Krushna Chandra Gajapati Narayan Deo was a key figure who advocated for the formation of a separate Odisha province at the Round Table Conferences."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "In which year Na'Anka famine affected Odisha?",
+          "passage": "",
+          "options": [
+            "1860.",
+            "1866",
+            "1864",
+            "1885"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "The devastating Na'Anka Famine (known as the Famine of 'Nine Anka' or 1866 Famine) struck Odisha in 1866."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "What was the name of the capital of King Kharavela?",
+          "passage": "",
+          "options": [
+            "Toshali",
+            "Kalinganagara",
+            "Katak Nagari",
+            "Jajpur"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "King Kharavela of the Mahameghavahana dynasty ruled Kalinga from his capital, Kalinganagara."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "Which of the following is not a closed sea?",
+          "passage": "",
+          "options": [
+            "Dead Sea",
+            "Aral Sea",
+            "Caspian Sea",
+            "Black Sea"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "The Black Sea is connected to the Mediterranean Sea and the Atlantic Ocean via the Turkish Straits (Bosphorus and Dardanelles), meaning it is not a closed or landlocked sea."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "Which forest is known as the largest rain forest of the world?",
+          "passage": "",
+          "options": [
+            "Congo rain forest",
+            "Indo-Burma forest region",
+            "Amazon rain forest.",
+            "Australian rain forest"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "The Amazon rainforest in South America is widely recognized as the world's largest tropical rainforest."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "Which state has the highest density of Population in India according to 2011 census?",
+          "passage": "",
+          "options": [
+            "Bihar.",
+            "West Bengal",
+            "Kerala",
+            "Tamil Nadu"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "As per the 2011 Census, Bihar had the highest population density among all Indian states."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "Which among the following rivers does not pass through Odisha?",
+          "passage": "",
+          "options": [
+            "Mahanadi",
+            "Subarnarekha",
+            "Ganga.",
+            "Rushikulya"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "The Ganga (Ganges) river flows through several states but does not pass through Odisha. Mahanadi, Subarnarekha, and Rushikulya are prominent rivers of Odisha."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "Malkangiri's district headquarter is the farthest from state capital Bhubaneswar. Which district headquarter is the second farthest from state capital Bhubaneswar?",
+          "passage": "",
+          "options": [
+            "Nabarangpur",
+            "Nuapada",
+            "Koraput",
+            "Bhawanipatna"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "While distances can vary slightly depending on the route, Koraput is generally considered the second farthest district headquarter from Bhubaneswar after Malkangiri, located deep in the southern region of Odisha."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "What is the percentage of Rural Population in odisha as per latest 2011 Census?",
+          "passage": "",
+          "options": [
+            "81.3%",
+            "83.3%",
+            "85.3%",
+            "79.3%"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "According to the 2011 Census, the percentage of the rural population in Odisha was approximately 83.3%."
+        },
+        {
+          "section": "General Knowledge and Current Affairs",
+          "text": "What is the area of Odisha?",
+          "passage": "",
+          "options": [
+            "1,55,707 Sq. Km.",
+            "1,45,707 Sq. Km.",
+            "1,65,707 Sq. Km.",
+            "1,55,107 Sq. Km."
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "The total geographical area of Odisha state is 155,707 square kilometers."
+        }
+      ],
+      "sections": [
+        {
+          "name": "Computer/Internet Awareness",
+          "key": "computerinternet-awareness"
+        },
+        {
+          "name": "General Knowledge and Current Affairs",
+          "key": "general-knowledge-and-current-affairs"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "name": "Computer/Internet Awareness",
+      "key": "computerinternet-awareness"
+    },
+    {
+      "name": "General Knowledge and Current Affairs",
+      "key": "general-knowledge-and-current-affairs"
+    }
+  ],
+  "savedTime": "2025-12-21T10:57:04.573Z"
+}
