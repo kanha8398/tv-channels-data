@@ -1,1 +1,987 @@
-
+{
+  "config": {
+    "CORRECT": 1,
+    "INCORRECT": 0.25,
+    "TIME_MINUTES": 10
+  },
+  "questions": [
+    {
+      "section": "Current Affairs",
+      "text": "On which date 'International Women's Day 2026' is celebrated?",
+      "passage": "",
+      "options": [
+        "08 March",
+        "09 March",
+        "07 March",
+        "10 March"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "International Women's Day, observed every year on March 8, celebrates women's achievements and honours the ongoing struggle for equality and liberation. Theme 2026: - Give to Gain."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Who became the first captain to score a century in the T20 World Cup?",
+      "passage": "",
+      "options": [
+        "Salman Agha (Pakistan)",
+        "Dasun Shanaka (Sri Lanka)",
+        "Harry Brook (England)",
+        "Suryakumar Yadav (India)"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "On February 24, 2026, a Super 8 match was played between Pakistan and England at the Pallekele Stadium in Sri Lanka. England captain Harry Brook completed his century in this match by scoring 100 runs in 51 balls, hitting 10 fours and 4 sixes. Harry Brook became the first captain in the history of the tournament to score a century. Previously, West Indies' Chris Gayle's 98 runs in 2010 was the highest score."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Which country has launched the world's first Sovereign Financial Cloud Services Infrastructure (SFCSI) for secure banking operations?",
+      "passage": "",
+      "options": [
+        "Saudi Arabia",
+        "United Arab Emirates",
+        "Singapore",
+        "Qatar"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "The Central Bank of the United Arab Emirates unveiled the Sovereign Financial Cloud Services Infrastructure (SFCSI) on 27 February 2026. It is considered the world's first sovereign financial cloud infrastructure. The platform is developed in partnership with Core42, a subsidiary of G42. The AI-powered system ensures financial data remains within the UAE's national jurisdiction. The initiative aims to strengthen regulatory oversight and enhance secure digital banking systems."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "What is the name of Tripura's first incubation and innovation hub launched to promote startups and entrepreneurship?",
+      "passage": "",
+      "options": [
+        "T-Nest",
+        "StartTripura",
+        "NorthEast Innovate Hub",
+        "Agartala Startup Centre"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "T-Nest (Tripura: Nurturing Entrepreneurship and Startups) is the first incubation and innovation hub of Tripura. The hub is located in Hapania, Agartala. It was inaugurated by Manik Saha, Chief Minister of Tripura. The initiative operates under the Tripura State Innovation Mission."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Which country operates the Iron Dome, David's Sling, and Arrow missile defence systems?",
+      "passage": "",
+      "options": [
+        "United States",
+        "Israel",
+        "France",
+        "Russia"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "Israel has a multi-layered air defence system to counter missiles, rockets and drones. Arrow missile defence system (Arrow-2 & Arrow-3) intercepts long-range ballistic missiles. David's Sling targets medium-range missiles, aircraft, drones and cruise missiles. Iron Dome intercepts short-range rockets, mortars and drones and became operational in 2011. Iron Beam is an emerging laser-based air defence system being developed by Israel."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Mission Basundhara 3.0, recently in news, was launched by which state government?",
+      "passage": "",
+      "options": [
+        "Odisha",
+        "Assam",
+        "West Bengal",
+        "Tripura"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "Himanta Biswa Sarma launched Mission Basundhara 3.0 in Assam. Over 1,06,905 indigenous landless families and institutions received land pattas. The programme was inaugurated at Deuri Beel in Dhemaji district."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "The Rajasthan government has renamed Mount Abu as what?",
+      "passage": "",
+      "options": [
+        "Arbudgiri",
+        "Rajgiri",
+        "Devparvat",
+        "Aburaj"
+      ],
+      "correctAnswerIndex": 3,
+      "solution": "Bhajanlal Sharma announced that Mount Abu will be renamed Aburaj in the Rajasthan Assembly. The move aims to restore the historical and cultural identity of the region. Government records, documents, and signboards will be updated with the new names. Note :- Kaman Renamed Kamvan and Jahazpur Renamed Yagyapur. Kaman will now officially be called Kamvan."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "India and which country launched a €20 million climate resilience initiative to support India's National Adaptation Plan?",
+      "passage": "",
+      "options": [
+        "France",
+        "Germany",
+        "Japan",
+        "United Kingdom"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "India and Germany launched a €20 million climate resilience initiative. The funding comes from International Climate Initiative (IKI) of Germany. The project will support India's upcoming National Adaptation Plan (NAP)."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "The village Soundala, which declared itself a \"caste-free village\" in February 2026, is located in which district?",
+      "passage": "",
+      "options": [
+        "Ahilyanagar",
+        "Nashik",
+        "Pune",
+        "Satara"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "Soundala village in Maharashtra declared itself a \"caste-free village\" on 5 February 2026. The resolution was passed in a special Gram Sabha in Ahilyanagar district (formerly Ahmednagar). The initiative was led by Sarpanch Sharad Argade. The resolution bans asking or publicising caste and discourages caste-based slurs. Motto of the initiative: \"My caste is humanity.\""
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Which team won the Ranji Trophy 2025-26 in their maiden final appearance?",
+      "passage": "",
+      "options": [
+        "Karnataka cricket team",
+        "Mumbai cricket team",
+        "Jammu and Kashmir cricket team",
+        "Delhi cricket team"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "Jammu and Kashmir cricket team won the Ranji Trophy 2025-26 in their first-ever final appearance. They defeated the Karnataka cricket team in the final."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "The Sustainable Road Safety Financing Project launched in India in February 2026 is an initiative of which organization?",
+      "passage": "",
+      "options": [
+        "World Bank",
+        "United Nations Road Safety Fund",
+        "International Monetary Fund",
+        "Asian Development Bank"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "The Sustainable Road Safety Financing Project was launched on 24 February 2026. The project was launched in New Delhi. The initiative was launched by the United Nations Road Safety Fund (UNRSF). The launch took place during the visit of Jean Todt. The main aim is to develop sustainable and long-term financing mechanisms for road safety in India. The project promotes road safety bonds, dedicated taxes, and Public-Private Partnerships (PPP) to fund safety programmes."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "What name did Israel give to its military operation targeting Iran in the recent coordinated strikes with the United States?",
+      "passage": "",
+      "options": [
+        "Operation Iron Shield",
+        "Operation Lion's Roar",
+        "Operation Desert Storm",
+        "Operation Thunder Strike"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "The United States and Israel launched coordinated strikes against Iran, escalating tensions in West Asia. Israel named the campaign Operation Lion's Roar, while the US referred to its role as Operation Epic Fury. Strikes reportedly hit cities including Kermanshah, Qom, Isfahan, Tabriz, and Karaj. Several commanders from the Islamic Revolutionary Guard Corps were reportedly killed. Donald Trump and Benjamin Netanyahu defended the operation as necessary to counter Iran's nuclear ambitions and security threats. Iran retaliated with missile strikes targeting Israel and US facilities in the region."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Varanasi entered the Guinness World Records for planting over 2.5 lakh saplings in one hour using which plantation technique?",
+      "passage": "",
+      "options": [
+        "Miyawaki Method",
+        "Hydroponic Method",
+        "Agroforestry Method",
+        "Terrace Plantation Method"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "Varanasi entered the Guinness World Records by planting over 2.5 lakh saplings in one hour. The plantation drive was organised by the Varanasi Municipal Corporation on 1 March 2026. Around 20,000 residents participated in the large-scale environmental initiative. The plantation took place in the Domari under the Namo Van initiative. About 2.51 lakh saplings were planted in 60 minutes, surpassing China's previous record of 1.53 lakh. The project covers nearly 350 bighas of land to expand green cover. The Miyawaki Method is used to accelerate forest growth and improve biodiversity."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Catherine O'Hara won the SAG Award for Outstanding Performance by a Female Actor in a Comedy Series for which show?",
+      "passage": "",
+      "options": [
+        "Hacks",
+        "Wednesday",
+        "The Studio",
+        "Palm Royale"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "Catherine O'Hara received a posthumous honour at the SAG-AFTRA Screen Actors Guild Awards. She won Outstanding Performance by a Female Actor in a Comedy Series for The Studio. Her co-star Seth Rogen accepted the award on her behalf. The audience gave a standing ovation, making it one of the ceremony's most emotional moments. Other nominees included Kathryn Hahn, Jenna Ortega, Jean Smart, and Kristen Wiig."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Nine cheetahs from Botswana were recently released into quarantine enclosures at which national park in India?",
+      "passage": "",
+      "options": [
+        "Kanha National Park",
+        "Ranthambore National Park",
+        "Kuno National Park",
+        "Bandipur National Park"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "Bhupender Yadav released nine cheetahs brought from Botswana into Kuno National Park. With this arrival, India's cheetah population reached 48, including 28 India-born cubs. The cheetahs include six females and three males. They will stay in quarantine enclosures for health monitoring and acclimatization before release into the wild. The initiative is part of Project Cheetah."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Who has been appointed as the Chairman and Managing Director (CMD) of GAIL (India) Limited in March 2026?",
+      "passage": "",
+      "options": [
+        "Sandeep Kumar Gupta",
+        "Deepak Gupta",
+        "Alok Sharma",
+        "Rajesh Verma"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "Deepak Gupta assumed charge as CMD of GAIL (India) Limited on 1 March 2026. He succeeded Sandeep Kumar Gupta, who retired on 28 February 2026. His tenure as CMD will continue until 28 February 2029. Before this role, he served as Director (Projects) at GAIL since February 2022. GAIL (India) Limited is India's largest natural gas transmission and marketing company."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Recently Which state government launched the Divyang Sahayak Portal, India's first fully integrated online platform for disability welfare schemes?",
+      "passage": "",
+      "options": [
+        "Maharashtra",
+        "Gujarat",
+        "Karnataka",
+        "Tamil Nadu"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "The Divyang Sahayak Portal was launched by the Maharashtra government in February 2026. It is described as India's first fully integrated digital platform for disability welfare schemes. The portal supports online applications, real-time tracking, automatic approvals, and AI-based grievance redressal."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Saudi Arabia's major oil refinery that temporarily halted operations after a drone attack is located at:",
+      "passage": "",
+      "options": [
+        "Jeddah",
+        "Yanbu",
+        "Ras Tanura",
+        "Riyadh"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "Ras Tanura oil refinery in Saudi Arabia temporarily halted operations after a drone attack. The facility is operated by Saudi Aramco, the kingdom's state-owned oil company. The refinery is located near Dammam in eastern Saudi Arabia. Saudi defense forces intercepted the drones before they hit critical infrastructure. The refinery has a daily production capacity of more than 500,000 barrels of crude oil."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Who was awarded the Jeevan Gaurav Samman at the National Arogya Fair 2026?",
+      "passage": "",
+      "options": [
+        "P. M. Warrier",
+        "Devendra Triguna",
+        "Rakesh Amarnath Sharma",
+        "Ashutosh Satish Gupta"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "The National Arogya Fair 2026 was held in Shegaon from 25-28 February 2026. The awards were presented by Droupadi Murmu. Devendra Triguna received the Jeevan Gaurav Samman for lifelong service to Ayurveda. Ayurveda Gaurav Samman was awarded to Rakesh Amarnath Sharma, P. M. Warrier, Ramdas Avhad, Maneesha Upendra Kothekar, and Ashutosh Satish Gupta. The event was organised by the Ministry of Ayush in association with Akhil Bhartiya Ayurved Mahasammelan. The awards recognised scholarship, clinical excellence, and global promotion of Ayurveda."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Which country became the first in the United Kingdom to legalize water cremation (alkaline hydrolysis)?",
+      "passage": "",
+      "options": [
+        "England",
+        "Wales",
+        "Scotland",
+        "Northern Ireland"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "Scotland became the first nation in the UK to legalize water cremation (alkaline hydrolysis). The reform was approved by the Scottish Parliament. Water cremation is also called alkaline hydrolysis, considered an eco-friendly funeral method. The process uses water and potassium hydroxide at about 150°C for around 90 minutes to decompose the body. It has a lower carbon footprint than flame cremation and avoids emissions like carbon dioxide and mercury."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Debrigarh Wildlife Sanctuary, which recently hosted the Indian Bison Fest, is located in which state?",
+      "passage": "",
+      "options": [
+        "Maharashtra",
+        "Karnataka",
+        "Madhya Pradesh",
+        "Odisha"
+      ],
+      "correctAnswerIndex": 3,
+      "solution": "Debrigarh Wildlife Sanctuary hosted the second edition of the two-day Indian Bison Fest. It is located in Bargarh district of Odisha near Hirakud Dam on the Mahanadi River. Hirakud Dam is the longest dam in India and the longest earthen dam in the world. The sanctuary is linked with freedom fighter Veer Surendra Sai, whose base at Barapathara was here during revolt against British rule."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Tamil Nadu's first Dark Sky Park has been established at which place?",
+      "passage": "",
+      "options": [
+        "Coonoor",
+        "Kolli Hills",
+        "Kodaikanal",
+        "Yercaud"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "Tamil Nadu launched its first Dark Sky Park at Ariyur Shola Reserve Forest in Kolli Hills, Namakkal district to promote astro-tourism. It was inaugurated remotely from Chennai by Forest Minister R S Rajakannappan. Kolli Hills was selected due to high altitude, dense forest cover and minimal light pollution within 1.5 km radius. The park enables clear viewing of stars, planets, Milky Way galaxy and the Moon."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Alexander Stubb, the President of Finland, will be the Chief Guest at which major global conference held in New Delhi in March 2026?",
+      "passage": "",
+      "options": [
+        "Munich Security Conference",
+        "World Economic Forum",
+        "Raisina Dialogue",
+        "G20 Summit"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "Alexander Stubb will visit India from 4-7 March 2026. He will serve as the Chief Guest of the 11th Raisina Dialogue in New Delhi. The visit marks Stubb's first trip to India as President of Finland. He will hold bilateral talks with Narendra Modi to review India-Finland relations. Key cooperation areas include trade, digital innovation, clean technology, education and emerging technologies."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Who became the first Kashmiri woman to be appointed Superintendent of Central Jail Srinagar in 2026?",
+      "passage": "",
+      "options": [
+        "Saba Shawl",
+        "Hina Shamsi",
+        "Shazia Parveen",
+        "Nuzhat Gul"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "Saba Shawl became the first Kashmiri woman Superintendent of Central Jail Srinagar. Her appointment was issued through Government Order No. 145-Home of 2026 (2 March 2026). She belongs to Peerbagh in Srinagar. Shawl holds a Master's degree in Social Work and previously worked with the Indo Global Social Service Society."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Who among the following has become the 93rd Grandmaster of India?",
+      "passage": "",
+      "options": [
+        "Divya Deshmukh",
+        "V. S. Raahul",
+        "Aarav Dengala",
+        "Aaryan Varshney"
+      ],
+      "correctAnswerIndex": 2,
+      "solution": "The 16-year-old from Mumbai secured his final GM norm and crossed the 2500 Elo rating mark in February 2026 at the GM & IM Round Robin Festival in Bosnia and Herzegovina, specifically at the GM Mix Bijeljina 2026 tournament."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Who is expected to resign as the Chief Minister of Bihar and move to the Rajya Sabha according to recent reports?",
+      "passage": "",
+      "options": [
+        "Tejashwi Yadav",
+        "Nitish Kumar",
+        "Samrat Choudhary",
+        "Nityanand Rai"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "Nitish Kumar is expected to resign as the Chief Minister of Bihar and move to the Rajya Sabha. He has been one of the longest-serving Chief Ministers of Bihar. The development may lead to the selection of a new Chief Minister in Bihar soon. Leaders like Samrat Choudhary and Nityanand Rai are being discussed as possible successors. The move could significantly reshape Bihar's political landscape."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Which state has enabled offline e-crop registration to help farmers facing internet connectivity issues?",
+      "passage": "",
+      "options": [
+        "Gujarat",
+        "Madhya Pradesh",
+        "Telangana",
+        "Maharashtra"
+      ],
+      "correctAnswerIndex": 3,
+      "solution": "Maharashtra government introduced an offline facility for e-crop registration to support farmers in areas with poor internet connectivity. Farmers can take photos of their standing crops offline, which will automatically upload once the network becomes available. The system is part of the Digital Crop Survey (DCS) linked to the e-crop registration process. The initiative addresses problems like server downtime, GPS errors, and lack of connectivity in rural areas. The state aims for around 80% of crop registrations to be completed directly by farmers using the system."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "World Seagrass Day is observed on which day every year?",
+      "passage": "",
+      "options": [
+        "March 1",
+        "March 2",
+        "March 3",
+        "March 4"
+      ],
+      "correctAnswerIndex": 0,
+      "solution": "World Seagrass Day is observed on March 1 to raise awareness about seagrass conservation. Seagrass is crucial for marine biodiversity, coastline stability, and carbon absorption. The United Nations General Assembly (UNGA) declared this observance on May 22, 2022, based on Sri Lanka's proposal."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "GI-tagged Karbi Anglong Ginger, that was recently seen in news, is associated with which state?",
+      "passage": "",
+      "options": [
+        "Nagaland",
+        "Mizoram",
+        "Manipur",
+        "Assam"
+      ],
+      "correctAnswerIndex": 3,
+      "solution": "Assam flagged off its first trial export of 1.2 metric tonnes of Geographical Indication tagged Karbi Anglong Ginger to London, marking a major agricultural milestone. Karbi Anglong district produces this premium ginger variety known for strong aroma, high pungency and medicinal value. It is grown mainly in Singhasan Hills using traditional Jhum shifting cultivation and Tila farming methods. It has Geographical Indication tag, confirming its unique origin and quality. It has high essential oil content, strong earthy flavour and digestive and anti-inflammatory benefits. It is widely demanded in culinary, pharmaceutical and processing industries."
+    },
+    {
+      "section": "Current Affairs",
+      "text": "Recently, the Ashmolean Museum of the University of Oxford agreed to return a 16th-century bronze statue of which saint to India?",
+      "passage": "",
+      "options": [
+        "Nammalvar",
+        "Tirumankai Alvar",
+        "Andal",
+        "Ramanujacharya"
+      ],
+      "correctAnswerIndex": 1,
+      "solution": "The Ashmolean Museum decided to return a 16th-century bronze idol of Saint Tirumankai Alvar that originally belonged to a temple in Tamil Nadu. The idol originally belonged to the Soundararajaperumal Temple in Thadikombu, Tamil Nadu. The statue had been in the museum's collection since 1967 after being acquired from a private collector. Tirumankai Alvar is one of the twelve Alvar saints of the Vaishnavite Bhakti tradition. The case emerged after a 1957 photograph showed the idol in the temple, prompting a provenance investigation and India's request for its return."
+    }
+  ],
+  "imageMap": {},
+  "attempts": [
+    {
+      "userState": [
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 7
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        },
+        {
+          "selected": null,
+          "status": "unattempted",
+          "timeSpent": 0
+        }
+      ],
+      "config": {
+        "CORRECT": 1,
+        "INCORRECT": 0.25,
+        "TIME_MINUTES": 10
+      },
+      "results": {
+        "overallScore": 0,
+        "maxScore": 30,
+        "accuracy": 0,
+        "correctCount": 0,
+        "incorrectCount": 0,
+        "attemptedCount": 0,
+        "unattemptedCount": 30,
+        "totalCount": 30,
+        "subjectBreakdown": {
+          "Current Affairs": {
+            "correct": 0,
+            "incorrect": 0,
+            "total": 30,
+            "maxMark": 30,
+            "score": 0
+          }
+        }
+      },
+      "timestamp": "2026-04-09T12:48:56.884Z",
+      "source": "Full Mock",
+      "questions": [
+        {
+          "section": "Current Affairs",
+          "text": "On which date 'International Women's Day 2026' is celebrated?",
+          "passage": "",
+          "options": [
+            "08 March",
+            "09 March",
+            "07 March",
+            "10 March"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "International Women's Day, observed every year on March 8, celebrates women's achievements and honours the ongoing struggle for equality and liberation. Theme 2026: - Give to Gain."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Who became the first captain to score a century in the T20 World Cup?",
+          "passage": "",
+          "options": [
+            "Salman Agha (Pakistan)",
+            "Dasun Shanaka (Sri Lanka)",
+            "Harry Brook (England)",
+            "Suryakumar Yadav (India)"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "On February 24, 2026, a Super 8 match was played between Pakistan and England at the Pallekele Stadium in Sri Lanka. England captain Harry Brook completed his century in this match by scoring 100 runs in 51 balls, hitting 10 fours and 4 sixes. Harry Brook became the first captain in the history of the tournament to score a century. Previously, West Indies' Chris Gayle's 98 runs in 2010 was the highest score."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Which country has launched the world's first Sovereign Financial Cloud Services Infrastructure (SFCSI) for secure banking operations?",
+          "passage": "",
+          "options": [
+            "Saudi Arabia",
+            "United Arab Emirates",
+            "Singapore",
+            "Qatar"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "The Central Bank of the United Arab Emirates unveiled the Sovereign Financial Cloud Services Infrastructure (SFCSI) on 27 February 2026. It is considered the world's first sovereign financial cloud infrastructure. The platform is developed in partnership with Core42, a subsidiary of G42. The AI-powered system ensures financial data remains within the UAE's national jurisdiction. The initiative aims to strengthen regulatory oversight and enhance secure digital banking systems."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "What is the name of Tripura's first incubation and innovation hub launched to promote startups and entrepreneurship?",
+          "passage": "",
+          "options": [
+            "T-Nest",
+            "StartTripura",
+            "NorthEast Innovate Hub",
+            "Agartala Startup Centre"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "T-Nest (Tripura: Nurturing Entrepreneurship and Startups) is the first incubation and innovation hub of Tripura. The hub is located in Hapania, Agartala. It was inaugurated by Manik Saha, Chief Minister of Tripura. The initiative operates under the Tripura State Innovation Mission."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Which country operates the Iron Dome, David's Sling, and Arrow missile defence systems?",
+          "passage": "",
+          "options": [
+            "United States",
+            "Israel",
+            "France",
+            "Russia"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "Israel has a multi-layered air defence system to counter missiles, rockets and drones. Arrow missile defence system (Arrow-2 & Arrow-3) intercepts long-range ballistic missiles. David's Sling targets medium-range missiles, aircraft, drones and cruise missiles. Iron Dome intercepts short-range rockets, mortars and drones and became operational in 2011. Iron Beam is an emerging laser-based air defence system being developed by Israel."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Mission Basundhara 3.0, recently in news, was launched by which state government?",
+          "passage": "",
+          "options": [
+            "Odisha",
+            "Assam",
+            "West Bengal",
+            "Tripura"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "Himanta Biswa Sarma launched Mission Basundhara 3.0 in Assam. Over 1,06,905 indigenous landless families and institutions received land pattas. The programme was inaugurated at Deuri Beel in Dhemaji district."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "The Rajasthan government has renamed Mount Abu as what?",
+          "passage": "",
+          "options": [
+            "Arbudgiri",
+            "Rajgiri",
+            "Devparvat",
+            "Aburaj"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "Bhajanlal Sharma announced that Mount Abu will be renamed Aburaj in the Rajasthan Assembly. The move aims to restore the historical and cultural identity of the region. Government records, documents, and signboards will be updated with the new names. Note :- Kaman Renamed Kamvan and Jahazpur Renamed Yagyapur. Kaman will now officially be called Kamvan."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "India and which country launched a €20 million climate resilience initiative to support India's National Adaptation Plan?",
+          "passage": "",
+          "options": [
+            "France",
+            "Germany",
+            "Japan",
+            "United Kingdom"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "India and Germany launched a €20 million climate resilience initiative. The funding comes from International Climate Initiative (IKI) of Germany. The project will support India's upcoming National Adaptation Plan (NAP)."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "The village Soundala, which declared itself a \"caste-free village\" in February 2026, is located in which district?",
+          "passage": "",
+          "options": [
+            "Ahilyanagar",
+            "Nashik",
+            "Pune",
+            "Satara"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "Soundala village in Maharashtra declared itself a \"caste-free village\" on 5 February 2026. The resolution was passed in a special Gram Sabha in Ahilyanagar district (formerly Ahmednagar). The initiative was led by Sarpanch Sharad Argade. The resolution bans asking or publicising caste and discourages caste-based slurs. Motto of the initiative: \"My caste is humanity.\""
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Which team won the Ranji Trophy 2025-26 in their maiden final appearance?",
+          "passage": "",
+          "options": [
+            "Karnataka cricket team",
+            "Mumbai cricket team",
+            "Jammu and Kashmir cricket team",
+            "Delhi cricket team"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "Jammu and Kashmir cricket team won the Ranji Trophy 2025-26 in their first-ever final appearance. They defeated the Karnataka cricket team in the final."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "The Sustainable Road Safety Financing Project launched in India in February 2026 is an initiative of which organization?",
+          "passage": "",
+          "options": [
+            "World Bank",
+            "United Nations Road Safety Fund",
+            "International Monetary Fund",
+            "Asian Development Bank"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "The Sustainable Road Safety Financing Project was launched on 24 February 2026. The project was launched in New Delhi. The initiative was launched by the United Nations Road Safety Fund (UNRSF). The launch took place during the visit of Jean Todt. The main aim is to develop sustainable and long-term financing mechanisms for road safety in India. The project promotes road safety bonds, dedicated taxes, and Public-Private Partnerships (PPP) to fund safety programmes."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "What name did Israel give to its military operation targeting Iran in the recent coordinated strikes with the United States?",
+          "passage": "",
+          "options": [
+            "Operation Iron Shield",
+            "Operation Lion's Roar",
+            "Operation Desert Storm",
+            "Operation Thunder Strike"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "The United States and Israel launched coordinated strikes against Iran, escalating tensions in West Asia. Israel named the campaign Operation Lion's Roar, while the US referred to its role as Operation Epic Fury. Strikes reportedly hit cities including Kermanshah, Qom, Isfahan, Tabriz, and Karaj. Several commanders from the Islamic Revolutionary Guard Corps were reportedly killed. Donald Trump and Benjamin Netanyahu defended the operation as necessary to counter Iran's nuclear ambitions and security threats. Iran retaliated with missile strikes targeting Israel and US facilities in the region."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Varanasi entered the Guinness World Records for planting over 2.5 lakh saplings in one hour using which plantation technique?",
+          "passage": "",
+          "options": [
+            "Miyawaki Method",
+            "Hydroponic Method",
+            "Agroforestry Method",
+            "Terrace Plantation Method"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "Varanasi entered the Guinness World Records by planting over 2.5 lakh saplings in one hour. The plantation drive was organised by the Varanasi Municipal Corporation on 1 March 2026. Around 20,000 residents participated in the large-scale environmental initiative. The plantation took place in the Domari under the Namo Van initiative. About 2.51 lakh saplings were planted in 60 minutes, surpassing China's previous record of 1.53 lakh. The project covers nearly 350 bighas of land to expand green cover. The Miyawaki Method is used to accelerate forest growth and improve biodiversity."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Catherine O'Hara won the SAG Award for Outstanding Performance by a Female Actor in a Comedy Series for which show?",
+          "passage": "",
+          "options": [
+            "Hacks",
+            "Wednesday",
+            "The Studio",
+            "Palm Royale"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "Catherine O'Hara received a posthumous honour at the SAG-AFTRA Screen Actors Guild Awards. She won Outstanding Performance by a Female Actor in a Comedy Series for The Studio. Her co-star Seth Rogen accepted the award on her behalf. The audience gave a standing ovation, making it one of the ceremony's most emotional moments. Other nominees included Kathryn Hahn, Jenna Ortega, Jean Smart, and Kristen Wiig."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Nine cheetahs from Botswana were recently released into quarantine enclosures at which national park in India?",
+          "passage": "",
+          "options": [
+            "Kanha National Park",
+            "Ranthambore National Park",
+            "Kuno National Park",
+            "Bandipur National Park"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "Bhupender Yadav released nine cheetahs brought from Botswana into Kuno National Park. With this arrival, India's cheetah population reached 48, including 28 India-born cubs. The cheetahs include six females and three males. They will stay in quarantine enclosures for health monitoring and acclimatization before release into the wild. The initiative is part of Project Cheetah."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Who has been appointed as the Chairman and Managing Director (CMD) of GAIL (India) Limited in March 2026?",
+          "passage": "",
+          "options": [
+            "Sandeep Kumar Gupta",
+            "Deepak Gupta",
+            "Alok Sharma",
+            "Rajesh Verma"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "Deepak Gupta assumed charge as CMD of GAIL (India) Limited on 1 March 2026. He succeeded Sandeep Kumar Gupta, who retired on 28 February 2026. His tenure as CMD will continue until 28 February 2029. Before this role, he served as Director (Projects) at GAIL since February 2022. GAIL (India) Limited is India's largest natural gas transmission and marketing company."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Recently Which state government launched the Divyang Sahayak Portal, India's first fully integrated online platform for disability welfare schemes?",
+          "passage": "",
+          "options": [
+            "Maharashtra",
+            "Gujarat",
+            "Karnataka",
+            "Tamil Nadu"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "The Divyang Sahayak Portal was launched by the Maharashtra government in February 2026. It is described as India's first fully integrated digital platform for disability welfare schemes. The portal supports online applications, real-time tracking, automatic approvals, and AI-based grievance redressal."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Saudi Arabia's major oil refinery that temporarily halted operations after a drone attack is located at:",
+          "passage": "",
+          "options": [
+            "Jeddah",
+            "Yanbu",
+            "Ras Tanura",
+            "Riyadh"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "Ras Tanura oil refinery in Saudi Arabia temporarily halted operations after a drone attack. The facility is operated by Saudi Aramco, the kingdom's state-owned oil company. The refinery is located near Dammam in eastern Saudi Arabia. Saudi defense forces intercepted the drones before they hit critical infrastructure. The refinery has a daily production capacity of more than 500,000 barrels of crude oil."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Who was awarded the Jeevan Gaurav Samman at the National Arogya Fair 2026?",
+          "passage": "",
+          "options": [
+            "P. M. Warrier",
+            "Devendra Triguna",
+            "Rakesh Amarnath Sharma",
+            "Ashutosh Satish Gupta"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "The National Arogya Fair 2026 was held in Shegaon from 25-28 February 2026. The awards were presented by Droupadi Murmu. Devendra Triguna received the Jeevan Gaurav Samman for lifelong service to Ayurveda. Ayurveda Gaurav Samman was awarded to Rakesh Amarnath Sharma, P. M. Warrier, Ramdas Avhad, Maneesha Upendra Kothekar, and Ashutosh Satish Gupta. The event was organised by the Ministry of Ayush in association with Akhil Bhartiya Ayurved Mahasammelan. The awards recognised scholarship, clinical excellence, and global promotion of Ayurveda."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Which country became the first in the United Kingdom to legalize water cremation (alkaline hydrolysis)?",
+          "passage": "",
+          "options": [
+            "England",
+            "Wales",
+            "Scotland",
+            "Northern Ireland"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "Scotland became the first nation in the UK to legalize water cremation (alkaline hydrolysis). The reform was approved by the Scottish Parliament. Water cremation is also called alkaline hydrolysis, considered an eco-friendly funeral method. The process uses water and potassium hydroxide at about 150°C for around 90 minutes to decompose the body. It has a lower carbon footprint than flame cremation and avoids emissions like carbon dioxide and mercury."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Debrigarh Wildlife Sanctuary, which recently hosted the Indian Bison Fest, is located in which state?",
+          "passage": "",
+          "options": [
+            "Maharashtra",
+            "Karnataka",
+            "Madhya Pradesh",
+            "Odisha"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "Debrigarh Wildlife Sanctuary hosted the second edition of the two-day Indian Bison Fest. It is located in Bargarh district of Odisha near Hirakud Dam on the Mahanadi River. Hirakud Dam is the longest dam in India and the longest earthen dam in the world. The sanctuary is linked with freedom fighter Veer Surendra Sai, whose base at Barapathara was here during revolt against British rule."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Tamil Nadu's first Dark Sky Park has been established at which place?",
+          "passage": "",
+          "options": [
+            "Coonoor",
+            "Kolli Hills",
+            "Kodaikanal",
+            "Yercaud"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "Tamil Nadu launched its first Dark Sky Park at Ariyur Shola Reserve Forest in Kolli Hills, Namakkal district to promote astro-tourism. It was inaugurated remotely from Chennai by Forest Minister R S Rajakannappan. Kolli Hills was selected due to high altitude, dense forest cover and minimal light pollution within 1.5 km radius. The park enables clear viewing of stars, planets, Milky Way galaxy and the Moon."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Alexander Stubb, the President of Finland, will be the Chief Guest at which major global conference held in New Delhi in March 2026?",
+          "passage": "",
+          "options": [
+            "Munich Security Conference",
+            "World Economic Forum",
+            "Raisina Dialogue",
+            "G20 Summit"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "Alexander Stubb will visit India from 4-7 March 2026. He will serve as the Chief Guest of the 11th Raisina Dialogue in New Delhi. The visit marks Stubb's first trip to India as President of Finland. He will hold bilateral talks with Narendra Modi to review India-Finland relations. Key cooperation areas include trade, digital innovation, clean technology, education and emerging technologies."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Who became the first Kashmiri woman to be appointed Superintendent of Central Jail Srinagar in 2026?",
+          "passage": "",
+          "options": [
+            "Saba Shawl",
+            "Hina Shamsi",
+            "Shazia Parveen",
+            "Nuzhat Gul"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "Saba Shawl became the first Kashmiri woman Superintendent of Central Jail Srinagar. Her appointment was issued through Government Order No. 145-Home of 2026 (2 March 2026). She belongs to Peerbagh in Srinagar. Shawl holds a Master's degree in Social Work and previously worked with the Indo Global Social Service Society."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Who among the following has become the 93rd Grandmaster of India?",
+          "passage": "",
+          "options": [
+            "Divya Deshmukh",
+            "V. S. Raahul",
+            "Aarav Dengala",
+            "Aaryan Varshney"
+          ],
+          "correctAnswerIndex": 2,
+          "solution": "The 16-year-old from Mumbai secured his final GM norm and crossed the 2500 Elo rating mark in February 2026 at the GM & IM Round Robin Festival in Bosnia and Herzegovina, specifically at the GM Mix Bijeljina 2026 tournament."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Who is expected to resign as the Chief Minister of Bihar and move to the Rajya Sabha according to recent reports?",
+          "passage": "",
+          "options": [
+            "Tejashwi Yadav",
+            "Nitish Kumar",
+            "Samrat Choudhary",
+            "Nityanand Rai"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "Nitish Kumar is expected to resign as the Chief Minister of Bihar and move to the Rajya Sabha. He has been one of the longest-serving Chief Ministers of Bihar. The development may lead to the selection of a new Chief Minister in Bihar soon. Leaders like Samrat Choudhary and Nityanand Rai are being discussed as possible successors. The move could significantly reshape Bihar's political landscape."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Which state has enabled offline e-crop registration to help farmers facing internet connectivity issues?",
+          "passage": "",
+          "options": [
+            "Gujarat",
+            "Madhya Pradesh",
+            "Telangana",
+            "Maharashtra"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "Maharashtra government introduced an offline facility for e-crop registration to support farmers in areas with poor internet connectivity. Farmers can take photos of their standing crops offline, which will automatically upload once the network becomes available. The system is part of the Digital Crop Survey (DCS) linked to the e-crop registration process. The initiative addresses problems like server downtime, GPS errors, and lack of connectivity in rural areas. The state aims for around 80% of crop registrations to be completed directly by farmers using the system."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "World Seagrass Day is observed on which day every year?",
+          "passage": "",
+          "options": [
+            "March 1",
+            "March 2",
+            "March 3",
+            "March 4"
+          ],
+          "correctAnswerIndex": 0,
+          "solution": "World Seagrass Day is observed on March 1 to raise awareness about seagrass conservation. Seagrass is crucial for marine biodiversity, coastline stability, and carbon absorption. The United Nations General Assembly (UNGA) declared this observance on May 22, 2022, based on Sri Lanka's proposal."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "GI-tagged Karbi Anglong Ginger, that was recently seen in news, is associated with which state?",
+          "passage": "",
+          "options": [
+            "Nagaland",
+            "Mizoram",
+            "Manipur",
+            "Assam"
+          ],
+          "correctAnswerIndex": 3,
+          "solution": "Assam flagged off its first trial export of 1.2 metric tonnes of Geographical Indication tagged Karbi Anglong Ginger to London, marking a major agricultural milestone. Karbi Anglong district produces this premium ginger variety known for strong aroma, high pungency and medicinal value. It is grown mainly in Singhasan Hills using traditional Jhum shifting cultivation and Tila farming methods. It has Geographical Indication tag, confirming its unique origin and quality. It has high essential oil content, strong earthy flavour and digestive and anti-inflammatory benefits. It is widely demanded in culinary, pharmaceutical and processing industries."
+        },
+        {
+          "section": "Current Affairs",
+          "text": "Recently, the Ashmolean Museum of the University of Oxford agreed to return a 16th-century bronze statue of which saint to India?",
+          "passage": "",
+          "options": [
+            "Nammalvar",
+            "Tirumankai Alvar",
+            "Andal",
+            "Ramanujacharya"
+          ],
+          "correctAnswerIndex": 1,
+          "solution": "The Ashmolean Museum decided to return a 16th-century bronze idol of Saint Tirumankai Alvar that originally belonged to a temple in Tamil Nadu. The idol originally belonged to the Soundararajaperumal Temple in Thadikombu, Tamil Nadu. The statue had been in the museum's collection since 1967 after being acquired from a private collector. Tirumankai Alvar is one of the twelve Alvar saints of the Vaishnavite Bhakti tradition. The case emerged after a 1957 photograph showed the idol in the temple, prompting a provenance investigation and India's request for its return."
+        }
+      ],
+      "sections": [
+        {
+          "name": "Current Affairs",
+          "key": "current-affairs"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "name": "Current Affairs",
+      "key": "current-affairs"
+    }
+  ],
+  "savedTime": "2026-04-09T12:48:58.300Z"
+}
