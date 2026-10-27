@@ -1,0 +1,22 @@
+[
+  {
+    "name": "My HLS Channel",
+    "url": "https://example.com/live/channel1.m3u8",
+    "type": "m3u8"
+  },
+  {
+    "name": "My DASH Channel",
+    "url": "https://example.com/live/channel2.mpd",
+    "type": "mpd"
+  },
+  {
+    "name": "My Trend48 Embed",
+    "url": "https://trend48.st/live-tv?ch=sonysportsnetwork3-in",
+    "type": "embed"
+  },
+  {
+    "name": "Willow",
+    "url": "https://trend48.st/live-tv?ch=willow-usa",
+    "type": "embed"
+  }
+]
