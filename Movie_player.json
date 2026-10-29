@@ -1,0 +1,28 @@
+{
+  "updated": "2026-10-29",
+  "servers": [
+    { "name": "VidRift",        "movie": "https://embed.vidrift.net/embed/movie/{id}",         "tv": "https://embed.vidrift.net/embed/tv/{id}/{s}/{e}" },
+    { "name": "VidLux",         "movie": "https://vidlux.top/embed/movie/{id}",                 "tv": "https://vidlux.top/embed/tv/{id}/{s}/{e}" },
+    { "name": "VidNest.fun",    "movie": "https://vidnest.fun/movie/{id}",                      "tv": "https://vidnest.fun/tv/{id}/{s}/{e}" },
+    { "name": "VidEm",          "movie": "https://videm.xyz/embed/movie/{id}",                  "tv": "https://videm.xyz/embed/tv/{id}/{s}/{e}" },
+    { "name": "VidNest",        "movie": "https://vidnest.pro/movie/{id}",                      "tv": "https://vidnest.pro/tv/{id}/{s}/{e}" },
+    { "name": "VidFast",        "movie": "https://vidfast.vc/movie/{id}?autoPlay=true",         "tv": "https://vidfast.vc/tv/{id}/{s}/{e}?nextButton=true&autoNext=true" },
+    { "name": "VidKing",        "movie": "https://player.vidking.ws/embed/movie/{id}?autoplay=0","tv": "https://player.vidking.ws/embed/tv/{id}/{s}/{e}?autoplay=0" },
+    { "name": "Videasy",        "movie": "https://player.videasy.ws/embed/movie/{id}",          "tv": "https://player.videasy.ws/embed/tv/{id}/{s}/{e}" },
+    { "name": "VidRock",        "movie": "https://vidrock.net/movie/{id}",                      "tv": "https://vidrock.net/tv/{id}/{s}/{e}" },
+    { "name": "VidCore",        "movie": "https://vidcore.org/embed/movie/{id}",                "tv": "https://vidcore.org/embed/tv/{id}/{s}/{e}" },
+    { "name": "VidLink",        "movie": "https://vidlink.pro/movie/{id}",                      "tv": "https://vidlink.pro/tv/{id}/{s}/{e}" },
+    { "name": "VidSrc.sh",      "movie": "https://vidsrc.sh/embed/movie/{id}",                  "tv": "https://vidsrc.sh/embed/tv/{id}/{s}/{e}" },
+    { "name": "VSEmbed(vidsrc)","movie": "https://vsembed.ru/embed/movie/{id}",                 "tv": "https://vsembed.ru/embed/tv/{id}/{s}/{e}" },
+    { "name": "VAPlayer(vidapi)","movie":"https://vaplayer.ru/embed/movie/{id}",                "tv": "https://vaplayer.ru/embed/tv/{id}/{s}/{e}" },
+    { "name": "VidSrc.to",      "movie": "https://vidsrc.to/embed/movie/{id}",                  "tv": "https://vidsrc.to/embed/tv/{id}/{s}/{e}" },
+    { "name": "VidSpark",       "movie": "https://vidspark.to/movie/{id}",                      "tv": "https://vidspark.to/tv/{id}/{s}/{e}" },
+    { "name": "2Embed",         "movie": "https://www.2embed.cc/embed/{id}",                    "tv": "https://www.2embed.cc/embedtv/{id}&s={s}&e={e}" },
+    { "name": "VidY.st",        "movie": "https://www.vidy.st/movie/{id}",                      "tv": "https://www.vidy.st/tv/{id}/{s}/{e}" },
+    { "name": "NontonGo",       "movie": "https://www.NontonGo.win/embed/movie/{id}",           "tv": "https://www.NontonGo.win/embed/tv/{id}/{s}/{e}" },
+    { "name": "CineXtream",     "movie": "https://cinextream.cc/api/embed/movie/{id}",          "tv": "https://cinextream.cc/api/embed/tv/{id}/{s}/{e}" },
+    { "name": "YapGrid",        "movie": "https://yapgrid.com/embed/movie/{id}?autoplay=1",     "tv": "https://yapgrid.com/embed/tv/{id}/{s}/{e}?autoplay=1" },
+    { "name": "EmbedMaster",    "movie": "https://embedmaster.link/movie/{id}",                 "tv": "https://embedmaster.link/tv/{id}/{s}/{e}" },
+    { "name": "NSRPlay",        "movie": "https://nsrplay.space/embed/movie/{id}",              "tv": "https://nsrplay.space/embed/tv/{id}/{s}/{e}" }
+  ]
+}
