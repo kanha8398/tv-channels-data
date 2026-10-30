@@ -20,6 +20,36 @@
       "name": "MKVCinemas",
       "search": "https://mkvcinemas.tips/?s={q}&post_type=any",
       "spaces": "plus"
+    },
+    {
+      "name": "MoviesFlix",
+      "search": "https://themoviesflix.sarl/?s={q}",
+      "spaces": "plus"
+    },
+    {
+      "name": "KatMovieHD",
+      "search": "https://new2.katmoviehd.top/?q={q}",
+      "spaces": "percent"
+    },
+    {
+      "name": "MoviesFlixFree",
+      "search": "https://moviesflixfree.xyz/?s={q}",
+      "spaces": "plus"
+    },
+    {
+      "name": "BollyFlix",
+      "search": "https://bollyflix.church/search/{q}",
+      "spaces": "plus"
+    },
+    {
+      "name": "MP4Moviez",
+      "search": "https://www.mp4moviez.deal/search/{q}.html",
+      "spaces": "percent"
+    },
+    {
+      "name": "MovieHuntBD",
+      "search": "https://moviehuntbd.site/?s={q}",
+      "spaces": "plus"
     }
   ]
 }
