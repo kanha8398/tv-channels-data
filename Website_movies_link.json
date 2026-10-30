@@ -1,0 +1,25 @@
+{
+  "web_sources": [
+    {
+      "name": "HDHub4u",
+      "search": "https://new10.hdhub4u.cl/search.html?q={q}&page={page}",
+      "spaces": "plus"
+    },
+    {
+      "name": "SSRMovies",
+      "search": "https://ssrmovies.garden/?s={q}",
+      "spaces": "plus",
+      "trailingPlus": true
+    },
+    {
+      "name": "Vegamovies",
+      "search": "https://new1.vegamovies.lease/search.html?q={q}&page={page}",
+      "spaces": "percent"
+    },
+    {
+      "name": "MKVCinemas",
+      "search": "https://mkvcinemas.tips/?s={q}&post_type=any",
+      "spaces": "plus"
+    }
+  ]
+}
