@@ -7,6 +7,51 @@
   {
     "name": "Willow Web",
     "url": "https://trend48.st/live-tv?ch=willow-usa",
-    "type": "web" 
+    "type": "web"
+  },
+  {
+    "name": "Sony Liv Hindi FHD",
+    "url": "https://sonucdn-v5.pages.dev/star.html?id=STEN3",
+    "type": "web"
+  },
+  {
+    "name": "Sony Liv English (Willow)",
+    "url": "https://sonucdn-v5.pages.dev/channel/willow",
+    "type": "web"
+  },
+  {
+    "name": "Star Sports Hindi",
+    "url": "https://sonucdn-v5.pages.dev/star?id=H2HD",
+    "type": "web"
+  },
+  {
+    "name": "Star Sports English",
+    "url": "https://sonucdn-v5.pages.dev/star?id=E2HD",
+    "type": "web"
+  },
+  {
+    "name": "Star Sports Select",
+    "url": "https://sonucdn-v5.pages.dev/star?id=SE1HD",
+    "type": "web"
+  },
+  {
+    "name": "Sony Liv 1",
+    "url": "https://sonucdn-v5.pages.dev/star.html?id=STEN1",
+    "type": "web"
+  },
+  {
+    "name": "Sony Liv 5",
+    "url": "https://sonucdn-v5.pages.dev/star.html?id=STEN5",
+    "type": "web"
+  },
+  {
+    "name": "Sony Liv Tamil",
+    "url": "https://sonucdn-v5.pages.dev/star.html?id=STENT",
+    "type": "web"
+  },
+  {
+    "name": "Sony Liv Telugu",
+    "url": "https://sonucdn-v5.pages.dev/star.html?id=STENTU",
+    "type": "web"
   }
 ]
