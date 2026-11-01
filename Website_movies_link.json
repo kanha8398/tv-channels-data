@@ -47,6 +47,11 @@
       "spaces": "percent"
     },
     {
+  "name": "ExtraMovies",
+  "search": "https://extramovies.miami/?s={q}",
+  "spaces": "plus"
+    },
+    {
       "name": "MovieHuntBD",
       "search": "https://moviehuntbd.site/?s={q}",
       "spaces": "plus"
