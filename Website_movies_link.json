@@ -13,7 +13,7 @@
     },
     {
       "name": "Vegamovies",
-      "search": "https://new1.vegamovies.lease/search.html?q={q}&page={page}",
+      "search": "https://vegamovies.lease//search.html?q={q}&page={page}",
       "spaces": "percent"
     },
     {
