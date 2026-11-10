@@ -6,6 +6,11 @@
       "spaces": "plus"
     },
     {
+  "name": "Rogmovies",
+  "search": "https://rogmovies.asia/?s={q}",
+  "spaces": "plus"
+},
+    {
       "name": "SSRMovies",
       "search": "https://ssrmovies.garden/?s={q}",
       "spaces": "plus",
@@ -13,7 +18,7 @@
     },
     {
       "name": "Vegamovies",
-      "search": "https://vegamovies.lease//search.html?q={q}&page={page}",
+      "search": "https://vegamovies.lease/search.html?q={q}&page={page}",
       "spaces": "percent"
     },
     {
